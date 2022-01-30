@@ -165,7 +165,11 @@ http://edge01eu.ekranet.com/shijaktv/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/hNAbASV.png",[$]SPIN-TV HD
 http://45.84.119.46:8022/0.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/qXHwniY.png",[$]NESER TV
-https://nesertv.live/ntv/livestream/index.m3u8
+https://monamour.agency/ntv/livestream/index.m3u8
+#EXTINF:0 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/f3ORfwL.png",[$]REAL RTV HD
+https://monamour.agency/real-tv-livsream/index.m3u8
+#EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/PwMGXHC.png",[$]TV JOHANITER GOLD HD
+https://monamour.agency/webstream554joanitr/index.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/NnXH4nt.png",[$]ALBDREAMS
 http://live.albavision.net:1123/live/albdreams.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/Bp1YOGC.png",[$]ALBANIAN TV USA
@@ -174,10 +178,6 @@ https://tna5.bozztv.com/ALBANIANTVUSA/index.m3u8|Referer=https://ssh101.com/fpla
 http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/xPlQjFa.png",[$]ARTI TV
 http://stream.logic-ks.net:6969/live/artitv/hd/24.ts
-#EXTINF:0 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/f3ORfwL.png",[$]REAL RTV HD
-https://nesertv.live/real-tv-livsream/index.m3u8
-#EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/PwMGXHC.png",[$]TV JOHANITER GOLD HD
-https://nesertv.live/webstream554joanitr/index.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/bIoO2ah.png",[$]TV SHQIPONJA
 http://ott.iptvshqipott.com:8080/live/shqiponja/tv/236.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/ierZxop.png",[$]CLUB-TV HD
@@ -204,6 +204,8 @@ https://premiummedia.al/stream/premium-channel/live.m3u8
 https://premiummedia.al/stream/premium-travel/live.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/pnfJfUh.png",[$]Zjarr TV HD
 http://93.157.62.180/ZjarrTV/mpegts|User-Agent=stream
+#EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/pnfJfUh.png",[$]Zjarr TV
+http://edge01eu.ekranet.com/scantv/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/vAeQuNq.png",[$]7 TV
 http://media.az-mediaserver.com:1935/7064/7064/chunklist.m3u8
 #EXTINF:-1 group-title="[AL]LOKALE" tvg-logo="https://i.imgur.com/w33lE2z.png",[$]TV DIELLI 
@@ -499,8 +501,6 @@ http://199.127.60.117:8081/live/klanmk/playlist.m3u8
 http://199.127.60.117:8081/live/vizionplus/playlist.m3u8
 #EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M HD
 http://199.127.60.117:8081/live/alsat/playlist.m3u8
-#EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/ZozgLG2.png",[$]RTSH SATELIT 
-http://51.91.154.19:3573/live/rtsh_sat_ott/playlist.m3u8
 #EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
 http://51.91.154.19:3573/live/rtsh_1mob_pp1/playlist.m3u8
 #EXTINF:-1 group-title="[AL]TIBO-TV" tvg-logo="https://i.imgur.com/q9gq1vh.png",[$]RTSH 2HD
@@ -1092,10 +1092,6 @@ http://95.107.132.106/out/u/393_2.m3u8
 http://95.107.132.105/out/u/44_1.m3u8
 #EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/HROdCKO.png",[$]ELRODI TV
 http://95.107.132.105/out/u/156_1.m3u8
-#EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/qXHwniY.png",[$]NESER TV
-http://195.154.252.221:8000/play/eeeeeeeeeeeee/index.m3u8
-#EXTINF:0 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/g4aVy7U.png",[$]FRAME TV
-http://195.154.252.221:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/enAAqFk.png",========>>KULTURE<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?my04
 #EXTINF:-1 group-title="[AL]MY-TRING" tvg-logo="https://i.imgur.com/SVcbvny.png",[$]TRING WOLRD
@@ -1186,7 +1182,7 @@ http://185.204.32.4:9981/stream/channelid/107779299
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="https://i.imgur.com/mwV2Y5u.png",[$]TOP NEWS HD
 http://93.157.62.180/TopNews/mpegts|User-Agent=stream
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="https://i.imgur.com/mwV2Y5u.png",[$]TOP NEWS
-https://streamlive2021.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/embed/video/x6inuzo
+https://stream-03.dc3.dailymotion.com/sec(Rt6MMB82ZLcHsd-t3Q1irSMkDPX8IAuZ8dHNWmctLVM)/dm/3/x6inuzo/s/live-1.m3u8
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="https://i.imgur.com/mwV2Y5u.png",[$]TOP NEWS (test)
 http://185.204.32.4:9981/stream/channelid/321131333
 #EXTINF:0 group-title="[AL]LAJME" tvg-logo="https://i.imgur.com/rWoIaht.png",[$]ABC NEWS HD
@@ -1286,8 +1282,6 @@ http://93.157.62.180/MelodyTV/index.m3u8|User-Agent=stream
 http://93.157.62.180/SupersonicTV/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/g4aVy7U.png",[$]FRAME-TV HD
 http://93.157.62.180/TVFrame/index.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/g4aVy7U.png",[$]FRAME TV 
-http://195.154.252.221:8000/play/a002/index.m3u8
 #EXTINF:0 group-title="[AL]MUZIKE" tvg-logo="https://i.ibb.co/Z81Vvsj/shota.png",[$]TV SHOTA HD
 https://tinyurl.com/shotatv
 #EXTINF:-1 group-title="[AL]MUZIKE" tvg-logo="https://i.imgur.com/cEj8uEt.png",[$]ALB MUSIC HD
@@ -1489,16 +1483,20 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/623607/15364602001/tvokids/maste
 #EXTINF:-1 group-title="[AL]FEMIJE" tvg-logo="https://i.imgur.com/5DtqE5Q.png",[$]KABILLION
 http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 
-#EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/xuHTCEz.png",[$]BIG BROTHER VIP 1HD
+#EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/xuHTCEz.png",[$]BIG BROTHER VIP 1FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/289613
-#EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/9IwIvge.png",[$]BIG BROTHER VIP 2HD
+#EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/9IwIvge.png",[$]BIG BROTHER VIP 2FHD
 http://iptvtree.net:8080/outputofflinechecker/KSzMbVJb4mdUXt.mANY6rUNBJJJJ/289614
+#EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/xuHTCEz.png",[$]BIG BROTHER VIP 1HD
+http://62.210.152.92:25461/kanale2/Ass/76|User-Agent=stream
 #EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/Mck41LL.png",[$]BIG BROTHER VIP 1
 http://45.58.122.106:8081/live/b1/playlist.m3u8
 #EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/fZiyRtP.png",[$]BIG BROTHER VIP 2
 http://45.58.122.106:8081/live/b2/playlist.m3u8
 #EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/Mck41LL.png",[$]BIG BROTHER VIP 1(TEST)
-http://62.210.152.92:25461/kanale2/Ass/76|User-Agent=stream
+http://45.58.122.106:8081/live/bb1/playlist.m3u8
+#EXTINF:0 group-title="[AL]BIG BROTHER VIP" tvg-logo="https://i.imgur.com/fZiyRtP.png",[$]BIG BROTHER VIP 2(TEST)
+http://45.58.122.106:8081/live/bb2/playlist.m3u8
 
 #EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/T3FdprQ.png",========>>POPCORN FILM<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?filma0
@@ -1651,7 +1649,7 @@ http://93.157.62.180/ArtKino2/mpegts|User-Agent=stream
 #EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/dKLJFsy.png",[$]ART-KINO 3HD
 http://93.157.62.180/ArtKino3/mpegts|User-Agent=stream
 #EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/Epqw3SU.png",[$]FX MEDIA HD
-https://nesertv.live/fxmediaweb5548/index.m3u8|User-Agent=stream
+https://monamour.agency/fxmediaweb5548/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/fKRoYUk.png",[$]ILIRIA FILM HD
 http://93.157.62.180/IliriaFilm/mpegts|User-Agent=stream
 #EXTINF:0 group-title="[AL]FILMA" tvg-logo="https://i.imgur.com/7xKVgU4.png",[$]FILM GOLD HD
@@ -1949,15 +1947,15 @@ http://95.107.132.106/out/u/699_2.m3u8
 http://95.107.132.106/out/u/708_3.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/pTHItVb.png",========>>SUPER SPORT<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport3
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/1RwgYM3.png",[$]SUPER SPORT 1HD(VIP) 
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/UWTpW21.png",[$]SUPER SPORT 1HD(VIP) 
 http://stream.com-iptv.com:8080/SS1HD/index.m3u8?token=test
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/yh39hF0.png",[$]SUPER SPORT 2HD(VIP) 
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/o1C4usx.png",[$]SUPER SPORT 2HD(VIP) 
 http://stream.com-iptv.com:8080/SS2HD/index.m3u8?token=test
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/WcjcN4M.png",[$]SUPER SPORT 3HD(VIP) 
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/ZklSK4O.png",[$]SUPER SPORT 3HD(VIP) 
 http://stream.com-iptv.com:8080/SS3HD/index.m3u8?token=test
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/EyhvUMD.png",[$]SUPER SPORT 4HD(VIP) 
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/5q2bu31.png",[$]SUPER SPORT 4HD(VIP) 
 http://stream.com-iptv.com:8080/SS4HD/index.m3u8?token=test
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/6SladTh.png",[$]SUPER SPORT 5HD(VIP) 
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/dj10XJ4.png",[$]SUPER SPORT 5HD(VIP) 
 http://stream.com-iptv.com:8080/SS5HD/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/uVNwXjS.png",[$]SUPER SPORT 1HD 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/178.ts|User-Agent=MX Player
@@ -1966,7 +1964,7 @@ http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/179.ts|User-Agent=MX Player
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Bvffric.png",[$]SUPER SPORT 3HD 
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/180.ts|User-Agent=MX Player
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/OCe0PNo.png",[$]SUPER SPORT 4HD 
-http://45.58.122.106:8081/live/ss4/playlist.m3u8?
+http://stream.com-iptv.com:8080/SS4HD/mpegts?token=test
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/OjdOi0r.png",[$]SUPER SPORT 5HD 
 http://93.157.62.180/Supersport5/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/TOB4krE.png",[$]SUPER SPORT 6HD 
@@ -1983,12 +1981,14 @@ http://45.58.122.106:8081/live/ss4/playlist.m3u8
 http://45.58.122.106:8081/live/ss5/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/TL7jVje.png",[$]SS 6HD
 http://45.58.122.106:8081/live/ss6/playlist.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/j7y5G1T.png",[$]SS 1HD(TEST)
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/fUu3y17.png",[$]SS 1HD(TEST)
 http://webtv360.org:8000/live:687aff41af3421a4/KJF4Rfretjc13tghp/9669.ts
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/fGz7bOh.png",[$]SS 2HD(TEST)
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/E2r2BYc.png",[$]SS 2HD(TEST)
 http://webtv360.org:8000/live:687aff41af3421a4/KJF4Rfretjc13tghp/9670.ts
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/RApShhr.png",[$]SS 3HD(TEST)
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/nxgGE5r.png",[$]SS 3HD(TEST)
 http://webtv360.org:8000/live:687aff41af3421a4/KJF4Rfretjc13tghp/9671.ts
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/1jwmK9B.png",[$]SS 4HD(TEST)
+http://dl.dropboxusercontent.com/s/j7ypmwhjibhq5oy/offline.mp4?oly
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/xeXHpUF.png",========>>TRING SPORT<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport4
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XEz5qYa.png",[$]TRING SPORT NEWS HD 
@@ -2083,8 +2083,18 @@ http://84.22.33.214/ArenaSport3/index.m3u8|User-Agent=stream
 http://84.22.33.214/ArenaSport4/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/GzX8AQv.png",[$]ARENA SPORT 5HD
 http://84.22.33.214/ArenaSport5/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/fp9FZai.png",========>>SPORT-TV<<========
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/NHQVgiJ.png",========>>SPORT KLUB<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport10
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/kh7cGM1.png",[$]SPORT KLUB HD
+http://188.124.211.212:7373/play/a082
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/kh7cGM1.png",[$]SPORT KLUB 1HD
+http://188.124.211.212:7373/play/a083
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/CNuOJCa.png",[$]SPORT KLUB 2HD
+http://188.124.211.212:7373/play/a084
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XpyvcQp.png",[$]SPORT KLUB 3HD 
+http://188.124.211.212:7373/play/a085
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/fp9FZai.png",========>>SPORT-TV<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport11
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/lLUDa8S.png",[$]SPORT-TV 1HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58487
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT-TV 2HD
@@ -2096,7 +2106,7 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58490
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/GgJrV2p.png",[$]SPORT-TV 5HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/58491
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/NOQUckL.png",========>>TSN SPORT<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport11
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport12
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/LvjAewk.png",[$]TSN 1HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22195
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/wmohWE3.png",[$]TSN 2HD
@@ -2108,15 +2118,51 @@ http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22198
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/J2Ks0F3.png",[$]TSN 5HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/22199
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/i2DqmAm.png",========>>FOX SPORTS<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport12
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport13
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/weQDyCT.png",[$]FOX SPORTS 1HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/49265
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/GrRfGBP.png",[$]FOX SPORTS 2HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/49262
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/2xay8pm.png",[$]FOX SPORTS 3HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/49263
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Gv6FcGW.png",========>>ESPN SPORT<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport14
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Gv6FcGW.png",[$]ESPN HD
+http://38.91.57.12:2082/espn/index.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/J7Bm1Ay.png",[$]ESPN 2HD
+http://38.91.57.12:2082/espn2/index.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/FZWohI1.png",[$]ESPN 3HD
+http://38.91.57.12:2082/espn3/index.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/3AX81Hk.png",========>>TRUE SPORT<<========
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport15
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/uJ1b5Fx.png",[$]BEIN SPORTS 1HD
+https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XPnEorx.png",[$]BEIN SPORTS 2HD
+https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/sAImXFz.png",[$]TRUE PREMIER 1HD 
+https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/l9EXxV0.png",[$]TRUE PREMIER 2HD 
+https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/z0BL1mM.png",[$]TRUE PREMIER 3HD 
+https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/O2pVTdf.png",[$]TRUE PREMIER 4HD 
+https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/IUoHIly.png",[$]TRUE SPORTS HD 
+https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/5V9yCCA.png",[$]TRUE SPORTS HD2 
+https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/g6BXeLy.png",[$]TRUE SPORTS HD3 
+https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/V4AU51Z.png",[$]TRUE SPORTS HD4
+https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/KhM9Pwt.png",[$]TRUE SPORTS HD5
+https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/9GEhhB4.png",[$]TRUE SPORTS HD6
+https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/yJDRMI3.png",[$]TRUE SPORTS HD7
+https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/snpEP0D.png",========>>BEIN SPORTS<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport13
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport16
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/h4K6ytQ.png",[$]BEIN SPORTS PREMIUM 1HD
 http://rented2.mireasa.live/cdn/premium98/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/mZw4eBB.png",[$]BEIN SPORTS PREMIUM 2HD
@@ -2142,7 +2188,7 @@ http://rented2.mireasa.live/cdn/premium61/chunks.m3u8|Referer=https://widevine.l
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/aPv27NP.png",[$]BEIN SPORTS 2HD ENGLISH
 http://rented2.mireasa.live/cdn/premium46/chunks.m3u8|Referer=https://widevine.licenses4.me/
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/RLxXKWn.png",========>>SPORT PLUS<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport14
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport17
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/P9jURyQ.png",[$]SPORT PLUS 1HD
 http://95.67.12.179:9001
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/UudayAx.png",[$]SPORT PLUS 2HD
@@ -2150,15 +2196,19 @@ http://95.67.12.179:9003
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XqLbwtc.png",[$]SPORT PLUS 3HD
 http://str.smartip-tv.net:8888/SFR_SPORT_2_HD/index.m3u8?token=test
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/bStyTiW.png",[$]SPORT PLUS 4HD
-http://5.206.237.66:9000/play/a076|User-Agent=stream
+http://38.91.57.12:2082/tsn1/index.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Wo5ZErN.png",[$]SPORT PLUS 5HD
-http://5.206.237.66:9000/play/a077|User-Agent=stream
+http://38.91.57.12:2082/tsn2/index.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/3JBC7MF.png",[$]SPORT PLUS 6HD
-http://5.206.237.66:9000/play/a073|User-Agent=stream
+http://38.91.57.12:2082/tsn3/index.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Rp7vXVy.png",[$]SPORT PLUS 7HD
-http://5.206.237.66:9000/play/a074|User-Agent=stream
+http://38.91.57.12:2082/tsn4/index.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 8HD
+http://38.91.57.12:2082/tsn5/index.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/BasKGbP.png",[$]SPORT PLUS 9HD
+http://158.69.117.205:9039/eurosport2/index.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/rTjA3Sk.png",========>>SPORT LIVE<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport15
+https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport18
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Jtd8YWZ.png",[$]SPORT LIVE 1HD
 http://93.152.174.144:4000/play/sporttv1/index.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/uJyA4LR.png",[$]SPORT LIVE 2HD
@@ -2180,17 +2230,17 @@ http://matiasstornini00.shortcm.li:80/ch2.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/xPOe2gj.png",[$]SPORT LIVE 10HD
 http://matiasstornini00.shortcm.li:80/ch3.m3u8
 
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/4Hdu0Lz.png",[$]SUPER SPORT 1HD(VIP)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/2bQDF0E.png",[$]SUPER SPORT 1HD(VIP)
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2170
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/caCHjhz.png",[$]SUPER SPORT 2HD(VIP)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/MmaR5Ak.png",[$]SUPER SPORT 2HD(VIP)
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2169
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/NIzo0bD.png",[$]SUPER SPORT 3HD(VIP)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/DhQe6zC.png",[$]SUPER SPORT 3HD(VIP)
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2200
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/TeQBzsj.png",[$]SUPER SPORT 4HD(VIP)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/T4XfFBB.png",[$]SUPER SPORT 4HD(VIP)
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2199
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/lQ80XIU.png",[$]SUPER SPORT 5HD(VIP)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/6JnqckL.png",[$]SUPER SPORT 5HD(VIP)
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2198
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/2rMiNcJ.png",[$]SUPER SPORT 6HD(VIP)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/X8CxBOH.png",[$]SUPER SPORT 6HD(VIP)
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2197
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/nMeeRXH.png",[$]SUPER SPORT 1HD 
 http://cloudcdn.city:80/nzxu1R92/G13icN67/4198
@@ -2202,13 +2252,13 @@ http://cloudcdn.city:80/nzxu1R92/G13icN67/4200
 http://cloudcdn.city:80/nzxu1R92/G13icN67/4201
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/Txa5wVt.png",[$]SUPER SPORT 5HD
 http://cloudcdn.city:80/nzxu1R92/G13icN67/9373
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/bdEwdYQ.png",[$]SS 1HD(test)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/fUu3y17.png",[$]SS 1HD(test)
 http://185.226.88.6:11026/live/tvalb/albtv/178.ts|User-Agent=MX Player
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/jC1wjV5.png",[$]SS 2HD(test)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/E2r2BYc.png",[$]SS 2HD(test)
 http://185.226.88.6:11026/live/tvalb/albtv/179.ts|User-Agent=MX Player
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/woJjeQ6.png",[$]SS 3HD(test)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/nxgGE5r.png",[$]SS 3HD(test)
 http://185.226.88.6:11026/live/tvalb/albtv/180.ts|User-Agent=MX Player
-#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/KvzMAK7.png",[$]SS 4HD(test)
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/1jwmK9B.png",[$]SS 4HD(test)
 http://dl.dropboxusercontent.com/s/j7ypmwhjibhq5oy/offline.mp4?
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/T75yHmB.png",[$]TRING SPORT NEWS HD(VIP)
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/2192
@@ -2304,6 +2354,8 @@ http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/37
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3712
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/XR7EygZ.png",[$]ESPN 3HD
 http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3711
+#EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/vTMBuS8.png",[$]ESPN 4HD
+http://ip.bosszx.net:80/yamahasdfsdsdsdfsfdsfds/2NYlY9V1Eocxvxcvxcvxbcvbcv66a/3710
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/weQDyCT.png",[$]FOX SPORTS HD
 http://klickmode.xyz:25461/unpluggedtv/OLUNpwpot3/49264
 #EXTINF:0 group-title="[AL]SPORTE(VIP)" tvg-logo="https://i.imgur.com/GrRfGBP.png",[$]FOX SPORTS 2HD
@@ -2828,6 +2880,16 @@ http://catchup.iptv.iinet.rs/playlist.m3u8?id=209&token=dG9rZW49LVkzblctbGw0RUdz
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=219&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0
 #EXTINF:0 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/q8mkfXA.png",[$]EPIC DRAMA
 http://catchup.iptv.iinet.rs/playlist.m3u8?id=220&token=dG9rZW49LVkzblctbGw0RUdzSWhVWWdDUlNiUjZMbGpBbkVUNzgmaWQ9NzImc2VjcmV0
+#EXTINF:0 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/CaIeb4Q.png",[$]CINESTAR-TV 1HD
+http://188.124.211.212:7373/play/a071
+#EXTINF:0 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/kb0uA2u.png",[$]CINESTAR-TV 2HD
+http://188.124.211.212:7373/play/a086
+#EXTINF:0 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/Yp3qjNH.png",[$]CINESTAR-TV ACTION HD
+http://188.124.211.212:7373/play/a06n
+#EXTINF:0 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/OAooEwv.png",[$]CINESTAR-TV FANTASY HD
+http://188.124.211.212:7373/play/a072
+#EXTINF:0 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/5giQ7eP.png",[$]CINESTAR-TV COMEDY HD
+http://188.124.211.212:7373/play/a07p
 #EXTINF:-1 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/9VWEl6f.png",==>>[KANALE RUSE]<<==
 https://videos.files.wordpress.com/Xoowu0wA/europeanunionnationalantheminstrumentalwithwavingflag_full-hd_dvd.mp4?8
 #EXTINF:-1 group-title="[WL]KANALE BOTERORE" tvg-logo="https://i.imgur.com/25h0QmG.png",[$]STAR CINEMA HD
@@ -3639,12 +3701,12 @@ http://193.33.39.106:8784
 #EXTINF:-1 group-title="[RO]SPORTE ROMUNE" tvg-logo="http://www.100automoto.tv/images/yootheme/logo.png",[$]AUTOMOTO TV 
 http://100automoto.tv:1935/bgtv1/autotv/playlist.m3u8
 #EXTINF:-1 group-title="[RO]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/TnLSwJT.png",[$]CANAL MOTOR
-https://digicom.hls.iptvdc.com/motorstv/index.m3u8
+/https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
 #EXTINF:0 group-title="[HU]SPORTE HUNGAREZE" tvg-logo="https://i.imgur.com/8hxoyEN.png",[$]DIGI SPORT 1HD
-http://81.166.66.228:8001/1:0:1:49C:3:1:E082F62:0:0:0:
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/62775
 #EXTINF:0 group-title="[HU]SPORTE HUNGAREZE" tvg-logo="https://i.imgur.com/6KWjZ7V.png",[$]DIGI SPORT 2HD
-http://televizoro.tk:25461/roforum.net/roforum.net/14720?
+http://bestavb.top:8008/Daia_Florin/1Unlimited19/33800?
 #EXTINF:0 group-title="[HU]SPORTE HUNGAREZE" tvg-logo="https://i.imgur.com/Zn4Qut5.png",[$]DIGI SPORT 3HD
 http://5.255.90.252:5004/play/a06v
 #EXTINF:0 group-title="[HU]SPORTE HUNGAREZE" tvg-logo="https://i.imgur.com/fGl0nCY.png",[$]M4 SPORT HD
@@ -3793,7 +3855,7 @@ https://aquagm.qarva.info:8074/CHANNEL532/BITRATE2/playlist.m3u8|Referer=https:/
 #EXTINF:0 group-title="[IN]SPORTE INDIANE" tvg-logo="https://i.imgur.com/ixcFuBm.png",[$]SILK SPORT 3HD
 https://aquagm.qarva.info:8074/CHANNEL634/BITRATE2/playlist.m3u8|Referer=https://silktv.ge
 #EXTINF:0 group-title="[IN]SPORTE INDIANE" tvg-logo="https://i.imgur.com/WsJfdz2.png",[$]PTV SPORTS HD
-http://221.120.204.4/LOCKLE-ptv-SPORTS/index.m3u8?token=test
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8?token=test
 #EXTINF:0 group-title="[IN]SPORTE INDIANE" tvg-logo="https://i.imgur.com/7vQSiHp.png",[$]GEO SUPER HD
 http://221.120.204.4/geo-super-LOCKLE/index.m3u8
 #EXTINF:0 group-title="[IN]SPORTE INDIANE" tvg-logo="https://i.imgur.com/jjkt83h.png",[$]A SPORTS HD
@@ -3955,6 +4017,12 @@ https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
 http://185.96.176.139:8080/superone/index.m3u8
 #EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/ZxPIcOG.png",[$]SECRET CIRCLE HD
 http://185.157.161.141:22222/play/a058|User-Agent=stream
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/Oe0j5Pk.png",[$]XY MAX HD
+http://188.124.211.212:7373/play/a07k
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/mpkrd9b.png",[$]XY PLUS HD
+http://188.124.211.212:7373/play/a07s
+#EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/fDj8IV1.png",[$]PASSION XXX
+http://188.124.211.212:7373/play/a07o
 #EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/fEvFLXn.png",[$]PLAYBOY HD
 http://asbx.xyz:80/bruna/123456/63049
 #EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/WFXiBI6.png",[$]SEXY HOT HD
