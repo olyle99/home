@@ -18,7 +18,7 @@ http://171.22.150.202:2040/live/klanplusmob/playlist.m3u8?
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/116.ts?|User-Agent=ExoPlayer Lib
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M 
 http://62.162.79.7:8001/play/s12
-#EXTINF:-1 group-title="[AL]KOMBETARE tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA HD
+#EXTINF:-1 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA HD
 http://185.226.88.6:1026/live/Wb8XNkyIJn/UkPn4unfnR/110.ts?|User-Agent=ExoPlayer Lib
 #EXTINF:0 group-title="[AL]KOMBETARE" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA 
 http://199.127.60.117:8081/live/klanks/playlist.m3u8?
@@ -215,9 +215,9 @@ http://171.22.150.202:2040/live/rtsh1mob/playlist.m3u8
 http://171.22.150.202:2040/live/rtshfilmmob/playlist.m3u8
 #EXTINF:-1 group-title="[AL]KLANI-IM" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV
 http://194.15.225.98:8000/play/a004
-#EXTINF:0 group-title="[AL]RTK" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1HD
+#EXTINF:0 group-title="[AL]KLANI-IM" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1HD
 http://194.15.225.98:8000/play/a002
-#EXTINF:0 group-title="[AL]RTK" tvg-logo="https://i.imgur.com/nVMoS8b.png",[$]RTK 2HD
+#EXTINF:0 group-title="[AL]KLANI-IM" tvg-logo="https://i.imgur.com/nVMoS8b.png",[$]RTK 2HD
 http://194.15.225.98:8000/play/a003
 #EXTINF:-1 group-title="[AL]KLANI-IM" tvg-logo="https://i.imgur.com/aQP2aPx.png",[$]T7 HD
 http://171.22.150.202:2040/live/t7pp1/playlist.m3u8
@@ -3930,6 +3930,8 @@ http://185.96.176.139:8080/superone/index.m3u8
 http://194.190.78.81:8080/shelk/index.m3u8
 #EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь 
 http://46.174.83.66/Russkaya_Noch/index.m3u8
+#EXTINF:-1 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/3RKasL4.png",[$]HUSTLER HD
+http://193.33.240.8:8080/hustler_hd/index.m3u8
 #EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/z8epcDk.png",[$]X DORCEL HD
 http://51.68.191.31:1212/701/video.m3u8?token=X3ea770e83
 #EXTINF:0 group-title="[WL]ADULT[+18]" tvg-logo="https://i.imgur.com/xWj1bQZ.png",[$]REDLIGHT HD
