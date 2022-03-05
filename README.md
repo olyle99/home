@@ -11390,7 +11390,7 @@ http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_ash
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/MDaEpuF.png",[$]Pornpros-13
 http://videos.galleries.pornpros.com/galleries.pornpros.com/htdocs/fb01/fb01_dillioncarter120814/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?thai
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Wtbhkgd.png",[$]THAI-PORN X1
 https://ckcdnc1.cdn2020.com/video/m3u8/2020/05/28/81c3324d/index.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Wtbhkgd.png",[$]THAI-PORN X2
@@ -11604,7 +11604,7 @@ https://v1s.cdn2020.com:443/video/m3u8/2019/07/28/77052de8/index.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Wtbhkgd.png",[$]THAI-PORN X105
 https://ckcdnc1.cdn2020.com:443/video/m3u8/2019/08/19/1732a3e7/index.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?4
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?5
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (CHICHI MEDINA)
 https://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_chichi_medina_8minutes.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (CHLOE FOSTER)
@@ -11740,7 +11740,7 @@ http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_jaye_austin_8min
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (ALAINA DAWSON)
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_alaina_dawson_8minute.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?9
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?6
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/cEkKT3t.png",[$]MOM-XXX (KATHY SYBIL)
 http://momxxx.org/momxxx_mp4/mom_kathy_sybil_RU031417_720p_2600.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/cEkKT3t.png",[$]MOM-XXX (TERRA YENNA)
@@ -11754,7 +11754,7 @@ http://momxxx.org/momxxx_mp4/mom_yasmin_scott_RU061416_720p_2600.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/cEkKT3t.png",[$]MOM-XXX (ANNIE TERRA)
 http://momxxx.org/momxxx_mp4/mom_annie_terra_RU022516_720p_4000.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?11
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?7
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/X0dR8J9.png",[$]CUM-4K (ATHENA FARRIS)
 https://videos.files.wordpress.com/EBP7O3w0/athenafarris_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/X0dR8J9.png",[$]CUM-4K (ADRIA GAE)
@@ -11800,7 +11800,7 @@ https://videos.files.wordpress.com/jScjkmWc/march_madness_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/X0dR8J9.png",[$]CUM-4K (PAIGE OWENS)
 https://videos.files.wordpress.com/RIJnoPHv/paigeowens_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?12
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EYRH1R1.png",[$]PRINCESS-CUM (CHLOE TEMPLE)
 https://videos.files.wordpress.com/UWnzbqPm/chloetemple_pm_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EYRH1R1.png",[$]PRINCESS-CUM (DANA WOLF)
@@ -11828,7 +11828,7 @@ https://videos.files.wordpress.com/m9D5Hp7u/jessicarex_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/EYRH1R1.png",[$]PRINCESS-CUM (MEGAN SAGE)
 https://videos.files.wordpress.com/gOB47KIG/megansage_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?13
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?9
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Whf2RIe.png",[$]BBC-PIE (ANGEL YOUNGS)
 https://videos.files.wordpress.com/wlQTxkJ9/angelyoungs_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Whf2RIe.png",[$]BBC-PIE (ALEXIA ANDERS)
@@ -11850,7 +11850,7 @@ https://videos.files.wordpress.com/yvfaxLqD/kyler_quinn_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Whf2RIe.png",[$]BBC-PIE (VERONICA VELLA)
 https://videos.files.wordpress.com/8wiJHmeZ/veronicavella_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?14
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?10
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3bcPGRi.png",[$]STEP-SIBILINGS (ROSALYN SPHINX)
 https://videos.files.wordpress.com/inT5ROFQ/rosalynsphinx_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3bcPGRi.png",[$]STEP-SIBILINGS (KYLER QUINN)
@@ -11868,7 +11868,7 @@ https://videos.files.wordpress.com/Bd39he9k/carmencaliente_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3bcPGRi.png",[$]STEP-SIBILINGS (BAILEY BROOKE & LUCIE CLINE) 
 http://1465.vod.adultiptv.net/ph59c5ba60aaf06/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?17
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?11
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Elsa Jean & Hannah Hays)
 http://images.nubiles-porn.com/videos/promiscuous_sisters/videos/brattysis_promiscuous_sisters_long_1280.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Izzy Bell)
@@ -11881,9 +11881,18 @@ http://images.nubiles-porn.com/videos/money_for_honey/videos/brattysis_money_for
 http://images.nubiles-porn.com/videos/step_sister_creampie/videos/brattysis_step_sister_creampie_long_1280.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Jasmine Callipygiah)
 http://images.nubiles-porn.com/videos/take_me/videos/brattysis_take_me_long_1280.mp4
-#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (JESSIE SAINT)
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Uma Jolie)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/22262.mkv
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Alina Lopez)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/22263.mkv
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Lost A Bet)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/22264.mkv
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Jessie Saint)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/22265.mkv
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Mackenzie Moss)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/22266.mkv
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?20
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?12
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3ljQ0Zi.png",[$]KINKY-FAMILY (ATHENA FARRIS)
 https://videos.files.wordpress.com/xRqokruW/athenafarriskinky_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3ljQ0Zi.png",[$]KINKY-FAMILY (ELIZA IBARRA)
@@ -11899,7 +11908,7 @@ https://videos.files.wordpress.com/UplRXnKZ/zoeblom_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3ljQ0Zi.png",[$]KINKY-FAMILY (ASHLEY LANE)
 https://videos.files.wordpress.com/aj5m5SID/ashleylane_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?21
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?13
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Wl8Em5W.png",[$]FAMILY-PIES (ANGELICA CRUZ)
 https://videos.files.wordpress.com/NkKuJBCr/angelicacruz_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Wl8Em5W.png",[$]FAMILY-PIES (HIME MARIE)
@@ -11933,7 +11942,385 @@ https://videos.files.wordpress.com/WMa8uBwW/lexilore_violetrain_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Wl8Em5W.png",[$]FAMILY-PIES (TIFFANY TATUM)
 https://videos.files.wordpress.com/5aGH09Cn/tiffanytatum_mp4_dvd.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?25
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?14
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 01
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4760.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 02
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4759.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 03
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4758.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 04
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4757.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 05
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4756.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 06
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4755.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 07
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4754.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 08
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4753.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 09
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4752.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 10
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4751.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 11
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4750.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 12
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4749.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 13
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4748.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 14
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4747.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 15
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4746.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 16
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4745.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 17
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4744.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 18
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4743.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 19
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4742.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 20
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4741.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 21
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4740.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 22
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4739.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 23
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4738.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 24
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4737.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 25
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4736.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 26
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4735.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 27
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4734.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 28
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4733.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 29
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4732.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 30
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4726.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 31
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4731.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 32
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4730.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 33
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4729.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 34
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4728.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/ZiRlei5.png",[$]BLACKED.COM 35
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4727.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?15
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 01
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4784.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 02
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4783.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 03
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4782.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 04
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4781.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 05
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4780.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 06
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4779.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 07
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4778.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 08
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4777.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 09
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4776.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 10
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4775.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 11
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4774.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 12
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4773.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 13
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4772.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 14
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4771.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 15
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4770.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 16
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4769.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 17
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4768.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 18
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4767.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 19
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4766.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 20
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4765.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 21
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4764.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 22
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4763.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 23
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4762.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 24
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4761.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/8xuKKaB.png",[$]FAKE-TAXI 25
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/5223.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?16
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ADDIE ANDREWS)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17534.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ADREINA DELUXE)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17535.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ALICE LIV)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17536.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ANYA OLSEN)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17537.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ARIETTA ADAMS)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17538.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ARYANA AMISTA)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17539.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (AUTUMN FALLS)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17540.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (CHLOE CHERRY)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17541.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (CLAIRE BLACK)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17543.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (CLAIRE BLACK 2)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17542.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (DAPHNE DARE)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17544.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ELLA KAYLA)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17545.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (EMMA HIX)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17546.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (JENNA FOXX)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17547.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (JORDY LOVE)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17548.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (KALI KENDRA)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17549.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (KANDRA COLLINS)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17550.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (KATE KENNEDY)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17551.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (LENA PAUL)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17552.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (MIA SUNNY)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17553.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (MIRANDA MILLER)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17554.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (RACHAEL CAVILLI)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17555.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (ROSALYN SPHINX)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17556.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (SARAI MINX)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17557.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (SERENA SKYE)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17558.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (SERENA SOFIE)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17559.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (SOPHIE REYEZ)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17560.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (VALENTINA JEWELS)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17561.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (VICTORIA STEFFANIE)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17562.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (VINA SKYE)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17563.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/hdsOD3q.png",[$]MOFOS (VINNA REED)
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/17564.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?17
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 01
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12347.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 02
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12346.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 03
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12345.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 04
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12344.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 05
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12343.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 06
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12342.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 07
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12341.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 08
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12340.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 09
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12339.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 10
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12338.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 11
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12337.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 12
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12336.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 13
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12335.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 14
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12334.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 15
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12333.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 16
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12332.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 17
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12331.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 18
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12330.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 19
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12329.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 20
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12328.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 21
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12327.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 22
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12326.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 23
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12325.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 24
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12324.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 25
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12323.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 26
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12322.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 27
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12321.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 28
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12320.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 29
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12319.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 30
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12318.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 31
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12317.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 32
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12316.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 33
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12315.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 34
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12314.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/zwaYGl7.png",[$]NAUGHTY-AMERICA 35
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/12313.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?18
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 01
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4725.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 02
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4724.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 03
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4723.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 04
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4722.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 05
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4721.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 06 
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4720.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 07
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4719.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 08
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4718.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 09
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4717.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 10
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4716.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 11
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4715.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 12
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4714.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 13
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4713.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 14
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4712.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 15
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4711.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 16
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4710.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 17
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4709.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 18
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4708.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 19
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4707.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 20
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4706.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 21
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4705.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 22
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4704.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 23
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4703.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 24
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4702.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/CukJTnp.png",[$]NUBILES.NET 25
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4701.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?19
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 01
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4700.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 02
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4699.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 03
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4698.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 04
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4697.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 05
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4696.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 06
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4695.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 07
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4694.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 08
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4693.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 09
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4692.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 10
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4691.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 11
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4690.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 12
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4689.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 13
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4688.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 14
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4687.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 15
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4686.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 16
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4685.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 17
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4684.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 18
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4683.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 19
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4682.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 20
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4681.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 21
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4680.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 22
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4679.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 23
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4678.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 24
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4677.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 25
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4676.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 26
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4675.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 27 
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4674.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 28
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4673.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 29
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4672.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 30
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4671.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 31
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4670.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/14l8ave.png",[$]PENTHOUSE 32
+http://heliostv.ddns.net:80/movie/9ESUdOYO9Y/bugSyNm4q4/4669.mp4
+#EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?20
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/z1BoPrM.png",[$]Exotic4K-01
 http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_vivicajohnsosn051514/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/z1BoPrM.png",[$]Exotic4K-02
@@ -11957,7 +12344,7 @@ http://videos.galleries.pornpros.com/galleries.exotic4k.com/htdocs/fb01/fb01_cas
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/z1BoPrM.png",[$]Exotic4K-11
 http://1244.vod.redtraffic.xyz/ph578d2c549906b/play.m3u8
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?26
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?21
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3jmx9pg.png",[$]Tiny4K-01
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_sabrinabanks071414/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3jmx9pg.png",[$]Tiny4K-02
@@ -11981,7 +12368,7 @@ http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_dakot
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3jmx9pg.png",[$]Tiny4K-11
 http://videos.galleries.pornpros.com/galleries.tiny4k.com/htdocs/fb01/fb01_chloeamour022714/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?27
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?22
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3u9Gcn8.png",[$]FANTASY-HD1 
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb02/fb02_ellamilano/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3u9Gcn8.png",[$]FANTASY-HD2
@@ -11999,7 +12386,7 @@ http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_co
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3u9Gcn8.png",[$]FANTASY-HD8
 http://videos.galleries.pornpros.com/galleries.fantasyhd.com/htdocs/fb01/fb01_emilygrey080514/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?28
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?23
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/r2QecbM.png",[$]CASTING-COUCH HD1
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb02/fb02_rachel/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/r2QecbM.png",[$]CASTING-COUCH HD2
@@ -12015,7 +12402,7 @@ http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/r2QecbM.png",[$]CASTING-COUCH HD7
 http://videos.galleries.pornpros.com/galleries.castingcouch-x.com/htdocs/fb01/fb01_dillioncarter121214/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?29
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?24
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/k5gpCp2.png",[$]POVD-01
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_keishagrey061614/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/k5gpCp2.png",[$]POVD-02
@@ -12035,7 +12422,7 @@ http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_taylorw
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/k5gpCp2.png",[$]POVD-09
 http://videos.galleries.pornpros.com/galleries.povd.com/htdocs/fb01/fb01_giannanicole051914/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?30
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?25
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/l8H2T2I.png",[$]PureMature-01 
 http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb02/fb02_nicoleaniston2/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/l8H2T2I.png",[$]PureMature-02
@@ -12193,7 +12580,7 @@ http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_ver
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/l8H2T2I.png",[$]PureMature-78
 http://videos.galleries.pornpros.com/galleries.puremature.com/htdocs/fb01/pm_avaaddams/content/vid01.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JHgjZAr.png",======================
-https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?33
+https://videos.files.wordpress.com/wYzRTvEz/adult-1_mp4_dvd.mp4?26
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JXibvL5.png",[$]MIX ADULT VIDEO 01
 https://video2.tizam.cc/files/2398713/2040__2009.mp4
 #EXTINF:-1 group-title="[WL]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JXibvL5.png",[$]MIX ADULT VIDEO 02
