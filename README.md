@@ -4738,6 +4738,12 @@ rtmp://59.124.75.157/sat/tv741
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/xBDB3bB.png",[$]SPORT 2HD
 http://140.207.241.2:8080/live/program/live/mlyyhd/4000000/mnf.m3u8
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/Ub4RT2P.png",[$]VIVARO SPORTS HD 
+http://135.181.178.91/vmedia_live/1/mono.m3u8
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/Ub4RT2P.png",[$]VIVARO SPORTS+ HD 
+http://135.181.178.91/vmedia_live/2/mono.m3u8
+#EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/Ub4RT2P.png",[$]VIVARO ARENA HD
+http://135.181.178.91/vmedia_live/3/mono.m3u8
 #EXTINF:0 group-title="[TL]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/fmpZvni.png",[$]SBS SPORTS HD
 http://ye23.win/iptv/sbs5.1.php?id=S02
 
