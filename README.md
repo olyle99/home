@@ -2214,15 +2214,21 @@ http://45.58.122.106:8081/live/s4/playlist.m3u8
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport4
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XEz5qYa.png",[$]TRING SPORT NEWS HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1298?
-#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1HD
+#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1FHD
 http://185.204.32.49:6735/UltraNetS7/stream/index.m3u8
-#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1
+#EXTINF:-1 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/VczKN1N.png",[$]TRING SPORT 1HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1302?
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/zp4VUm9.png",[$]TRING SPORT 2HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/2104?
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/kn6oY1u.png",[$]TRING SPORT 3HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1300?
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/kn6oY1u.png",[$]TRING SPORT 4HD
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Uy65ixy.png",[$]TRING SPORT 1
+http://45.58.122.106:8081/live/ts1/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/d6KNZrJ.png",[$]TRING SPORT 2
+http://45.58.122.106:8081/live/ts2/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/DoG3uto.png",[$]TRING SPORT 3
+http://45.58.122.106:8081/live/ts3/playlist.m3u8
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/BHsdYod.png",[$]TRING SPORT 4
 http://45.58.122.106:8081/live/ts4/playlist.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/UFKd43S.png",========>>KUJTESA SPORT<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport5
@@ -2236,11 +2242,11 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52212?
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52213?
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/DY1ozWH.png",========>>ART SPORT<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport6
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/7mqKz4Z.png",[$]ART SPORT 1HD
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/7mqKz4Z.png",[$]ART SPORT 1HD
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8304?
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/BywaqNp.png",[$]ART SPORT 2HD
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/BywaqNp.png",[$]ART SPORT 2HD
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8305?
-#EXTINF:0 group-title="[AL]SPORTE(TEST)" tvg-logo="https://i.imgur.com/XA62av0.png",[$]ART SPORT 3HD
+#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XA62av0.png",[$]ART SPORT 3HD
 http://autochthonous-al.org:25461/Tree-telegram/jAe8Hqyatb/8306?
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/Yb6dwr7.png",========>>ARENA SPORT<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport7
@@ -2270,22 +2276,6 @@ http://46.29.169.15:4001/play/a001/index.m3u8|User-Agent=stream
 http://46.29.169.15:4001/play/a00e/index.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/XpyvcQp.png",[$]SPORT KLUB 3HD 
 http://46.29.169.15:4001/play/a00f/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/fp9FZai.png",========>>SPORT-TV<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport9
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/lLUDa8S.png",[$]SPORT-TV 1HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Sptv-1.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT-TV 2HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Sptv-2.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/9U5nFna.png",[$]SPORT-TV 3HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Sptv-3.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/iq5MRT8.png",[$]SPORT-TV 4HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Sptv-4.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/GgJrV2p.png",[$]SPORT-TV 5HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Sptv-5.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/bYEFryT.png",[$]SPO-TV HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SpoTv1-Kr.m3u8
-#EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/9nXekwk.png",[$]SPO-TV 2HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/SpoTv2-Kr.m3u8
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/5LsSufG.png",========>>ELEVEN<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?sport10
 #EXTINF:0 group-title="[AL]SPORTE" tvg-logo="https://i.imgur.com/CFl3zRU.png",[$]ELEVEN 1HD
@@ -3595,12 +3585,6 @@ http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52359
 #EXTINF:0 group-title="[FR]SPORTE FRANCEZE 2" tvg-logo="https://i.imgur.com/JcANqBJ.png",[$]ELEVEN 2HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52360
 
-#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/86O3ape.png",[$]BEIN SPORTS 1ENGLISH HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Bein-1En.m3u8
-#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/PfB4LgE.png",[$]BEIN SPORTS 2ENGLISH HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Bein-2En.m3u8
-#EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/mbpAGmz.png",[$]BEIN SPORTS 3ENGLISH HD
-https://raw.githubusercontent.com/Asependang/Belajar/main/saluran/Bein-3En.m3u8
 #EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/y3WvACj.png",[$]SKY SPORTS NEWS HD
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
 #EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/y3WvACj.png",[$]SKY SPORTS NEWS
@@ -3634,8 +3618,6 @@ http://185.204.32.4:9981/stream/channelid/577840136
 #EXTINF:0 group-title="[GB]SPORTE ANGLEZE" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
 http://212.102.60.80/Eurosport2/index.m3u8
 
-#EXTINF:0 group-title="[TR]SPORTE TURKE" tvg-logo="https://i.imgur.com/3rYiLwr.png",[$]BEIN SPORTS HABER HD
-https://livesx.canlitv.center/beinsportshaber.m3u8
 #EXTINF:0 group-title="[TR]SPORTE TURKE" tvg-logo="https://i.imgur.com/q9G7TJp.png",[$]BEIN SPORTS 1HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/469
 #EXTINF:0 group-title="[TR]SPORTE TURKE" tvg-logo="https://i.imgur.com/3UOML9w.png",[$]BEIN SPORTS 2HD
