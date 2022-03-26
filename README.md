@@ -222,7 +222,7 @@ https://monamour.agency/ntv/livestream/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/f3ORfwL.png",[$]REAL RTV HD
 https://monamour.agency/real-tv-livsream/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/PwMGXHC.png",[$]TV JOHANITER GOLD HD
-https://monamour.agency/webstream554joanitr/index.m3u8
+https://monamour.agency/johaniter007web/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/QxhfNwk.png",[$]TV TROPOJA HD
 http://live2.tropoja.tv/al/tropoja/playlist.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/0bPp2xT.png",[$]TV BERATI HD
@@ -728,11 +728,11 @@ http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/132|User-Agent=test
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/133|User-Agent=test
 #EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/sW0ODa8.png",[$]SKY NOVELA HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/134|User-Agent=test
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/pv0S98W.png",[$]SKY PLANET
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/pv0S98W.png",[$]SKY PLANET HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/135|User-Agent=test
-#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/0sj92jL.png",[$]EPISODE
+#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/0sj92jL.png",[$]SKY EPISODE HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/55|User-Agent=test
-#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/7xKVgU4.png",[$]FILM GOLD HD
+#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/NstNCDI.png",[$]FILM GOLD HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/66|User-Agent=test
 #EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/lCvsgJd.png",[$]FILM MAX HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/63|User-Agent=test
@@ -1650,23 +1650,23 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>DIGITALB FILM<<========
 https://tinyurl.com/cinemaalb?filma1
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/N4IWSqm.png",[$]FILM GOLD HD
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47138
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47138?
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/lBwJpaC.png",[$]FILM MAX HD
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1394
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/287740
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/VbuY2cH.png",[$]FILM AKSION HD
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1397
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2558
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/FthL5hJ.png",[$]FILM HITS HD
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1393
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1330
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/blml0a3.png",[$]FILM THRILLER 
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1388
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1328
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/6rA4A9a.png",[$]FILM DRAME
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1332
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/auNzq99.png",[$]FILM KOMEDI
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47139
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1329
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/XTlw1pC.png",[$]FILM AUTOR
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47148
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1333
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/Us9AwSU.png",[$]STINET
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47137
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4096
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/MBWwZiO.png",[$]T HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4101
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/NjtAdF7.png",[$]EUROFILM
@@ -1674,7 +1674,7 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/595
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/Vs4PpZp.png",[$]FAMILY HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/4063
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/ww5zc2V.png",[$]DIZI
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52228
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/41309
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>TRING FILM<<========
 https://tinyurl.com/cinemaalb?filma2
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/VTeSkWA.png",[$]KANAL-D DRAMA HD
@@ -1837,21 +1837,39 @@ http://84.22.33.254/unicast.fastnfunbox/mpegts?token=tv
 http://84.22.33.218/EuroChannel/mpegts?token=tv
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/fKRoYUk.png",[$]ILIRIA FILM HD
 http://93.157.62.180/IliriaFilm/mpegts|User-Agent=stream
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/IBjmz2b.png",[$]JOLLY HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/PMbArtG.png",[$]FILM GOLD HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47138
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/lCvsgJd.png",[$]FILM MAX HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1394
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/sTCL1JO.png",[$]FILM AKSION HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1397
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/kBL9AHN.png",[$]FILM HITS HD
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1393
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/hpQ5uFE.png",[$]FILM THRILLER 
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1388
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/m3Mt9vt.png",[$]FILM KOMEDI
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47139
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/wdG75e5.png",[$]FILM AUTOR
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47148
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/vBp4CjP.png",[$]STINET
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47137
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/1tvljaf.png",[$]DIZI
+http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/52228
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/tPy4NjS.png",[$]JOLLY HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1386
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/HI7fBvL.png",[$]TRING SUPER HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/uuXOeI4.png",[$]TRING SUPER HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1299
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/xAL2EDz.png",[$]TRING ACTION HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/1RsLQmC.png",[$]TRING ACTION HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1305
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/sKilrz5.png",[$]TRING FANTASY
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/dyadOuN.png",[$]TRING FANTASY
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1308
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/zVpByOX.png",[$]TRING 3+
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/FEIDf9n.png",[$]TRING 3+
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1310
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/qi0ddIc.png",[$]TRING LIFE
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/LipwYu2.png",[$]TRING LIFE
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1385
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/x1oNPgq.png",[$]TRING COMEDY
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/j377oHE.png",[$]TRING COMEDY
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/1309
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/RVUfcMi.png",[$]TRING SHQIP
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/OsX9Rfd.png",[$]TRING SHQIP
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/1307
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/bdEufPv.png",[$]TRING SMILE
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47052
@@ -4200,192 +4218,192 @@ http://135.181.178.91/vmedia_live/3/mono.m3u8
 #EXTINF:0 group-title="[🇨🇷⚽]SPORTE TAJLANDEZE" tvg-logo="https://i.imgur.com/fmpZvni.png",[$]SBS SPORTS HD
 http://ye23.win/iptv/sbs5.1.php?id=S02
 
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/0QSAn6v.png",[$]EXTASY HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/0QSAn6v.png",[$]EXTASY HD
 http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/7y4t9uv.png",[$]EXTASY 4K
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/7y4t9uv.png",[$]EXTASY 4K
 http://213.81.133.133:8080/extasy4k/index.m3u8
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/AIH43BO.png",[$]SUPERONE HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/AIH43BO.png",[$]SUPERONE HD
 http://185.96.176.139:8080/superone/index.m3u8
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/9jTU3o6.png",[$]BABES-TV HD
-http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=qnNUnXdwRyvUqPLo|User-Agent=stream
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER HD
-http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo|User-Agent=stream
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER 
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/9jTU3o6.png",[$]BABES-TV HD
+http://srv1.roshen.live/BM9Oj6yvsL/mpegts?token=qnNUnXdwRyvUqPLo
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER HD
+http://srv1.roshen.live/70s5oC8mvp/mpegts?token=qnNUnXdwRyvUqPLo
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER 
 http://92.242.14.114:4022/udp/225.0.56.50:1234
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/Xt3sgjM.png",[$]WERK
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/Xt3sgjM.png",[$]WERK
 http://92.242.14.114:4022/udp/225.0.55.232:1234
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь HD
 http://92.242.14.114:4022/udp/225.0.55.235:1234
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/NUrwNaa.png",[$]O LA LA HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/NUrwNaa.png",[$]O LA LA HD
 http://92.242.14.114:4022/udp/225.0.55.234:1234
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/lAeUaT6.png",[$]BRAZZERS TV
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/lAeUaT6.png",[$]BRAZZERS TV
 http://92.242.14.114:4022/udp/225.0.55.239:1234
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/f8OFGOT.png",[$]BEATE UHSE HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/f8OFGOT.png",[$]BEATE UHSE HD
 http://109.200.130.123:7029/play/a01f|User-Agent=stream
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/2ggy1oB.png",[$]A3-BIKINI HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/2ggy1oB.png",[$]A3-BIKINI HD
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/g9Chi7i.png",[$]PLAYBOY 
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/g9Chi7i.png",[$]PLAYBOY 
 http://109.200.130.124:15500/playboytv
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/Xt3sgjM.png",[$]WERK
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/Xt3sgjM.png",[$]WERK
 http://194.190.78.81:8080/shelk/index.m3u8
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь 
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь 
 http://46.174.83.66/Russkaya_Noch/index.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/3RKasL4.png",[$]HUSTLER HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/3RKasL4.png",[$]HUSTLER HD
 http://193.33.240.8:8080/hustler_hd/index.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/z8epcDk.png",[$]X DORCEL HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/z8epcDk.png",[$]X DORCEL HD
 http://ott3.alwaysdata.net/live/ss.php?id=11
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/APGzJk0.png",[$]VIVID TOUCH HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/APGzJk0.png",[$]VIVID TOUCH HD
 http://ott3.alwaysdata.net/live/ss.php?id=8
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER HD
 http://ott3.alwaysdata.net/live/ss.php?id=4
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/NUrwNaa.png",[$]O LA LA HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/NUrwNaa.png",[$]O LA LA HD
 http://ott3.alwaysdata.net/live/ss.php?id=5
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/D0sUDW4.png",[$]PENTHOUSE QUICKIES HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/D0sUDW4.png",[$]PENTHOUSE QUICKIES HD
 http://ott3.alwaysdata.net/live/ss.php?id=6
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/l6FAcN9.png",[$]PENTHOUSE GOLD HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/l6FAcN9.png",[$]PENTHOUSE GOLD HD
 http://ott3.alwaysdata.net/live/ss.php?id=7
-#EXTINF:-1 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/zHVUauF.png",[$]EXXXOTICA HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/zHVUauF.png",[$]EXXXOTICA HD
 http://ott3.alwaysdata.net/live/ss.php?id=13
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/xWj1bQZ.png",[$]REDLIGHT HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/xWj1bQZ.png",[$]REDLIGHT HD
 http://93.152.174.144:4000/play/privatetv1/index.m3u8?
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/8kfgR8e.png",[$]PINKO-TV HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/8kfgR8e.png",[$]PINKO-TV HD
 http://93.152.174.144:4000/play/pinkotv/index.m3u8?
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/1UEufNr.png",[$]ERO-XXX
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/1UEufNr.png",[$]ERO-XXX
 http://94.229.250.73:8008/play/a002
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/SZC3GpN.png",[$]HUSTLER-TV HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/SZC3GpN.png",[$]HUSTLER-TV HD
 http://78.83.191.18:8000/play/a078
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/06idjCu.png",[$]VENUS 
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/06idjCu.png",[$]VENUS 
 http://190.15.32.30:80/122/index.m3u8
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/fEvFLXn.png",[$]PLAYBOY HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/fEvFLXn.png",[$]PLAYBOY HD
 http://190.15.32.30:80/123/index.m3u8
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/btqXQsC.png",[$]SEXPRIVE
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/btqXQsC.png",[$]SEXPRIVE
 http://190.15.32.30:80/121/index.m3u8
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/i7qnqjg.png",[$]X BIZARRE 
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/i7qnqjg.png",[$]X BIZARRE 
 http://84.22.33.254/unicast.bizarre/index.m3u8?token=tv
-#EXTINF:0 group-title="[🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/mNRgsfK.png",[$]X BUNGA BUNGA 
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/mNRgsfK.png",[$]X BUNGA BUNGA 
 http://84.22.33.254/unicast.bungabunga/index.m3u8?token=tv
 
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/z8epcDk.png",[$]X-DORCEL HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/z8epcDk.png",[$]X-DORCEL HD
 http://ott3.alwaysdata.net/live/ss.php?id=1
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/APGzJk0.png",[$]VIVID TOUCH HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/APGzJk0.png",[$]VIVID TOUCH HD
 http://ott3.alwaysdata.net/live/ss.php?id=2
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/3RKasL4.png",[$]HUSTLER HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/3RKasL4.png",[$]HUSTLER HD
 http://ott3.alwaysdata.net/live/ss.php?id=3
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/uTAn350.png",[$]PRIVATE HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/uTAn350.png",[$]PRIVATE HD
 http://ott3.alwaysdata.net/live/ss.php?id=9
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/xWj1bQZ.png",[$]REDLIGHT HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/xWj1bQZ.png",[$]REDLIGHT HD
 http://ott3.alwaysdata.net/live/ss.php?id=10
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/Zt0JUNl.png",[$]VIVID RED 
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/Zt0JUNl.png",[$]VIVID RED 
 http://ott3.alwaysdata.net/live/ss.php?id=12
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/hURha56.png",[$]XXL
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/hURha56.png",[$]XXL
 http://ott3.alwaysdata.net/live/ss.php?id=14
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/D0sUDW4.png",[$]PENTHOUSE QUICKIES HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/D0sUDW4.png",[$]PENTHOUSE QUICKIES HD
 http://80.24.75.92:5555/udp/239.111.4.2:1234
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/l6FAcN9.png",[$]PENTHOUSE GOLD HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/l6FAcN9.png",[$]PENTHOUSE GOLD HD
 http://80.24.75.92:5555/udp/239.111.4.1:1234
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь HD
 http://80.237.96.66:9090/stream/channelid/602538743
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/g9Chi7i.png",[$]PLAYBOY HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/g9Chi7i.png",[$]PLAYBOY HD
 http://80.237.96.66:9090/stream/channelid/641806044
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/pf6g4L7.png",[$]BRAZZERS-TV EUROPE HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/pf6g4L7.png",[$]BRAZZERS-TV EUROPE HD
 http://80.237.96.66:9090/stream/channelid/957341197
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь 
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь 
 http://46.181.193.122:81/udp/239.255.42.218:1234?token=test
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/NUrwNaa.png",[$]O LA LA
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/NUrwNaa.png",[$]O LA LA
 http://46.181.193.122:81/udp/239.255.42.219:1234?token=test
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/pf6g4L7.png",[$]BRAZZERS-TV EUROPE
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/pf6g4L7.png",[$]BRAZZERS-TV EUROPE
 http://46.181.193.122:81/udp/239.255.42.220:1234?token=test
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/fEvFLXn.png",[$]PLAYBOY HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/fEvFLXn.png",[$]PLAYBOY HD
 http://46.181.193.122:81/udp/239.255.42.221:1234?token=test
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER HD
 http://46.181.193.122:81/udp/239.255.42.222:1234?token=test
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/mjuMhdX.png",[$]FRENCH LOVER
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/mjuMhdX.png",[$]FRENCH LOVER
 http://46.181.193.122:81/udp/239.255.42.223:1234?token=test
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/MeYdG8M.png",[$]BARELY LEGAL-TV HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/MeYdG8M.png",[$]BARELY LEGAL-TV HD
 http://46.181.193.122:81/udp/239.255.42.224:1234?token=test
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/OIxIBoV.png",[$]X DESIRE HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/OIxIBoV.png",[$]X DESIRE HD
 http://185.204.32.49:6735/Desire/stream/playlist.m3u8
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/OIxIBoV.png",[$]X DESIRE 
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/OIxIBoV.png",[$]X DESIRE 
 http://95.107.132.106/out/u/294_1.m3u8
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/i7qnqjg.png",[$]X BIZARRE HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/i7qnqjg.png",[$]X BIZARRE HD
 http://185.204.32.49:6735/Bizarre/stream/playlist.m3u8
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/i7qnqjg.png",[$]X BIZARRE
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/i7qnqjg.png",[$]X BIZARRE
 http://95.107.132.105/out/u/104_2.m3u8
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/mNRgsfK.png",[$]X BUNGA BUNGA
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/mNRgsfK.png",[$]X BUNGA BUNGA
 http://95.107.132.105/out/u/107_1.m3u8
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/xWj1bQZ.png",[$]REDLIGHT 
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/xWj1bQZ.png",[$]REDLIGHT 
 http://93.152.174.144:4000/play/privatetv1/index.m3u8
-#EXTINF:0 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/8kfgR8e.png",[$]PINKO-TV HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/8kfgR8e.png",[$]PINKO-TV HD
 http://93.152.174.144:4000/play/pinkotv/index.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/aKoMUu2.png",[$]JASMIN.TV
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/aKoMUu2.png",[$]JASMIN.TV
 http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w37320496.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/LTvw3g2.png",[$]MIAMI TV
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/LTvw3g2.png",[$]MIAMI TV
 http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8|User-Agent=stream
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/N2zbJWZ/VS.png",[$]VISIT-X
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/N2zbJWZ/VS.png",[$]VISIT-X
 http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/nDJMNyx/as.png",[$]astv 1HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/nDJMNyx/as.png",[$]astv 1HD
 https://www.ast.tv/stream/1/high.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/nDJMNyx/as.png",[$]astv 2HD
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.ibb.co/nDJMNyx/as.png",[$]astv 2HD
 https://www.ast.tv/stream/2/high.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/ukhhw6U.png",[$]BEST-OF LAST WEEK
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/ukhhw6U.png",[$]BEST-OF LAST WEEK
 http://sdn-global-live-streaming-packager-cache-3qsdn.akamaized.net/9528/9528_264_live.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/P9blVV0.png",[$]YOUR PORN 24/7
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/P9blVV0.png",[$]YOUR PORN 24/7
 http://iptvnation.com/porn/video1080p.mp4
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/razuBoW.png",[$]BRAZZERS 24/7
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/razuBoW.png",[$]BRAZZERS 24/7
 http://iptvhello.com/brazzers.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/0IAizdq.png",[$]MOFOS 24/7
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/0IAizdq.png",[$]MOFOS 24/7
 http://iptvhello.com/mofos.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/z3EkaOK.png",[$]REALITY KINGS 24/7
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/z3EkaOK.png",[$]REALITY KINGS 24/7
 http://iptvhello.com/rkings.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/UFF5Yen.png",[$]DIGITAL PLAYGROUND 24/7
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/UFF5Yen.png",[$]DIGITAL PLAYGROUND 24/7
 http://iptvhello.com/digital.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Gang Bang
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Gang Bang
 http://cdn.adultiptv.net/gangbang.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Blonde
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Blonde
 http://cdn.adultiptv.net/blonde.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Live Cams
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Live Cams
 http://cdn.adultiptv.net/livecams.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]LESBIAN
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]LESBIAN
 http://cdn.adultiptv.net/lesbian.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Interracial
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Interracial
 http://cdn.adultiptv.net/interracial.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Fetish
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Fetish
 http://cdn.adultiptv.net/fetish.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Big Tits
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Big Tits
 http://cdn.adultiptv.net/bigtits.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Big Dick
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Big Dick
 http://cdn.adultiptv.net/bigdick.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Milf
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Milf
 http://cdn.adultiptv.net/milf.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Brunette
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Brunette
 http://cdn.adultiptv.net/brunette.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Compilation
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Compilation
 http://cdn.adultiptv.net/compilation.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Threesome
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Threesome
 http://cdn.adultiptv.net/threesome.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Cuckold
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Cuckold
 http://cdn.adultiptv.net/cuckold.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Hardcore
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Hardcore
 http://cdn.adultiptv.net/hardcore.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Teen
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Teen
 http://cdn.adultiptv.net/teen.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]POV
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]POV
 http://cdn.adultiptv.net/pov.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Asian
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Asian
 http://cdn.adultiptv.net/asian.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Blowjob
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Blowjob
 http://cdn.adultiptv.net/blowjob.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Russian
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Russian
 http://cdn.adultiptv.net/russian.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Latina
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Latina
 http://cdn.adultiptv.net/latina.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]BigAss
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]BigAss
 http://cdn.adultiptv.net/bigass.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]PornStar
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]PornStar
 http://cdn.adultiptv.net/pornstar.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Rough
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Rough
 http://cdn.adultiptv.net/rough.m3u8
-#EXTINF:-1 group-title="[🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Smoking
+#EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/gDJ75lY.png",[$]Smoking
 http://cdn.adultiptv.net/smoking.m3u8
 
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://tinyurl.com/qeshualb",======================
@@ -7072,7 +7090,7 @@ https://videos.files.wordpress.com/Skuo3pUJ/ezel070_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🇹🇷🎬]SERIALE(TURKE)" tvg-logo="https://i.imgur.com/IICH1yL.png",[EZEL] EP.71 [$] FUND
 https://videos.files.wordpress.com/vJPUKc6W/ezel071_mp4_dvd.mp4
 
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EMwnKpV.png",[SOLO] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/3vLsaBMr/solo1.1_mp4_dvd.mp4
@@ -7082,7 +7100,7 @@ https://videos.files.wordpress.com/YGmhDCCw/solo1.2_mp4_dvd.mp4
 https://videos.files.wordpress.com/0T1pC0WM/solo1.3_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EMwnKpV.png",[SOLO] SEZ 01 EP 04[$]
 https://videos.files.wordpress.com/Hykwqx7g/solo1.4_mp4_dvd.mp4 
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?1
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hsOGxM6.png",[FOR LIFE] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/A1BQNRuF/fl1_mp4_dvd.mp4
@@ -7130,7 +7148,7 @@ https://videos.files.wordpress.com/uZaW6ybn/fl2.8_mp4_dvd.mp4
 https://videos.files.wordpress.com/OcHYbD0L/fl2.9_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hsOGxM6.png",[FOR LIFE] SEZ 02 EP 10[$]
 https://videos.files.wordpress.com/5G5I0P4q/fl2.10_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?2
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/HLqTQiw.png",[OUTER BANKS] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/7D06HGBH/ob1.1_mp4_dvd.mp4
@@ -7172,7 +7190,7 @@ https://videos.files.wordpress.com/keJ0hYBH/ob2.8_mp4_dvd.mp4
 https://videos.files.wordpress.com/B7sOhH6n/ob2.9_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/HLqTQiw.png",[OUTER BANKS] SEZ 02 EP 10[$]
 https://videos.files.wordpress.com/W7FG2n9B/ob2.10_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?3
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/NFg3BRL.png",[SUPERMAN & LOIS] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/JfppXAIs/s1-1_mp4_dvd.mp4
@@ -7204,7 +7222,7 @@ https://videos.files.wordpress.com/14tUPjU8/si1.13_mp4_dvd.mp4
 https://videos.files.wordpress.com/Ved0uQpH/si14_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/NFg3BRL.png",[SUPERMAN & LOIS] SEZ 01 EP 15[$]
 https://videos.files.wordpress.com/JSWYzAYV/si15_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/GtOZuWo.png",[LUPIN] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/Blz62iIU/lupin1.1_dvd.mp4
@@ -7226,7 +7244,7 @@ https://videos.files.wordpress.com/8sG1hWoI/l2.3_mp4_dvd.mp4
 https://videos.files.wordpress.com/aWHV0uTh/l2.4_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/GtOZuWo.png",[LUPIN] SEZ 02 EP 05[$]
 https://videos.files.wordpress.com/RiYwEibG/l2.5_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?5
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EK2M8uZ.png",[CHERNOBYL] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/ZHNFlJHL/chernobyls01e01_dvd.mp4
@@ -7238,7 +7256,7 @@ https://videos.files.wordpress.com/XFBRrdxd/chernobyls01e03_dvd.mp4
 https://videos.files.wordpress.com/iEla0Hbq/chernobyl1.4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EK2M8uZ.png",[CHERNOBYL] SEZ 01 EP 05[$]
 https://videos.files.wordpress.com/dfmRUjhV/chernobyls01e05-2_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?6
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/evAXS7O.png",[FATE: WINX SAGA] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/0D1Da4FL/fate1.1_dvd.mp4
@@ -7252,7 +7270,7 @@ https://videos.files.wordpress.com/EnU698AR/fate1.4_dvd.mp4
 https://videos.files.wordpress.com/F18u525O/fate1-1.5_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/evAXS7O.png",[FATE: WINX SAGA] SEZ 01 EP 06[$]
 https://videos.files.wordpress.com/ED7tQ6C7/fate1.6_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?7
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/mLeabpJ.png",[THE SPY] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/k4wAyJWC/spy1.1_dvd.mp4
@@ -7266,7 +7284,7 @@ https://videos.files.wordpress.com/LgXx4qkV/spy1.4_dvd.mp4
 https://videos.files.wordpress.com/2I8I6Lto/spy1.5_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/mLeabpJ.png",[THE SPY] SEZ 01 EP 06[$]
 https://videos.files.wordpress.com/Bij8WliU/spy1.6_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?8
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/29LrpVN.png",[SKYLINES] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/HRwRx8kV/sky1.1_dvd.mp4
@@ -7280,7 +7298,7 @@ https://videos.files.wordpress.com/P7UJ4YEs/sky1.4_dvd.mp4
 https://videos.files.wordpress.com/MRK1xh58/sky1.5_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/29LrpVN.png",[SKYLINES] SEZ 01 EP 06[$]
 https://videos.files.wordpress.com/9A6lQEDW/sky1.6_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?9
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amzF7y0.png",[OTTOMAN EMPIRES] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/Z4KAPU19/ot1.1_dvd.mp4
@@ -7294,7 +7312,7 @@ https://videos.files.wordpress.com/zhLARmK7/ot1.4_dvd.mp4
 https://videos.files.wordpress.com/QDkgULsc/ot1.5_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/amzF7y0.png",[OTTOMAN EMPIRES] SEZ 01 EP 06[$]
 https://videos.files.wordpress.com/o4r2OPEB/ot1.6_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?10
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/udhTrwl.png",[BEHIND HER EYES] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/GUE5D9Uu/eyes1_mp4_dvd.mp4
@@ -7308,7 +7326,7 @@ https://videos.files.wordpress.com/8IRdMc7a/eyes4_mp4_dvd.mp4
 https://videos.files.wordpress.com/yctN2ZOc/eyes5_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/udhTrwl.png",[BEHIND HER EYES] SEZ 01 EP 06[$]
 https://videos.files.wordpress.com/LHfRLXXz/eyes6_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?11
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/fdm1OfD.png",[BODYGUARD] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/sg9v4bOj/bod1_mp4_dvd.mp4
@@ -7322,7 +7340,7 @@ https://videos.files.wordpress.com/k1tl1XtI/bo4_mp4_dvd.mp4
 https://videos.files.wordpress.com/YxrQLEAx/bod5_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/fdm1OfD.png",[BODYGUARD] SEZ 01 EP 06[$]
 https://videos.files.wordpress.com/0oTgNEPb/bod6_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?12
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/CC6W6aV.png",[INNOCENT] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/ITswnScK/in1_mp4_dvd.mp4
@@ -7340,7 +7358,7 @@ https://videos.files.wordpress.com/JTlUOvwI/in6_mp4_dvd.mp4
 https://videos.files.wordpress.com/r9QyEk4O/in7_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/CC6W6aV.png",[INNOCENT] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/CSuEsr6u/in8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?13
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/p98CYcA.png",[THE SERPENT] SEZ 01 EP 01[$]
 https://videos.files.wordpress.com/zpDtD1AM/ser1_mp4_dvd.mp4
@@ -7358,7 +7376,7 @@ https://videos.files.wordpress.com/wKekzqBM/ser6_mp4_dvd.mp4
 https://videos.files.wordpress.com/0nS9cvXM/ser7_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/p98CYcA.png",[THE SERPENT] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/kZkrEcr6/ser8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?14
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Xtx7soA.png",[I-LAND] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/17WgjaBc/i1.1_dvd.mp4
@@ -7374,7 +7392,7 @@ https://videos.files.wordpress.com/tekzFqnw/i1.5_dvd.mp4
 https://videos.files.wordpress.com/o4OeQuSC/i1.6_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Xtx7soA.png",[I-LAND] SEZ 01 EP 07[$]
 https://videos.files.wordpress.com/VOOSHiqk/i1.7_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?15
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Mi1H67o.png",[50M2] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/kd1IttU1/m1.1_mp4_dvd.mp4
@@ -7392,7 +7410,7 @@ https://videos.files.wordpress.com/ruAW87Iq/m1.6_mp4_dvd.mp4
 https://videos.files.wordpress.com/OSEudesj/m1.7_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Mi1H67o.png",[50M2] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/9FcGwJaG/m1.8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?16
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/8MWSjht.png",[SHADOW AND BONE] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/EqzHCQrz/shb1.1_mp4_dvd.mp4
@@ -7410,7 +7428,7 @@ https://videos.files.wordpress.com/YiaomyVJ/shb1.6_mp4_dvd.mp4
 https://videos.files.wordpress.com/SzOlpuG9/shb1.7_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/8MWSjht.png",[SHADOW AND BONE] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/ZwqSM5Zb/shb1.8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?18
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WQoZyGf.png",[RESIDENT ALIEN] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/E1x2LlDT/alien1_mp4_dvd.mp4
@@ -7432,7 +7450,7 @@ https://videos.files.wordpress.com/uodNjYRI/alien8_mp4_dvd.mp4
 https://videos.files.wordpress.com/BJ9OFgW9/s9_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/WQoZyGf.png",[RESIDENT ALIEN] SEZ 01 EP 10[$]
 https://videos.files.wordpress.com/HiZSSOfi/ra10_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?19
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1SS6TEu.png",[THE WITCHER] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/szrQaxHm/w1.1_dvd.mp4
@@ -7450,7 +7468,7 @@ https://videos.files.wordpress.com/hO5uICrf/w1.6_dvd.mp4
 https://videos.files.wordpress.com/1v3SWhxK/w1.7_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/1SS6TEu.png",[THE WITCHER] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/oWihOA75/w1.8_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?20
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/KNkAqJq.png",[KALIFAT] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/n4fSeQu4/k1.1_dvd.mp4
@@ -7468,7 +7486,7 @@ https://videos.files.wordpress.com/mndcUhyn/k1.6_dvd.mp4
 https://videos.files.wordpress.com/86sUAS6u/k1.7_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/KNkAqJq.png",[KALIFAT] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/J3qhQxUo/k1.8_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?21
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/9QLSzZE.png",[SAYGI] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/DYrv8JOv/saygi1.1_dvd.mp4
@@ -7486,7 +7504,7 @@ https://videos.files.wordpress.com/OHSUg8Cd/saygi1.6_dvd.mp4
 https://videos.files.wordpress.com/sBkkVy9C/saygi1.7_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/9QLSzZE.png",[SAYGI] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/SqrCZ7Mg/sa1.8_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?22
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Rs4w3o3.png",[30 COINS] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/RBCVk1ej/coins1.1_dvd.mp4
@@ -7504,7 +7522,7 @@ https://videos.files.wordpress.com/dj5Dm620/coins1.6_dvd.mp4
 https://videos.files.wordpress.com/OE5Lx5kv/c30_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Rs4w3o3.png",[30 COINS] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/ISBQRB7L/coins1.8_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?23
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/y6JYarR.png",[THE WIDOW] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/bxQQJ3ZB/wd1.1_dvd.mp4
@@ -7522,7 +7540,7 @@ https://videos.files.wordpress.com/8AyD53eD/wd1.6_dvd.mp4
 https://videos.files.wordpress.com/IbDnkuDt/wd1.7_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/y6JYarR.png",[THE WIDOW] SEZ 01 EP 08[$]
 https://videos.files.wordpress.com/q3DOtMa5/wd1.8_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?24
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/DiHKqXW.png",[WHO KILLED SARA?] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/vPfFOkrT/sara1.1_mp4_dvd.mp4
@@ -7560,7 +7578,7 @@ https://videos.files.wordpress.com/aoVZ1Laz/sara2.6_mp4_dvd.mp4
 https://videos.files.wordpress.com/pvroFws0/sara2.7_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/DiHKqXW.png",[WHO KILLED SARA?] SEZ 02 EP 08[$]
 https://videos.files.wordpress.com/kWQi7vqz/sara2.8_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?25
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Yy0EV8N.png",[WARRIOR NUN] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/gjMTNAhr/wn1.1_dvd.mp4
@@ -7582,7 +7600,7 @@ https://videos.files.wordpress.com/MQc6yeLX/wn1.8_dvd.mp4
 https://videos.files.wordpress.com/Pweg51pV/wn1.9_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Yy0EV8N.png",[WARRIOR NUN] SEZ 01 EP 10[$]
 https://videos.files.wordpress.com/ZvzGTnuS/wn1.10_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?26
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/wXOGFlw.png",[WU ASSASSINS] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/e2ni2dGR/wu1.1_dvd.mp4
@@ -7604,7 +7622,7 @@ https://videos.files.wordpress.com/DLetT9vD/wu1.8_dvd.mp4
 https://videos.files.wordpress.com/9oS1apt3/wu1.9_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/wXOGFlw.png",[WU ASSASSINS] SEZ 01 EP 10[$]
 https://videos.files.wordpress.com/EBnKlroV/wu1.10_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?27
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Zyl5dNX.png",[CURSED] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/uYr6zcnk/cursed1.1_dvd.mp4
@@ -7626,7 +7644,7 @@ https://videos.files.wordpress.com/QKDEWyz8/cursed1.8_dvd.mp4
 https://videos.files.wordpress.com/OHAFY20v/cursed1.9_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/Zyl5dNX.png",[CURSED] SEZ 01 EP 10[$]
 https://videos.files.wordpress.com/KJSGXtMy/cursed1.10_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?28
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/TM7KPu4.png",[POWER BOOK:GHOST] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/GSI6A78k/p1.1_dvd.mp4
@@ -7648,7 +7666,7 @@ https://videos.files.wordpress.com/7xDzCzPQ/p1.8_dvd.mp4
 https://videos.files.wordpress.com/ofEhDaET/p1.9_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/TM7KPu4.png",[POWER BOOK:GHOST] SEZ 01 EP 10[$]
 https://videos.files.wordpress.com/jxy0pGwy/p1.10_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?29
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vxz72Cn.png",[DRUGS ONLINE] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/Gzcy3pQP/do1.1_dvd.mp4
@@ -7674,7 +7692,7 @@ https://videos.files.wordpress.com/k54okCzA/do2.4_dvd.mp4
 https://videos.files.wordpress.com/42aqBJU2/do2.5_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/vxz72Cn.png",[DRUGS ONLINE] SEZ 02 EP 06[$]
 https://videos.files.wordpress.com/NIRRjDbU/do2.6_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?30
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/jhLcz8n.png",[BREAKOUT KINGS] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/SrcpLwwI/bk1_dvd.mp4
@@ -7702,7 +7720,7 @@ https://videos.files.wordpress.com/wKIChXd3/bk11_dvd.mp4
 https://videos.files.wordpress.com/uKafDhgM/bk12_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/jhLcz8n.png",[BREAKOUT KINGS] SEZ 01 EP 13[$]
 https://videos.files.wordpress.com/wCEA0NdR/bk13_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?31
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/4QWjWmR.png",[VINCENZO] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/JjwiXFyq/vin1_mp4_dvd.mp4
@@ -7744,7 +7762,7 @@ https://videos.files.wordpress.com/jULeMxRB/vin18_mp4_dvd.mp4
 https://videos.files.wordpress.com/RJa0bppF/vin19_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/4QWjWmR.png",[VINCENZO] SEZ 01 EP 20[$]
 https://videos.files.wordpress.com/vF55zd1o/vin20-1_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?32
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EFpDYsV.png",[TERROR INFAMY] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/1b7FJRn1/terror1.1_mp4_dvd.mp4
@@ -7786,7 +7804,7 @@ https://videos.files.wordpress.com/KdkLkvV5/terror2.8_mp4_dvd.mp4
 https://videos.files.wordpress.com/oDfXMbhs/terror2.9_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EFpDYsV.png",[TERROR INFAMY] SEZ 02 EP 10[$]
 https://videos.files.wordpress.com/q3y9Gqzy/terror2.10_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?33
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/UnE2oAV.png",[SPARTACUS] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/aOcAgJvw/sp1.1_dvd.mp4
@@ -7852,7 +7870,7 @@ https://videos.files.wordpress.com/MHCGOgD4/sp3.8_dvd.mp4
 https://videos.files.wordpress.com/gTZdZ7b5/sp3.9_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/UnE2oAV.png",[SPARTACUS] SEZ 03 EP 10[$]
 https://videos.files.wordpress.com/to0e9bhZ/sp3.10_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?34
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/7x6B6MP.png",[SUBURRA] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/4W2m04ZV/sb1.1_dvd.mp4
@@ -7902,7 +7920,7 @@ https://videos.files.wordpress.com/wAhCCBXV/sb3.4_dvd.mp4
 https://videos.files.wordpress.com/l8KZ5Z7K/sb3.5_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/7x6B6MP.png",[SUBURRA] SEZ 03 EP 06[$]
 https://videos.files.wordpress.com/jGNIofYH/sb3.6_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?35
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EHlOCwz.png",[EL CHAPO] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/V2sWCRFN/ch1.1_mp4_dvd.mp4
@@ -7972,7 +7990,7 @@ https://videos.files.wordpress.com/qOKunND3/ch3.11_mp4_dvd.mp4
 https://videos.files.wordpress.com/aWoYP3zj/ch3.12_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/EHlOCwz.png",[EL CHAPO] SEZ 03 EP 13[$]
 https://videos.files.wordpress.com/rlAuWVJm/ch3.13_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?36
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hTbn7PH.png",[DEVILS] SEZ 01 EP 01[$]*
 http://37.26.86.39:48768/movies/devils11.mp4
@@ -7994,7 +8012,7 @@ http://37.26.86.39:48768/movies/devils18.mp4
 http://37.26.86.39:48768/movies/devils19.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/hTbn7PH.png",[DEVILS] SEZ 01 EP 10[$]
 http://37.26.86.39:48768/movies/devils110.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?37
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/AMX2IbD.png",[24H] SEZ 01 EP 01[$]*
 http://37.26.86.39:48768/movies/hours/hours1.mp4
@@ -8102,7 +8120,7 @@ http://37.26.86.39:48768/movies/hours/hours305.mp4
 http://37.26.86.39:48768/movies/hours/hours306.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/AMX2IbD.png",[24H] SEZ 03 EP 07[$]
 http://37.26.86.39:48768/movies/hours/hours307.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?38
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/jcVBf0Q.png",[PRISON BREAK] SEZ 01 EP 01[$]*
 http://37.26.86.39:48768/movies/pb11.mp4
@@ -8276,7 +8294,7 @@ http://37.26.86.39:48768/movies/pb57.mp4
 http://37.26.86.39:48768/movies/pb58.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/jcVBf0Q.png",[PRISON BREAK] SEZ 05 EP 09[$]
 http://37.26.86.39:48768/movies/pb59.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?39
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/YoRHmIf.png",[THE PROTECTOR] SEZ 01 EP 01[$]*
 https://videos.files.wordpress.com/NIjEHNGL/p1.1_mp4_dvd.mp4
@@ -8342,7 +8360,7 @@ https://videos.files.wordpress.com/3XsSARtj/p4.5_mp4_dvd.mp4
 https://videos.files.wordpress.com/V60vsCm2/p4.6_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/YoRHmIf.png",[THE PROTECTOR] SEZ 04 EP 07[$]
 https://videos.files.wordpress.com/q17LgpEU/p4.7_mp4_dvd.mp4
-#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/onlynettv",======================
+#EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://tinyurl.com/flixtvgif",======================
 https://tinyurl.com/netflixalb?40
 #EXTINF:-1 group-title="[🍿🎬]SERIALE(NETFLIX)" tvg-logo="https://i.imgur.com/oSHw5DA.png",[NEW BLACK] SEZ 01 EP 01[$]*
 http://cdnvod.setv.ca/hls/Orange.Is.the.New.Black.S01E01.mp4/master.m3u8
@@ -12565,5 +12583,3 @@ https://video2.tizam.cc/files/2287249/lola__obkatka_v_orgiyah.mp4
 https://video2.tizam.cc/files/2354339/porochnoe_rozhdestvo__s_russkim_perevodom.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JXibvL5.png",[$]MIX ADULT VIDEO 77
 https://video1.tizam.cc/films/sosedi2014.mp4
-
-
