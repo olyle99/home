@@ -728,7 +728,7 @@ http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/132|User-Agent=test
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/133|User-Agent=test
 #EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/sW0ODa8.png",[$]SKY NOVELA HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/134|User-Agent=test
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/pv0S98W.png",[$]SKY PLANET HD
+#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/pv0S98W.png",[$]SKY PLANET HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/135|User-Agent=test
 #EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/0sj92jL.png",[$]SKY EPISODE HD
 http://mn.knaqushqip.xyz:8080/KnaquMeNe/brjHb06FIB/55|User-Agent=test
@@ -1650,9 +1650,9 @@ http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>DIGITALB FILM<<========
 https://tinyurl.com/cinemaalb?filma1
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/N4IWSqm.png",[$]FILM GOLD HD
-http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47138?
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/lBwJpaC.png",[$]FILM MAX HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/287740
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/lBwJpaC.png",[$]FILM MAX HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2559
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/VbuY2cH.png",[$]FILM AKSION HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/2558
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/FthL5hJ.png",[$]FILM HITS HD
@@ -1740,7 +1740,7 @@ http://62.210.170.186:8080/live/ExoTv/Lluksomreza/74.ts|User-Agent=.,.,.,.,.,.,.
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/eg6vZED.png",[$]SHQIP-TV KOMEDI HD
 http://62.210.170.186:8080/live/ExoTv/Lluksomreza/75.ts|User-Agent=.,.,.,.,.,.,.,.,.,..,.,putininanentqift
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>NETFLIX FILM<<========
-https://tinyurl.com/cinemaalb?filma05
+https://tinyurl.com/cinemaalb?filma5
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/4pygF2B.png",[$]NETFLIX AKSION HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198437
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/4pygF2B.png",[$]NETFLIX EPIC HD
@@ -1762,7 +1762,7 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/4pygF2B.png",[$]NETFLIX SCHWARZENEGGER HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/198444
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>TELEONE FILM<<========
-https://tinyurl.com/cinemaalb?filma06
+https://tinyurl.com/cinemaalb?filma6
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/enyGS7I.png",[$]TELEONE 1HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/145897
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/enyGS7I.png",[$]TELEONE 2HD
@@ -1786,7 +1786,7 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/247
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/v7w7rgr.png",[$]TELEONE (FILM DRAMA)
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264854
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>K FILM<<========
-https://tinyurl.com/cinemaalb?filma07
+https://tinyurl.com/cinemaalb?filma7
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/kUlNZSn.png",[$]K ACTION HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/23798
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/hKjIMot.png",[$]K COMEDY HD
@@ -1803,8 +1803,24 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/281
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173465
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/vQILk4G.png",[$]K PREMIER 4HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173479
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>+KINEMA<<========
+https://tinyurl.com/cinemaalb?filma8
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/Aqjtzxz.png",[$]+KINEMA MILENIUM HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280140
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/uuFZayV.png",[$]+KINEMA GOLD HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188073
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/zwNyzfX.png",[$]+KINEMA AKSION HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264844
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/wEwQKlW.png",[$]+KINEMA MAX HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166495
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/ZZb9M6b.png",[$]+KINEMA DRAME HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266388
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/x3UoJq1.png",[$]+KINEMA FAMILY HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282004
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/1J8EjEK.png",[$]+KINEMA CLASSICS HD
+http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264843
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>ARTMOTION FILM<<========
-https://tinyurl.com/cinemaalb?filma5
+https://tinyurl.com/cinemaalb?filma9
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/w09K1oT.png",[$]X GOLD 1HD
 http://server.sibfungold.info:8080/gaicu84/iVMgaicu84DNfwV/47154
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/UQp3RU4.png",[$]X GOLD 2HD
@@ -1880,7 +1896,7 @@ http://199.127.60.117:8081/live/rtshshqip/playlist.m3u8?
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/QG5myxr.png",[$]RTSH PLUS
 http://199.127.60.117:8081/live/rtshplus/playlist.m3u8?
 #EXTINF:-1 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>TIBO FILM<<========
-https://tinyurl.com/cinemaalb?filma6
+https://tinyurl.com/cinemaalb?filma10
 #EXTINF:-1 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/VTeSkWA.png",[$]KANAL-D DRAMA HD
 http://199.127.60.117:8081/live/tringdrama/playlist.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/ebgad7n.png",[$]TRING ACTION HD
@@ -1916,7 +1932,7 @@ http://51.91.154.19:3573/live/rtsh_shqip_ott/playlist.m3u8?
 #EXTINF:-1 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/tOeoh4o.png",[$]RTSH FILM
 http://51.91.154.19:3573/live/rtsh_film_ott/playlist.m3u8?
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>FILM MIX<<========
-https://tinyurl.com/cinemaalb?filma7
+https://tinyurl.com/cinemaalb?filma11
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/LaY5x05.png",[$]MIX FILM 1HD 
 http://194.15.225.98:8000/play/a2qx
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/kCH79Ni.png",[$]MIX FILM 2HD 
@@ -1930,7 +1946,7 @@ http://62.210.152.92:25461/Shqips21/11sdf21asdas/37|User-Agent=asdasd12313asda
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/WlLFD8v.png",[$]MIX FILM 6HD 
 http://62.210.152.92:25461/Shqips21/11sdf21asdas/35|User-Agent=asdasd12313asda
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>AMC FILM<<========
-https://tinyurl.com/cinemaalb?filma8
+https://tinyurl.com/cinemaalb?filma12
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/zItcIMB.png",[$]AMC HD
 http://84.22.33.254/unicast.amc/mpegts?token=tv
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/xeudB5S.png",[$]AMC IFC-FILMS HD
@@ -1942,7 +1958,7 @@ https://amc-amcpresents-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/sggXQv2.png",[$]AMC REALITY HD
 https://amc-absolutereality-1.imdbtv.wurl.com/manifest/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>LOCAL-NOW FILM<<========
-https://tinyurl.com/cinemaalb?filma9
+https://tinyurl.com/cinemaalb?filma13
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/LYhUWnU.png",[$]RUSH ADRENALINE HD
 http://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/NDEgjHA.png",[$]FAMILY FLIX HD
@@ -1964,7 +1980,7 @@ http://linear-122.frequency.stream/dist/localnow/122/hls/master/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/VLsg6Us.png",[$]THAT'S FUNNY HD
 http://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>WORLD FILM<<========
-https://tinyurl.com/cinemaalb?filma10
+https://tinyurl.com/cinemaalb?filma14
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/EeAxqyW.png",[$]READY ACTION HD
 https://simultv.s.llnwi.net/o059/ReadySetAction/interlink.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/B1zfdYn.png",[$]PRIME-TIME DRAMA
@@ -2128,6 +2144,12 @@ http://93.155.247.249/m3u8/diamasporthd.m3u8|User-Agent=stream
 http://93.155.247.249/m3u8/diemasport2hd.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/pCK2t6G.png",[$]DIEMA SPORT 3HD
 http://93.155.247.249/m3u8/diemasport3hd.m3u8|User-Agent=stream
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/GXmkIsM.png",[$]MAX SPORT 1HD
+http://93.155.247.249/m3u8/webmtelsport_web.m3u8?|User-Agent=stream
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/1nPv1E2.png",[$]MAX SPORT 2HD
+http://93.155.247.249/m3u8/webmtelsport2_web.m3u8?|User-Agent=stream
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/dkJLLED.png",[$]NOVA SPORT HD
+http://93.155.247.249/m3u8/webnovasport_web.m3u8?|User-Agent=stream
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/nvbEfW0.png",[$]RING HD
 http://93.155.247.249/m3u8/ringbghd.m3u8|User-Agent=stream
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
