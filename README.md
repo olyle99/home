@@ -3519,6 +3519,14 @@ https://s4.123zcast.com:8070/hls/supergs.m3u8|Referer=https://123zcast.com
 https://s2.123zcast.com:8070/hls/superlaliga.m3u8|Referer=https://123zcast.com
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/62LdgAx.png",[$]S FOOTBALL
 https://s3.123zcast.com:8070/hls/superspfb.m3u8|Referer=https://123zcast.com
+#EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/gDjnxur.png",[$]S VARIETY 1
+https://s2.123zcast.com:8070/hls/superspv1.m3u8|Referer=https://123zcast.com
+#EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/kuzEFIG.png",[$]S VARIETY 2
+https://s2.123zcast.com:8070/hls/superspv2.m3u8|Referer=https://123zcast.com
+#EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/YMK6gEK.png",[$]S VARIETY 3
+https://s2.123zcast.com:8070/hls/superspv3.m3u8|Referer=https://123zcast.com
+#EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/EML1KPH.png",[$]S VARIETY 4
+https://s2.123zcast.com:8070/hls/superspv4.m3u8|Referer=https://123zcast.com
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/86O3ape.png",[$]BEIN SPORTS 1ENGLISH 
 https://s2.123zcast.com:8070/hls/bein1en.m3u8|Referer=https://123zcast.com
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/PfB4LgE.png",[$]BEIN SPORTS 2ENGLISH 
@@ -4028,6 +4036,8 @@ http://ott-cdn.ucom.am/s86/index.m3u8
 
 #EXTINF:0 group-title="[🇮🇹⚽]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/bHa2DEo.png",[$]SKY SPORT 24HD
 https://skyanywhere3-i.akamaihd.net/hls/live/510697/interactive/playlist.m3u8
+#EXTINF:0 group-title="[🇮🇹⚽]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/62NDnx9.png",[$]SKY SPORTS FOOTBALL
+https://s3.123zcast.com:8070/hls/yt14.m3u8|Referer=123zcast.com
 #EXTINF:0 group-title="[🇮🇹⚽]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/CaWPiv1.png",[$]SPORT-ITALIA 24HD
 https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/smil:silive24.smil/playlist.m3u8?
 #EXTINF:0 group-title="[🇮🇹⚽]SPORTE ITALIANE" tvg-logo="https://i.imgur.com/CaWPiv1.png",[$]SPORT-ITALIA HD
