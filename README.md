@@ -1805,19 +1805,19 @@ http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/173479
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>+KINEMA<<========
 https://tinyurl.com/cinemaalb?filma8
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/Aqjtzxz.png",[$]+KINEMA MILENIUM HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/vU77vZB.png",[$]+KINEMA MILENIUM HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/280140
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/uuFZayV.png",[$]+KINEMA GOLD HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/XlwmbPw.png",[$]+KINEMA GOLD HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/188073
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/zwNyzfX.png",[$]+KINEMA AKSION HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/apnP22P.png",[$]+KINEMA AKSION HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264844
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/wEwQKlW.png",[$]+KINEMA MAX HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/I9DgkoE.png",[$]+KINEMA MAX HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/166495
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/ZZb9M6b.png",[$]+KINEMA DRAME HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/Uj5vjHN.png",[$]+KINEMA DRAME HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/266388
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/x3UoJq1.png",[$]+KINEMA FAMILY HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/1rcGvIt.png",[$]+KINEMA FAMILY HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/282004
-#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/1J8EjEK.png",[$]+KINEMA CLASSICS HD
+#EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://i.imgur.com/ws607JP.png",[$]+KINEMA CLASSICS HD
 http://iptvtree.net:8080/outputofflinechecker/uoSh0eiwae3ebe1ahguquohThuwahx/264843
 #EXTINF:0 group-title="[🇦🇱📺]FILMA" tvg-logo="https://tinyurl.com/tvflagcinema",========>>ARTMOTION FILM<<========
 https://tinyurl.com/cinemaalb?filma9
@@ -12605,3 +12605,5 @@ https://video2.tizam.cc/files/2287249/lola__obkatka_v_orgiyah.mp4
 https://video2.tizam.cc/files/2354339/porochnoe_rozhdestvo__s_russkim_perevodom.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/JXibvL5.png",[$]MIX ADULT VIDEO 77
 https://video1.tizam.cc/films/sosedi2014.mp4
+
+
