@@ -599,7 +599,7 @@ http://199.127.60.117:8081/live/expshkence/playlist.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]SMART-TV" tvg-logo="https://i.imgur.com/lFWPxdY.png",[$]TRING WOLRD
 http://199.127.60.117:8081/live/tringworld/playlist.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]SMART-TV" tvg-logo="https://i.imgur.com/UdFE5DB.png",[$]TRING HISTORY
-http://199.127.60.117:8081/live/tringhistory/playlist.m3u8
+http://199.127.60.117:8081/live/tringhistori/playlist.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]SMART-TV" tvg-logo="https://i.imgur.com/k0V9cnL.png",[$]TRING PLANET
 http://199.127.60.117:8081/live/tringplanet/playlist.m3u8
 
@@ -3969,35 +3969,79 @@ http://130.0.27.131:88/movies/html/Duplex/Duplex-Emisioni-30.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://bit.ly/qeshuflag",======================
 https://bit.ly/qeshuflag?7
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.1 [$]
-http://130.0.27.131:88/movies/html/portokalli-2017/Mars-2017.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2017/Mars-2017.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.2 [$]
-http://130.0.27.131:88/movies/html/portokalli-2017/Prill-2017.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2017/Prill-2017.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.3 [$]
-http://130.0.27.131:88/movies/html/portokalli-2017/Maj-2017.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2017/Maj-2017.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.4 [$]
-http://130.0.27.131:88/movies/html/portokalli-2017/Tetor-2017.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2017/Tetor-2017.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.5 [$]
-http://130.0.27.131:88/movies/html/portokalli-2017/Nentor-2017.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2017/Nentor-2017.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.6 [$]
-http://130.0.27.131:88/movies/html/portokalli-2017/Dhjetor-2017.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2017/Dhjetor-2017.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.7 [$]
-http://130.0.27.131:88/movies/html/portokalli-2018/Mars-2018.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2018/Mars-2018.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.8 [$]
-http://130.0.27.131:88/movies/html/portokalli-2018/Prill-2018.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2018/Prill-2018.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.9 [$]
-http://130.0.27.131:88/movies/html/portokalli-2018/Maj-2018.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2018/Maj-2018.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.10 [$]
-http://130.0.27.131:88/movies/html/portokalli-2019/Mars-2019.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2019/Mars-2019.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.11 [$]
-http://130.0.27.131:88/movies/html/portokalli-2019/Prill-2019.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2019/Prill-2019.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.12 [$]
-http://130.0.27.131:88/movies/html/portokalli-2019/Maj-2019.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2019/Maj-2019.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.13 [$]
-http://130.0.27.131:88/movies/html/portokalli-2019/Tetor-2019.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2019/Tetor-2019.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.14 [$]
-http://130.0.27.131:88/movies/html/portokalli-2019/Nentor-2019.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2019/Nentor-2019.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/M3b9QSr.png",[PORTOKALLI] EP.15 [$]
-http://130.0.27.131:88/movies/html/portokalli-2019/Dhjetor-2019.mp4
+http://130.0.27.131:88/movies/html/portokalli/portokalli-2019/Dhjetor-2019.mp4
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://bit.ly/qeshuflag",======================
+https://bit.ly/qeshuflag?o9
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.1 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/2-Dhjetor-2017-Pjesa1.mp4		
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.2 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/2-Dhjetor-2017-Pjesa2.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.3 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/2-Dhjetor-2017-Pjesa3.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.4 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/2-Dhjetor-2017-Pjesa4.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.5 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/9-Dhjetor-2017-Pjesa1.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.6 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/9-Dhjetor-2017-Pjesa2.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.7 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/9-Dhjetor-2017-Pjesa3.mp4	  
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.8 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/9-Dhjetor-2017-Pjesa4.mp4	  
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.9 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/16-Dhjetor-2017-Pjesa1.mp4	  
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.10 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/16-Dhjetor-2017-Pjesa2.mp4	  
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.11 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/16-Dhjetor-2017-Pjesa3.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.12 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/16-Dhjetor-2017-Pjesa4.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.13 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/23-Dhjetor-2017-Pjesa1.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.14 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/23-Dhjetor-2017-Pjesa2.mp4	 	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.15 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/23-Dhjetor-2017-Pjesa3.mp4	  
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.16 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/23-Dhjetor-2017-Pjesa4.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.17 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/31-Dhjetor-2017-Pjesa1.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.18 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/31-Dhjetor-2017-Pjesa2.mp4	  
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.19 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/31-Dhjetor-2017-Pjesa3.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.20 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/31-Dhjetor-2017-Pjesa4.mp4	 
+#EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/qxffZqD.png",[AL PAZAR] EP.21 [$]
+http://130.0.27.131:88/movies/html/Alpazar/AlPazar2017/Dhjetor/31-Dhjetor-2017-Pjesa5.mp4
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://bit.ly/qeshuflag",======================
 https://bit.ly/qeshuflag?8
 #EXTINF:-1 group-title="[🇦🇱😂]SERIALE(HUMORI)" tvg-logo="https://i.imgur.com/2a8inGm.png",[KLANIFORNIA] EP.1 [$]
