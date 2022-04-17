@@ -2723,27 +2723,27 @@ https://uload.ru.com/cdn/premium96/chunks.m3u8?|Referer=https://player.licenses4
 https://uload.ru.com/cdn/premium97/chunks.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/1|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/1|User-Agent=live_sport1986
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/2|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/2|User-Agent=live_sport1986
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/3|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/3|User-Agent=live_sport1986
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/4|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/4|User-Agent=live_sport1986
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/5|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/5|User-Agent=live_sport1986
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/6|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/6|User-Agent=live_sport1986
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/7|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/7|User-Agent=live_sport1986
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
 https://uload.ru.com/cdn/premium95/chunks.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/AXKME9l.png",[$]BEIN SPORTS 6HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/8|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/8|User-Agent=live_sport1986
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/CFvDdon.png",[$]ON-TIME SPORTS HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/17|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/17|User-Agent=live_sport1986
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE 2" tvg-logo="https://i.imgur.com/D4bXBAP.png",[$]ON-TIME SPORTS 2HD
-http://89.163.251.5:8080/live_sport_android/live_sport-ios/18|User-Agent=live_sport1986
+http://89.163.251.5:8080/live_sport_android/live_sport_ios/18|User-Agent=live_sport1986
 
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1fr/index.m3u8?
