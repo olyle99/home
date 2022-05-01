@@ -1302,18 +1302,6 @@ http://130.0.27.131:88/movies/html/shqiptar/2-gisht-Mjalte.mp4?
 http://130.0.27.131:88/movies/html/shqiptar/Dashuria-s'mjafton.mp4?
 #EXTINF:-1 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/PvlKoDs.png",[$]DREJT FUNDIT HD
 http://130.0.27.131:88/movies/html/shqiptar/1DrejtFundit.mp4?
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/24moviestv",========>>24/7 FILM<<========
-https://tinyurl.com/cinemaalb?filma02
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/ZKmVHgH.png",[$]TOM CRUISE
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137501
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/h5i9ulP.png",[$]JACKIE CHAN
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137500
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/skDGbn1.png",[$]SYLVESTER STALLONE
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137499
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/H3PfA6v.png",[$]SAMUEL L.JACKSON
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137503
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/rFWlFrK.png",[$]DENZEL WASHINGTON
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/137498
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/cinemaflag",========>>DIGITALB FILM<<========
 https://tinyurl.com/cinemaalb?filma03
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/N4IWSqm.png",[$]FILM GOLD HD
@@ -3057,7 +3045,6 @@ http://free.tv1.live/star7live/LZENQZuGKM/7881
 #EXTINF:0 group-title="[🇸🇦⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/4Geb2iY.png",[$]BEIN SPORTS 7HD
 http://free.tv1.live/star7live/LZENQZuGKM/7882
 
-
 #EXTINF:-1 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/0OpM8TA.png",[$]BEIN SPORTS XTRA HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/8Cdn57v.png",[$]BEIN SPORTS NEWS HD 
@@ -3911,42 +3898,6 @@ http://185.44.75.202:38166/play/a0av/index.m3u8
 http://185.44.75.202:38166/play/a0at/index.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь HD
 http://185.44.75.202:38166/play/a097/index.m3u8
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/qRZsPJt.png",[$]FAKE TAXI
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139459
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/kxy7DkQ.png",[$]CUMLOADER
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139460
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/PnfHuyZ.png",[$]TUSHY RAW
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139461
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/Nvzv2Zv.png",[$]BLACKED RAW
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139462
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/EwuuvO9.png",[$]FAKE COP
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139463
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/8YAMcqH.png",[$]NAUGHTY AMERICA
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139464
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/GYfb9Yx.png",[$]DORCEL CLUB
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139465
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/DTLQxzL.png",[$]PERV CITY
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139466
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/GxDsIiS.png",[$]MOFOS
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139470
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/4M7xgkU.png",[$]HER LIMIT
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139469
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/qfQKOWo.png",[$]21 SEXTURY
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139472
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/CGaOmbr.png",[$]PUBLIC AGENT
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139473
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/Du0GOA0.png",[$]SEXMEX
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139475
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/iDj5pKE.png",[$]HOLED
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139476
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/Mt9jXEi.png",[$]CZECH STREETS
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139477
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/lV5mRK7.png",[$]BRASILIAN PORNO
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139478
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/IIKinLv.png",[$]REDTUBE
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139468
-#EXTINF:0 group-title="[⚠️🔞]ADULT VIP[+18]" tvg-logo="https://i.imgur.com/NBY6Y3W.png",[$]TELEVISION X
-http://sensea.xyz:8880/ExPrEssVoDpaNNel02/CGaY9mDT42/139467
 
 #EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/OIxIBoV.png",[$]X DESIRE 
 http://95.107.132.106/out/u/294_1.m3u8
