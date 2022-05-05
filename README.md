@@ -42,10 +42,12 @@ http://79.143.17.78:2085/play/a0b2ALSAMMFHD/index.m3u8
 http://82.114.87.150:8881/play/a0a7
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M 
 http://62.162.79.7:8003/play/s17
-#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="",[$]STAR PLUS
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/Sph5sqo.png",[$]STAR PLUS HD
 http://7090.eu:88/prokappli/Ibkli0PAdG02/6591
-#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="",[$]TV KOPLIKU
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU HD
 http://7090.eu:88/prokappli/Ibkli0PAdG02/10891
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/7HxzZqY.png",[$]SYRI TV HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/8433
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2FHD
 http://7090.eu:88/prokappli/Ibkli0PAdG02/8902
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2HD
@@ -276,7 +278,7 @@ http://171.22.150.202:2040/live/t7pp1/playlist.m3u8
 http://171.22.150.202:2040/live/rtvoramobpp1/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]KLANI IM" tvg-logo="https://i.imgur.com/ocqxqY4.png",========>>LAJME<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?klan1
-#EXTINF:-1 group-title="[🇦🇱📺]KLANI IM" tvg-logo="",[$]TOP NEWS
+#EXTINF:-1 group-title="[🇦🇱📺]KLANI IM" tvg-logo="https://i.imgur.com/mwV2Y5u.png",[$]TOP NEWS
 http://82.114.87.150:8881/play/a0dg
 #EXTINF:-1 group-title="[🇦🇱📺]KLANI IM" tvg-logo="https://i.imgur.com/QNKBs1l.png",[$]MCN HD
 http://171.22.150.202:2040/live/mcnpp1/playlist.m3u8
@@ -1022,8 +1024,6 @@ http://7090.eu:88/prokappli/Ibkli0PAdG02/6553
 http://7090.eu:88/prokappli/Ibkli0PAdG02/8859
 #EXTINF:0 group-title="[🇦🇱🎵]MUZIKE" tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png",[$]ZICO TV
 http://7090.eu:88/prokappli/Ibkli0PAdG02/6567
-#EXTINF:0 group-title="[🇦🇱🎵]MUZIKE" tvg-logo="https://i.imgur.com/ztjAX1S.png",[$]SYRI BLUE HD
-http://7090.eu:88/prokappli/Ibkli0PAdG02/8433
 #EXTINF:0 group-title="[🇦🇱🎵]MUZIKE" tvg-logo="https://i.imgur.com/7utZPEM.png",[$]PLANETA HD
 http://7090.eu:88/prokappli/Ibkli0PAdG02/11411
 #EXTINF:0 group-title="[🇦🇱🎵]MUZIKE" tvg-logo="https://i.imgur.com/gcKnKsG.png",[$]DM SAT
@@ -1516,6 +1516,18 @@ http://212.121.249.34:8080/dark/playlist.m3u8
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/Ty4bDpl.png",[$]HOLLYWOOD HD
 http://212.121.249.34:8080/hollywood/playlist.m3u8
 
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/z6KYyYc.png",[$]TIBO PRIME 1HD
+http://91.132.172.169:8000/play/a029/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/Z7bTJLT.png",[$]TIBO PRIME 2HD
+http://91.132.172.169:8000/play/a02b/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/mbWBKRC.png",[$]PLISI-TV HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/26873
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/wNUf8QJ.png",[$]PLISI-TV ACTION HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/26876
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/Vow9Unr.png",[$]PLISI-TV COMEDY HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/26877
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/KmrljCv.png",[$]PLISI-TV HUMOR HD
+http://7090.eu:88/prokappli/Ibkli0PAdG02/26875
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/PMbArtG.png",[$]FILM GOLD HD
 http://212.18.115.177:8030/play/a00h
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA 2" tvg-logo="https://i.imgur.com/lCvsgJd.png",[$]FILM MAX HD
@@ -3083,7 +3095,7 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
 #EXTINF:0 group-title="[🇭🇷⚽]SPORTE KROATE 2" tvg-logo="https://i.imgur.com/Pu7UdjA.png",[$]SK HD
-http://7090.eu:88/prokappli/Ibkli0PAdG02/28239
+http://7090.eu:88/prokappli/Ibkli0PAdG02/28230
 #EXTINF:0 group-title="[🇭🇷⚽]SPORTE KROATE 2" tvg-logo="https://i.imgur.com/4Cp6WST.png",[$]SK 1HD
 http://7090.eu:88/prokappli/Ibkli0PAdG02/10800
 #EXTINF:0 group-title="[🇭🇷⚽]SPORTE KROATE 2" tvg-logo="https://i.imgur.com/ZKTZNKw.png",[$]SK 2HD
