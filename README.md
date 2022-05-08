@@ -362,47 +362,47 @@ https://us.bestvideostreaming.is:7090/8706/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/lQrBDzI.png",[$]KLAN MACEDONIA HD
 https://us.bestvideostreaming.is:7090/8789/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8713/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KOHAVIZION HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8705/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/ZozgLG2.png",[$]RTSH SAT HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8701/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/68glg3e.png",[$]RTK 1HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8702/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/TIxChmz.png",[$]KANAL 10HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8849/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/VqQBc3x.png",[$]DUKAGJINI HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8788/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV21 HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8756/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/bfEsnMG.png",[$]RTV21 MACEDONIA HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8790/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/ZCAnj9p.png",[$]RTV21 MIX HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8756/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/EpNo3i9.png",[$]RTV21 PLUS HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8749/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/a7wcvuQ.png",[$]TEVE 1HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/6010/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/sDoV6Lt.png",[$]A-TV HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8709/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/ysGuS3T.png",[$]MACEDONIA-TV 2HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8728/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/SsMv2Sl.png",[$]ALB-UK HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8794/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU HD
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/2508/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/v7C7Vua.png",[$]TV SHENJA
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8850/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/IQ52qyr.png",[$]TV BESA
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8817/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/5HZemnp.png",[$]DRITA TV
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8890/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/P82EHQf.png",[$]SYRI VISION
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8784/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/FndRSNI.png",[$]TV BOIN 
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/10127/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/w33lE2z.png",[$]DIELLI
-https://us.bestvideostreaming.is:7090/87/index.m3u8
+https://us.bestvideostreaming.is:7090/8818/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/fU9Y3uh.png",========>>LAJME<<========
 https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?look2
 #EXTINF:0 group-title="[🇦🇱📺]LOOK-TV" tvg-logo="https://i.imgur.com/bec55Pq.png",[$]EURONEWS AL
@@ -2263,7 +2263,7 @@ http://7090.eu:88/prokappli/Ibkli0PAdG02/30780
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/WejfJj4.png",[$]SPORTS MIX 17HD
 http://7090.eu:88/prokappli/Ibkli0PAdG02/8618
 
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/0lTalYc.png,[$]SUPER SPORT 1HD 
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/0lTalYc.png",[$]SUPER SPORT 1HD 
 https://us.bestvideostreaming.is:7090/10030/index.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(VIP)" tvg-logo="https://i.imgur.com/UUlfLrp.png",[$]SUPER SPORT 2HD 
 https://us.bestvideostreaming.is:7090/8734/index.m3u8
