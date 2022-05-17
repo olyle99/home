@@ -1631,7 +1631,7 @@ https://tinyurl.com/sportalb?sport02
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVERSPORT 1FHD
 http://91.132.172.169:8000/play/a02s/index.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/S8yhwc3.png",[$]OVERSPORT 2FHD
-http://91.132.172.169:8000/play/a02z/index.m3u8
+http://91.132.172.169:8000/play/a031/index.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVERSPORT 1HD
 http://54.36.63.52:7646/007pannelstream/UCJD3vML7a5Z/229
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/S8yhwc3.png",[$]OVERSPORT 2HD
@@ -1925,7 +1925,7 @@ http://193.228.193.179:8000/play/a01l
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/3SaCAwP.png",[$]SPORT PLUS 15HD
 http://193.228.193.179:8000/play/a013
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/Gc63kJM.png",[$]SPORT PLUS 16HD
-http://91.132.172.169:8000/play/a031/index.m3u8
+http://91.132.172.169:8000/play/a02z/index.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/clenWn3.png",[$]SPORT PLUS 17HD
 https://birutv.com/sport@birutv/live/bt1.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/KoVl1Nf.png",[$]SPORT PLUS 18HD
