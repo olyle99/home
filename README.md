@@ -4451,14 +4451,14 @@ http://195.154.185.179:80/xx_venus_tv/index.m3u8
 http://195.154.185.179:80/xx_barely_legal_tv/index.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/Fi3dXgM.png",[$]HOT HD
 http://195.154.185.179:80/xx_reality_kings_tv/index.m3u8
-#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/VIL0ZVY.png",[$]NAUGHTY HD
+#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/C2srERL.png",[$]NAUGHTY HD
 http://195.154.185.179:80/xx_nuart_tv/index.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/EdFqowh.png",[$]FANTAZZY
 http://195.154.185.179:80/xx_playboy_tv/index.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/6iZyocc.png",[$]REALITY KINGS 
 http://195.154.185.179:80/xx_hustler_tv/index.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/l6FAcN9.png",[$]PENTHOUSE GOLD
-http://195.154.185.179:80/xx_jasmin_tv/index.m3u8
+http://195.154.185.179:80/xx_jasmin_tv/index.m3u8?User-Agent=stream
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/6hEPqbf.png",[$]SEXTREME
 http://195.154.185.179:80/xx_prive_tv/index.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/kfgQU9T.png",[$]BALCAN EROTIC
@@ -4473,24 +4473,16 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139461
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139462 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (FAKE-COP)
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139463 
-#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (PURE-TS)
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139464 
-#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (BRAZZERS.COM)
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139466 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (HER-LIMIT)
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139469 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (MOFOS.COM)
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139470 
-#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (HARD-X)
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139471 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (PUBLIC-AGENT)
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139473 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (TRANS ANGELS)
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139474 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (SEXMEXX)
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139475 
-#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (ATK-GIRLFRIENDS)
-http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139476 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT (CZECH-STREETS)
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139477 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT XXX-1
@@ -4505,6 +4497,14 @@ http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139468
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139472 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT XXX-6
 http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139478
+#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT XXX-7
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139464 
+#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT XXX-8
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139466 
+#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT XXX-9
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139471 
+#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://bit.ly/3kXIDQf",[$]ADULT XXX-10
+http://sensea.xyz:8880/OnNtImEvOdPanEl/rjwcFv4thP/139476 
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/QASoEs9.png",[$]MY-CAM XXX-1
 http://live.mycamtv.com/premium.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/QASoEs9.png",[$]MY-CAM XXX-2
