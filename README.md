@@ -3313,27 +3313,27 @@ http://92.242.14.114:4022/udp/225.0.56.33:1234
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2RU
 http://92.242.14.114:4022/udp/225.0.56.53:1234
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/nCHCqkP.png",[$]DIEMA SPORT HD
-http://85.14.32.15:8081/udp/224.100.1.216:56000
+http://85.14.32.15:8801/udp/224.100.1.216:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/FYTGoig.png",[$]DIEMA SPORT 2HD
-http://85.14.32.15:8081/udp/224.100.1.218:56000
+http://85.14.32.15:8801/udp/224.100.1.218:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/GeHtpHs.png",[$]DIEMA SPORT 3HD
-http://85.14.32.15:8081/udp/224.100.1.217:56000
+http://85.14.32.15:8801/udp/224.100.1.217:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/OZukPbO.png",[$]NOVA SPORT HD
-http://85.14.32.15:8081/udp/224.100.1.201:56000
+http://85.14.32.15:80801/udp/224.100.1.201:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/Ot3OwUb.png",[$]MAX SPORT 1HD
-http://85.14.32.15:8081/udp/224.100.1.237:56000
+http://85.14.32.15:8801/udp/224.100.1.237:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/4k1yFMJ.png",[$]MAX SPORT 2HD
-http://85.14.32.15:8081/udp/224.100.1.238:56000
+http://85.14.32.15:8801/udp/224.100.1.238:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/ryExYde.png",[$]MAX SPORT 3HD
-http://85.14.32.15:8081/udp/224.100.1.239:56000
+http://85.14.32.15:8801/udp/224.100.1.239:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/5x6O7O4.png",[$]MAX SPORT 4HD
-http://85.14.32.15:8081/udp/224.100.1.240:56000
+http://85.14.32.15:8801/udp/224.100.1.240:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1BG
-http://85.14.32.15:8081/udp/224.100.1.199:56000
+http://85.14.32.15:8801/udp/224.100.1.199:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2BG
-http://85.14.32.15:8081/udp/224.100.1.196:56000
+http://85.14.32.15:8801/udp/224.100.1.196:56000
 #EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/GHO2Lvl.png",[$]DTX
-http://85.14.32.15:8081/udp/224.100.1.206:56000
+http://85.14.32.15:8801/udp/224.100.1.206:56000
 #EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
 http://tv.protvmm.live:25461/dwayrestream/dwayrestream/24394
 #EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
