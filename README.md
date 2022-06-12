@@ -1042,164 +1042,164 @@ http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/108.ts
 #EXTINF:-1 group-title="[🇦🇱📺]DREAM-TV" tvg-logo="https://i.imgur.com/oRjm46W.png",[$]TRING MUSE
 http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/123.ts
 
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/7BFt4XV.png",========>>GJENERALE<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?mak
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Top%20Channel.png",[$]TOP CHANNEL HD
-http://31.172.87.32:2200/ALB-EX/Top_Channel_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus.png",[$]VIZION PLUS HD
-http://31.172.87.32:2200/ALB-EX/Vizion_Plus_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Klan%20TV.png",[$]KLAN HD
-http://31.172.87.32:2200/ALB-EX/Klan_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Klan%20Kosova.png",[$]KLAN KOSOVA HD
-http://31.172.87.32:2200/ALB-EX/Klan_Kosova-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Alsat-M.png",[$]ALSAT-M HD
-http://31.172.87.32:2200/ALB-EX/Alsat_M_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU
-http://31.172.87.32:2200/ALB-EX/Tv_Kopliku_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/ERA%20TV.png",[$]ERA TV
-http://31.172.87.32:2200/ALB-EX/Era_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/RTSH1%20HD.png",[$]RTSH 1HD
-http://31.172.87.32:2200/ALB-EX/RTSH_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/RTSH2%20HD.png",[$]RTSH 2HD
-http://31.172.87.32:2200/ALB-EX/RTSH_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/RTSH3%20HD.png",[$]RTSH 3HD
-http://31.172.87.32:2200/ALB-EX/RTSH_3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Film.png",[$]RTSH FILM 
-http://31.172.87.32:2200/ALB-EX/RTSH_Film_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Korca.png",[$]RTSH KORÇA
-http://31.172.87.32:2200/ALB-EX/RTSH_Korca_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/RTSH%20Kuvend.png",[$]RTSH KUVEND
-http://31.172.87.32:2200/ALB-EX/RTSH_Kuvendi_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/TV%20Dukagjini.png",[$]TV DUKAGJINI
-http://31.172.87.32:2200/ALB-EX/TV_Dukagjini_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/RTV%2021%20HD.png",[$]RTV21
-http://31.172.87.32:2200/ALB-EX/RTV_21_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/21%20Mix.png",[$]RTV21 MIX
-http://31.172.87.32:2200/ALB-EX/RTV21_Mix_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/bfEsnMG.png",[$]RTV21 MACEDONIA
-http://31.172.87.32:2200/ALB-EX/RTV_21_MK_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Koha%20TV.png",[$]TV KOHA
-http://31.172.87.32:2200/ALB-EX/TV_Koha_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/TV%20Opinion.png",[$]TV OPINION
-http://31.172.87.32:2200/ALB-EX/TV_Opinion_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/7BFt4XV.png",========>>LAJME<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?mak1
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/mwV2Y5u.png",[$]TOP NEWS HD
-http://31.172.87.32:2200/ALB-EX/Top_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Arta.png",[$]ARTA HD
-http://31.172.87.32:2200/ALB-EX/TV_Arta_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/S6NxNOj.png",[$]ORA NEWS HD
-http://31.172.87.32:2200/ALB-EX/Ora_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/News%2024.png",[$]NEWS 24HD
-http://31.172.87.32:2200/ALB-EX/News_24_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/Zy1fQ8Q.png",[$]APOLLON HD
-http://31.172.87.32:2200/ALB-EX/Apollon_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/ABC%20News.png",[$]ABC NEWS HD
-http://31.172.87.32:2200/ALB-EX/Abc_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/7HxzZqY.png",[$]SYRI TV HD
-http://31.172.87.32:2200/ALB-EX/TV_Syri_Vision_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/7BFt4XV.png",========>>MUZIKE<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?mak2
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/first%20CHANNEL.png",[$]FIRST CHANNEL
-http://31.172.87.32:2200/ALB-EX/1_First_Kosova_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Top%20Estrada.png",[$]TOP ESTRADA
-http://31.172.87.32:2200/ALB-EX/TOP_Estrada_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Zico%20TV.png",[$]ZICO TV
-http://31.172.87.32:2200/ALB-EX/Zico_TV_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/TV%20Prizreni.png",[$]TV PRIZRENI
-http://31.172.87.32:2200/ALB-EX/PRIZRENI_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/21%20Popullore.png",[$]RTV21 POPULLORE
-http://31.172.87.32:2200/ALB-EX/RTV_21_Popullore_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/q5eE2TT.png",[$]TV LIRIA
-http://31.172.87.32:2200/ALB-EX/LIRIA_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/7BFt4XV.png",========>>FEMIJE<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?mak3
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Sofia.png",[$]SOFIA HD
-http://31.172.87.32:2200/ALB-EX/Sofia_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Bang%20Bang.png",[$]BANG BANG
-http://31.172.87.32:2200/ALB-EX/Bang_Bang_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Cufo%20TV.png",[$]CUFO TV
-http://31.172.87.32:2200/ALB-EX/Cufo_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Tring.png",[$]TRING TRING
-http://31.172.87.32:2200/ALB-EX/Tring_Tring_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tip%20TV.png",[$]TIP TV
-http://31.172.87.32:2200/ALB-EX/Tip_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:-1 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Duck%20tv.png",[$]DUCK TV
-http://31.172.87.53:2200/ALB-EX/DUCK_TV_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:-1 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/LQb39yF.png",[$]TAO TAO
-http://31.172.87.53:2200/ALB-EX/TaoTao-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/7BFt4XV.png",========>>KULTURE<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?mak4
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Shkence.png",[$]EXPLORER SHKENCE
-http://31.172.87.32:2200/ALB-EX/Explorer_Shkence_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Natyra.png",[$]EXPLORER NATYRA
-http://31.172.87.32:2200/ALB-EX/Explorer_Natyra_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/EXPLORER%20Histori.png",[$]EXPLORER HISTORI
-http://31.172.87.32:2200/ALB-EX/Explorer_History_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20World.png",[$]TRING WORLD
-http://31.172.87.32:2200/ALB-EX/Tring_World_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Planet.png",[$]TRING PLANET
-http://31.172.87.32:2200/ALB-EX/Tring_Planet_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20History.png",[$]TRING HISTORY
-http://31.172.87.32:2200/ALB-EX/Tring_History_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Travel%20Channel.png",[$]TRAVEL CHANNEL
-http://31.172.87.32:2200/ALB-EX/Travel_Channel_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/KWT4bpK.png",[$]DISCOVERY SCIENCE
-http://31.172.87.32:2200/ALB-EX/Discovery_Science_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/7BFt4XV.png",========>>FILMA<<========
-https://videos.files.wordpress.com/OM41ulFB/albanianflaginhd1080pwavingwithinstrumentalnationalanthem_full-hd_dvd.mp4?mak5
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/PJeOqkP.png",[$]FILM GOLD HD
-http://31.172.87.32:2200/ALB-EX/Film_Nje_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/zmXk6jz.png",[$]FILM MAX HD
-http://31.172.87.53:2200/ALB-EX/Film_Dy-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Film%20Aksion.png",[$]FILM AKSION HD
-http://31.172.87.32:2200/ALB-EX/Film_Aksion_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Film%20Hits.png",[$]FILM HITS HD
-http://31.172.87.32:2200/ALB-EX/Film_Hits_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Film%20Drame.png",[$]FILM DRAME
-http://31.172.87.32:2200/ALB-EX/Film_Drame_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Film%20Komedi.png",[$]FILM KOMEDI
-http://31.172.87.32:2200/ALB-EX/Film_Komedi_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Stinet.png",[$]FILM STINET
-http://31.172.87.32:2200/ALB-EX/Film_Stinet_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Film%20Autor.png",[$]FILM AUTOR
-http://31.172.87.32:2200/ALB-EX/Film_Autor_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/T%20HD.png",[$]T HD
-http://31.172.87.32:2200/ALB-EX/T_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:-1 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/Vs4PpZp.png",[$]FAMILY HD
-http://31.172.87.53:2200/ALB-EX/Family_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT smasung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/EUROFILM.png",[$]EUROFILM
-http://31.172.87.32:2200/ALB-EX/Euro_Film_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:-1 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/VTeSkWA.png",[$]KANAL-D DRAMA HD
-http://31.172.87.32:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Jolly%20HD.png",[$]TRING JOLLY HD
-http://31.172.87.32:2200/ALB-EX/Tring_Jolly_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Living%20HD.png",[$]TRING LIVING HD
-http://31.172.87.32:2200/ALB-EX/Living_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Super.png",[$]TRING SUPER HD
-http://31.172.87.32:2200/ALB-EX/Tring_Super_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/3%20Plus.png",[$]TRING 3+
-http://31.172.87.32:2200/ALB-EX/Tring_3_Plus_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Fantasy.png",[$]TRING FANTASY
-http://31.172.87.32:2200/ALB-EX/Tring_Fantasy_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Life.png",[$]TRING LIFE
-http://31.172.87.32:2200/ALB-EX/Tring_Life_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Comedy.png",[$]TRING COMEDY
-http://31.172.87.32:2200/ALB-EX/Tring_Comedy_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Shqip.png",[$]TRING SHQIP
-http://31.172.87.32:2200/ALB-EX/Tring_Shqip_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Smile.png",[$]TRING SMILE
-http://31.172.87.32:2200/ALB-EX/Tring_Smile_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/FOX%20Life.png",[$]FOX LIFE
-http://31.172.87.32:2200/ALB-EX/Fox_Life_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/O0gXCE6.png",[$]FALCON ACTION HD
-http://31.172.87.32:2200/ALB-EX/XACTION_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/lQYWYf2.png",[$]FALCON DRAMA HD
-http://31.172.87.32:2200/ALB-EX/XDRAMA_HD_-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:0 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/bumwU6t.png",[$]NETFLIX ROMANCE HD
-http://31.172.87.32:2200/ALB-EX/XROMANCE_HD_-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
-#EXTINF:-1 group-title="[AL]TV-MAK" tvg-logo="https://i.imgur.com/tOeoh4o.png",[$]RTSH FILM HD
-http://31.172.87.53:2200/ALB-EX/RTSH_Film_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/YROM3Jv.png",========>>GJENERALE<<========
+https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?mak1
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
+http://31.172.87.53:2200/ALB-EX/Top_Channel_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Y4nobZZ.png",[$]VIZION PLUS HD
+http://31.172.87.53:2200/ALB-EX/Vizion_Plus_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Q8viGGd.png",[$]Klan HD
+http://31.172.87.53:2200/ALB-EX/Klan_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA HD
+http://31.172.87.53:2200/ALB-EX/Klan_Kosova-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M HD
+http://31.172.87.53:2200/ALB-EX/Alsat_M_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/UEYLchp.png",[$]TV ERA HD
+http://31.172.87.53:2200/ALB-EX/Era_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/EpaGUeU.png",[$]RTSH 1HD
+http://31.172.87.53:2200/ALB-EX/RTSH_1_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/q9gq1vh.png",[$]RTSH 2HD
+http://31.172.87.53:2200/ALB-EX/RTSH_2_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/x5jUmXf.png",[$]RTSH 3HD
+http://31.172.87.53:2200/ALB-EX/RTSH_3_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Sax1DiE.png",[$]RTSH KUVEND HD
+http://31.172.87.53:2200/ALB&EX/RTSH_Kuvendi_HD_AL-alb/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/VqQBc3x.png",[$]TV DUKAGJINI HD
+http://31.172.87.53:2200/ALB-EX/TV_Dukagjini_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/bfEsnMG.png",[$]RTV 21 MACEDONIA HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_MK_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV 21HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/286HPuU.png",[$]TV KOHA HD
+http://31.172.87.53:2200/ALB-EX/TV_Koha_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU HD 
+http://31.172.87.53:2200/ALB-EX/Tv_Kopliku_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/YROM3Jv.png",========>>LAJME<<========
+https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?mak2
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/7HxzZqY.png",[$]SYRI-TV HD
+http://31.172.87.53:2200/ALB-EX/TV_Syri_Vision_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/HumlTXC.png",[$]ARTA NEWS HD
+http://31.172.87.53:2200/ALB-EX/TV_Arta_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/S6NxNOj.png",[$]ORA NEWS HD
+http://31.172.87.53:2200/ALB-EX/Ora_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/iFgj4d2.png",[$]NEWS 24HD
+http://31.172.87.53:2200/ALB-EX/News_24_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/mwV2Y5u.png",[$]TOP NEWS HD
+http://31.172.87.53:2200/ALB-EX/Top_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/9CeQ9qD.png",[$]ABC NEWS HD
+http://31.172.87.53:2200/ALB-EX/Abc_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Zy1fQ8Q.png",[$]APOLLON TV
+http://31.172.87.53:2200/ALB-EX/Apollon_News_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/YROM3Jv.png",========>>MUZIKE<<========
+https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?mak3
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/ZCAnj9p.png",[$]RTV21 MIX HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_Mix_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/etjJ7sO.png",[$]RTV21 POPULLORE HD
+http://31.172.87.53:2200/ALB-EX/RTV_21_Popullore_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/jNN2MHu.png",[$]LIRIA TV
+http://31.172.87.53:2200/ALB-EX/LIRIA_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Rk4eDOd.png",[$]FIRST CHANNEL
+http://31.172.87.53:2200/ALB-EX/1_First_Kosova_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/H8XWZYs.png",[$]ZICO TV
+http://31.172.87.53:2200/ALB-EX/Zico_TV_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/ieaB7wj.png",[$]TV PRIZRENI
+http://31.172.87.53:2200/ALB-EX/PRIZRENI_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.ibb.co/Z81Vvsj/shota.png",[$]TV SHOTA
+http://31.172.87.53:2200/ALB-EX/Shota_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/YROM3Jv.png",========>>FEMIJE<<========
+https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?mak4
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Yj2naMf.png",[$]SOFIA TV
+http://31.172.87.53:2200/ALB-EX/Sofia_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/ZTL0Hcl.png",[$]BANG BANG
+http://31.172.87.53:2200/ALB-EX/Bang_Bang_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/2UQPL93.png",[$]CUFO TV
+http://31.172.87.53:2200/ALB-EX/Cufo_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/6BCMgdN.png",[$]TRING TRING
+http://31.172.87.53:2200/ALB-EX/Tring_Tring_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/i4wkGBK.png",[$]TIP TV
+http://31.172.87.53:2200/ALB-EX/Tip_TV_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/jj9BO2N.png",[$]TRING KIDS
+http://31.172.87.53:2200/ALB-EX/TRING_KIDS_AL-alb/tracks-v1a1/mono.m3u8?token=STATIC|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="http://www.albepg.com/tvlogi/Duck%20tv.png",[$]DUCK TV
+http://31.172.87.53:2200/ALB-EX/DUCK_TV_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/LQb39yF.png",[$]TAO TAO
+http://31.172.87.53:2200/ALB-EX/TaoTao-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/YROM3Jv.png",========>>KULTURE<<========
+https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?mak5
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/XPVtoOO.png",[$]EXPLORER SHKENCE
+http://31.172.87.53:2200/ALB-EX/Explorer_Shkence_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/T6y4ib7.png",[$]EXPLORER NATYRA
+http://31.172.87.53:2200/ALB-EX/Explorer_NAtyra_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/uWGBkY5.png",[$]EXPLORER HISTORI
+http://31.172.87.53:2200/ALB-EX/Explorer_History_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/5ZnQxTU.png",[$]TRING WORLD
+http://31.172.87.53:2200/ALB-EX/Tring_World_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/RSBqaNN.png",[$]TRING PLANET
+http://31.172.87.53:2200/ALB-EX/Tring_Planet_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/reB8lrJ.png",[$]TRING HISTORY
+http://31.172.87.53:2200/ALB-EX/Tring_History_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Ev4er0J.png",[$]24 KITCHEN
+http://31.172.87.53:2200/ALB-EX/Kitchen_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/0N8MnhN.png",[$]TRAVEL CHANNEL
+http://31.172.87.53:2200/ALB-EX/Travel_Channel_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/NMnuqfR.png",[$]DISCOVERY SCIENCE
+http://31.172.87.53:2200/ALB-EX/Discovery_Science_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/YROM3Jv.png",========>>FILMA<<========
+https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?mak6
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/N4IWSqm.png",[$]FILM GOLD HD
+http://31.172.87.53:2200/ALB-EX/Film_Nje_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/lBwJpaC.png",[$]FILM MAX HD
+http://31.172.87.53:2200/ALB-EX/Film_Dy-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/VbuY2cH.png",[$]FILM AKSION HD
+http://31.172.87.53:2200/ALB-EX/Film_Aksion_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/FthL5hJ.png",[$]FILM HITS HD
+http://31.172.87.53:2200/ALB-EX/Film_Hits_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/6rA4A9a.png",[$]FILM DRAME 
+http://31.172.87.53:2200/ALB-EX/Film_Drame_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/auNzq99.png",[$]FILM KOMEDI
+http://31.172.87.53:2200/ALB-EX/Film_Komedi_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/XTlw1pC.png",[$]FILM AUTOR
+http://31.172.87.53:2200/ALB-EX/Film_Autor_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Us9AwSU.png",[$]FILM STINET
+http://31.172.87.53:2200/ALB-EX/Film_Stinet_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/MBWwZiO.png",[$]FILM T-HD
+http://31.172.87.53:2200/ALB-EX/T_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/Vs4PpZp.png",[$]FAMILY HD
+http://31.172.87.53:2200/ALB-EX/Family_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/NjtAdF7.png",[$]EUROFILM HD
+http://31.172.87.53:2200/ALB-EX/Euro_Film_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/VTeSkWA.png",[$]KANAL-D DRAMA HD
+http://31.172.87.53:2200/ALB-EX/KanalD_Drama_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/0o9hujQ.png",[$]TRING JOLLY HD
+http://31.172.87.53:2200/ALB-EX/Tring_Jolly_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/FdHv6PL.png",[$]TRING LIVING HD
+http://31.172.87.53:2200/ALB-EX/Living_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/uuXOeI4.png",[$]TRING SUPER HD
+http://31.172.87.53:2200/ALB-EX/Tring_Super_FHD_VIP_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/dyadOuN.png",[$]TRING FANTASY
+http://31.172.87.53:2200/ALB-EX/Tring_FAntasy_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/LipwYu2.png",[$]TRING LIFE
+http://31.172.87.53:2200/ALB-EX/Tring_Life_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/FEIDf9n.png",[$]TRING 3+
+http://31.172.87.53:2200/ALB-EX/Tring_3_Plus_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/j377oHE.png",[$]TRING COMEDY
+http://31.172.87.53:2200/ALB-EX/Tring_Comedy_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/OsX9Rfd.png",[$]TRING SHQIP
+http://31.172.87.53:2200/ALB-EX/Tring_Shqip_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/bdEufPv.png",[$]TRING SMILE
+http://31.172.87.53:2200/ALB-EX/Tring_Smile_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/uw2sIZk.png",[$]FOX 
+http://31.172.87.53:2200/ALB-EX/Fox_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/QBtN7oM.png",[$]FOX LIFE
+http://31.172.87.53:2200/ALB-EX/Fox_Life_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/O0gXCE6.png",[$]FALCON ACTION HD
+http://31.172.87.32:2200/ALB-EX/XACTION_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/lQYWYf2.png",[$]FALCON DRAMA HD
+http://31.172.87.32:2200/ALB-EX/XDRAMA_HD_-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/bumwU6t.png",[$]NETFLIX ROMANCE HD
+http://31.172.87.32:2200/ALB-EX/XROMANCE_HD_-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
+#EXTINF:-1 group-title="[🇦🇱📺]TV-MAK" tvg-logo="https://i.imgur.com/tOeoh4o.png",[$]RTSH FILM HD
+http://31.172.87.53:2200/ALB-EX/RTSH_Film_HD_AL-alb/tracks-v1a1/mono.m3u8?token=RED|User-Agent=REDLINECLIENT SAMSUNG SM-G973F 1.0.02
 
 #EXTINF:-1 group-title="[🇦🇱📺]KLANI-IM" tvg-logo="https://i.imgur.com/upwVE4e.png",========>>GJENERALE<<========
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?klanime
@@ -6065,7 +6065,7 @@ http://194.76.186.151:20015/play/Vivid_Red_HD
 #EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/tXg7BBe.png",[$]EROTIC 6HD
 http://194.76.186.151:20015/play/Redlight_HD
 #EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/tXg7BBe.png",[$]EROTIC 7HD
-http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/2178.ts
+http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/2179.ts
 #EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/tXg7BBe.png",[$]EROTIC 8HD
 http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/2180.ts
 #EXTINF:-1 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/tXg7BBe.png",[$]EROTIC 9HD
