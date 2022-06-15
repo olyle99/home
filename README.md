@@ -1717,7 +1717,7 @@ http://84.22.33.254/unicast.21junior/index.m3u8?token=tv
 #EXTINF:-1 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/J0iqnzG.png",[$]SOLE TV
 http://135.125.6.54/sole/index.m3u8
 #EXTINF:0 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/lat6vH4.png",[$]SOFA HD
-http://91.132.172.169:8000/play/a03e/index.m3u8
+http://91.132.172.169:8000/play/a03g/index.m3u8
 #EXTINF:0 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/ovOC9rX.png",[$]TOM & JERRY
 http://host.serveri.stream:8080/freemx/free/24|User-Agent=test963
 #EXTINF:0 group-title="[🇦🇱👫]FEMIJE" tvg-logo="https://i.imgur.com/Cb5TGsZ.png",[$]VIZATIMORE HD
@@ -2094,24 +2094,6 @@ http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/1810.ts
 http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/1813.ts
 #EXTINF:-1 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/MG0XeBG.png",[$]NETFLIX SCHARZENEGGER HD
 http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/1812.ts
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/cinemaflag",========>>DARK FILM<<========
-https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?filma012
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 1HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/166537
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 2HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2553
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 3HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/2554
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 4HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/16460
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 5HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266392
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 6HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266393
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 7HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266394
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/zKtczkb.png",[$]DARK GOLD 8HD
-http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/266395
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/cinemaflag",========>>TIBO FILM<<========
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?filma0013
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/iPCtqnB.png",[$]TIBO PRIME 1HD
@@ -2119,7 +2101,7 @@ http://91.132.172.169:8000/play/a03o/index.m3u8
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/Jt2zal7.png",[$]TIBO PRIME 2HD
 http://91.132.172.169:8000/play/a03p/index.m3u8
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/QVgiKLm.png",[$]TIBO ACTION 
-http://91.132.172.169:8000/play/a037/index.m3u8
+http://91.132.172.169:8000/play/a03a/index.m3u8
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/eGNAjc1.png",[$]TIBO DRAMA 
 http://91.132.172.169:8000/play/a03c/index.m3u8
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/ueM5eoE.png",[$]TIBO THRILLER 
@@ -3367,6 +3349,38 @@ http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/1663.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/xaydWnb.png",[$]TSN5 HD
 http://tv.norgepro.com:8000/Stream-Center/sdgag74885fggf/1664.ts
 
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SUPER SPORT 1HD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SUPER SPORT 2HD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SUPER SPORT 3HD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SUPER SPORT 4HD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SUPER SPORT 5HD 
+http://31.172.87.53:2200/ALB-EX/Super_Sport_5_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SUPER SPORT 6HD
+http://31.172.87.53:2200/ALB-EX/Super_Sport_6_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]TRING SPORT 1HD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_1_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]TRING SPORT 2HD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_2_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]TRING SPORT 3HD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_3_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]TRING SPORT 4HD
+http://31.172.87.53:2200/ALB-EX/Tring_Sport_4_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]KUJTESA SPORT 1HD
+http://31.172.87.53:2200/ALB-EX/K_Sport_1_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]KUJTESA SPORT 2HD
+http://31.172.87.53:2200/ALB-EX/K_Sport_2_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]KUJTESA SPORT 3HD
+http://31.172.87.53:2200/ALB-EX/K_Sport_3_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]KUJTESA SPORT 4HD
+http://31.172.87.53:2200/ALB-EX/K_Sport_4_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]EUROSPORT 1HD
+http://31.172.87.53:2200/ALB-EX/EuroSport_1_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]EUROSPORT 2HD
+http://31.172.87.53:2200/ALB-EX/EuroSport_2_FHD_VIP_AL-alb/index.m3u8?token=RED|User-Agent=REDLINECLIENT samsung SM-G973F 1.0.02
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SONY TEN 1HD
 http://182.50.65.213:8888/udp/239.239.0.33:3001|User-Agent=stream
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(TEST)" tvg-logo="https://bit.ly/3szXl4p",[$]SONY TEN 2HD
@@ -5452,7 +5466,7 @@ http://193.33.240.8:8080/hustler_hd/index.m3u8
 http://85.11.144.9:7766/HustlerHD?token=test
 #EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/yKWhvI3.png",[$]BANG-U HD
 http://195.181.160.212:888/HUSTLERHD/index.m3u8?token=test
-#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/yKWhvI3.png",[$]BANG-U
+#EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/yKWhvI3.png",[$]BANG-U 2HD
 http://85.11.144.9:7766/bang?token=test
 #EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/z8epcDk.png",[$]X-DORCEL HD
 http://streamer11.xploretv.si//__cl/cg:prod/__c/A1_SI_DORCEL_ott/__op/dash-default/__dci/A1_SI_MICOCOMI_ott/__f/manifest.m3u8 
