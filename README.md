@@ -26,8 +26,6 @@ http://host.serveri.stream:8080/freemx/free/14?|User-Agent=test963
 http://199.127.60.117:8081/live/klanplus/playlist.m3u8?
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/lQrBDzI.png",[$]KLAN MACEDONIA HD
 http://79.106.48.2:3131/live/klanmacedoniamob/playlist.m3u8?
-#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/lQrBDzI.png",[$]KLAN MACEDONIA
-http://178.63.67.20/tv/TVART.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA HD
 http://46.29.169.15:4001/play/a00a/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/K4kFtGF.png",[$]KLAN KOSOVA 
@@ -38,12 +36,10 @@ http://local.liveline.nu:2085/play/a0b2ALSAMMFHD/index.m3u8
 http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/1346.ts
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/40PF3sT.png",[$]ALSAT-M 
 http://62.162.79.7:8000/play/s32
-#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2FHD
-http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2HD
-http://62.162.79.7:8005/play/s27
+http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2
-http://178.63.67.20/tv/MRT2.m3u8
+http://62.162.79.7:8005/play/s27
 #EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV FHD
 http://135.125.6.54/ktv/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV HD
@@ -54,16 +50,12 @@ http://194.15.225.98:8000/play/a004
 http://194.5.235.161:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV 21
 http://135.125.6.54/rtv21/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/UEYLchp.png",[$]TV ERA FHD
-http://195.181.169.152:8080/MACEDONIA/ERA_TV/index.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/UEYLchp.png",[$]TV ERA HD
+http://195.181.169.152:8080/MACEDONIA/ERA_TV/index.m3u8?token=test
+#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/UEYLchp.png",[$]TV ERA 
 http://host.serveri.stream:8080/freemx/free/154|User-Agent=test963
-#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/UEYLchp.png",[$]TV ERA
-http://178.63.67.20/tv/TVERA.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Koha%20TV.png",[$]TV KOHA HD
 http://host.serveri.stream:8080/freemx/free/119|User-Agent=test963
-#EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="http://www.albepg.com/tvlogi/Koha%20TV.png",[$]TV KOHA
-http://178.63.67.20/tv/TVKOHA.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/ZJPNv24.png",[$]ORA HD
 https://live1.mediadesk.al/oratv.php|User-Agent=stream
 #EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/QNKBs1l.png",[$]MCN-TV 
@@ -89,8 +81,6 @@ http://194.5.235.161:8000/play/a03a/index.m3u8
 http://stream.logic-ks.net:6969/live/ari/tv/1.ts
 #EXTINF:-1 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/EzpyfLs.png",[$]RTV MALISHEVA HD
 http://host.serveri.stream:8080/freemx/free/146|User-Agent=test963
-#EXTINF:0 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/ZCAnj9p.png",[$]RTV21 MIX HD
-http://178.63.67.20/tv/RTV21MIX.m3u8
 #EXTINF:0 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/EpNo3i9.png",[$]RTV21 PLUS HD 
 http://84.22.33.254/unicast.21plushd/mpegts?token=tv
 #EXTINF:0 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/etjJ7sO.png",[$]RTV21 POPULLORE HD
@@ -99,10 +89,6 @@ http://84.22.33.254/unicast.21popullorehd/mpegts?token=tv
 http://84.22.33.254/unicast.21junior/mpegts?token=tv
 #EXTINF:-1 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV 21HD
 http://host.serveri.stream:8080/freemx/free/6|User-Agent=test963
-#EXTINF:-1 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV 21
-http://178.63.67.20/tv/RTV21KS.m3u8
-#EXTINF:-1 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/bfEsnMG.png",[$]RTV 21 MACEDONIA
-http://178.63.67.20/tv/TV21MK.m3u8
 #EXTINF:0 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/TIxChmz.png",[$]KANAL 10HD
 http://194.5.235.161:8000/play/a030/index.m3u8
 #EXTINF:-1 group-title="[🇪🇺📺]KOSOVARE" tvg-logo="https://i.imgur.com/aQP2aPx.png",[$]T7 HD
@@ -164,27 +150,19 @@ https://tvlive.rtsh.dev/live/rtsh_plus_ott/playlist.m3u8|Referer=https://tv.rtsh
 https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott/playlist.m3u8|Referer=https://tv.rtsh.al/
 
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU HD 
-http://195.154.56.105/live/1/1/1.m3u8
+http://212.129.1.10/live/1/1/1.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU
 http://95.107.145.50:8080/KopLIKsdfhusahf/index.m3u8
-#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/8pgkBrX.png",[$]TV KOPLIKU test
-http://178.63.67.20/tv/TVKOPLIKU.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/Sph5sqo.png",[$]STAR PLUS HD
 http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9v/12428
-#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/Sph5sqo.png",[$]STAR PLUS 
-http://178.63.67.20/tv/STARPLUS.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/UorxjY1.png",[$]TV1 CHANNEL HD
 http://host.serveri.stream:8080/freemx/free/291|User-Agent=test963
-#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/UorxjY1.png",[$]TV1 CHANNEL
-http://178.63.67.20/tv/TV1CHANNEL.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/6Eg70KI.png",[$]BLUE SKY HD
 http://host.serveri.stream:8080/freemx/free/293|User-Agent=test963
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/6Eg70KI.png",[$]BLUE SKY
 http://quality-restream.com:8080/i4stream/d78b24fc9a18/280117
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/JwR2Pz3.png",[$]TV ROZAFA HD
 http://host.serveri.stream:8080/freemx/free/294|User-Agent=test963
-#EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/JwR2Pz3.png",[$]TV ROZAFA 
-http://178.63.67.20/tv/TVROZAFA.m3u8
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/fqTmlvQ.png",[$]SHIJAK TV
 http://edge01eu.ekranet.com/shijaktv/index.m3u8|User-Agent=stream
 #EXTINF:-1 group-title="[🇦🇱📺]LOKALE" tvg-logo="https://i.imgur.com/hNAbASV.png",[$]SPIN-TV HD
@@ -248,8 +226,6 @@ http://stream.tvdielli.com:8081/dielli/index.m3u8
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?klan
 #EXTINF:0 group-title="[🇦🇱📺]PLAY-TV" tvg-logo="https://i.imgur.com/zraawM2.png",[$]VIZION PLUS HD
 http://135.125.6.54/vizion/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]PLAY-TV" tvg-logo="https://i.imgur.com/zraawM2.png",[$]VIZION PLUS
-http://178.63.67.20/tv/VIZIONPLUS.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]PLAY-TV" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL HD
 http://135.125.6.54/top/index.m3u8?
 #EXTINF:0 group-title="[🇦🇱📺]PLAY-TV" tvg-logo="https://i.imgur.com/FnpdLkm.png",[$]TOP CHANNEL 
@@ -2274,10 +2250,6 @@ http://194.15.225.98:8000/play/a2qs
 http://84.22.33.254/unicast.7hd/mpegts?token=tv
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/Epqw3SU.png",[$]FX-MEDIA HD
 https://monamour.agency/fxmediaweb5548/index.m3u8|User-Agent=stream
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/GlVAJra.png",[$]ALB-TV FILM1
-http://178.63.67.20/tv/ALBFILMTV1.m3u8
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/GlVAJra.png",[$]ALB-TV FILM2
-http://178.63.67.20/tv/ALBFILMTV2.m3u8
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/cinemaflag",========>>MY-TRING FILM<<========
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?film015
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/tPy4NjS.png",[$]JOLLY HD
@@ -2382,6 +2354,18 @@ http://195.181.169.152:8080/CROATIA/FOX_CRIME_HD/index.m3u8?token=test
 http://195.181.169.152:8080/CROATIA/FOX_MOVIES_HD/index.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/Ddg6s7X.png",[$]STAR MOVIES HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/index.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/FMgr9NC.png",[$]TELE-CINE PREMIUM HD
+http://66.70.255.98/TC_PREMIUM/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/80bSPW4.png",[$]TELE-CINE ACTION HD
+http://66.70.255.98/TC_ACTION/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/iJStC5W.png",[$]TELE-CINE CULT HD
+http://66.70.255.98/TC_CULT/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/22ZS0Ph.png",[$]TELE-CINE PIPOCA HD
+http://66.70.255.98/TC_PIPOCA/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/OaW0QgW.png",[$]TELE-CINE TOUCH HD
+http://66.70.255.98/TC_TOUCH/playlist.m3u8
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/6bIOOi9.png",[$]TELE-CINE FUN HD
+http://66.70.255.98/TC_FUN/playlist.m3u8
 
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/T0I44Ve.png",[$]KANAL-D DRAMA HD
 http://loc.ipalfa.org:25461/fatmiri-isp/2019/194
@@ -2628,11 +2612,11 @@ http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/219
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://bit.ly/ballflag",========>>ART SPORT<<========
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?sport8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/wU8cX1J.png",[$]SPORT 1HD
-http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/23143
+http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/23143.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/lje1SFG.png",[$]SPORT 2HD
-http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/23146
+http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/23146.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/RGtnr9H.png",[$]SPORT 3HD
-http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/40061
+http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/40061.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/KR2m0x4.png",[$]SPORT 4HD
 http://185.222.138.163:9000/play/a0up
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/9WRkpRM.png",[$]SPORT 5HD
@@ -2870,7 +2854,7 @@ http://37.17.14.149:8910/play/a009
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.ibb.co/RCxxxgR/VS.png",[$]VIASAT SPORT HD
 https://sc.id-tv.kz:443/ViasatSport_34_35.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/nXHTWAz.png",[$]SETANTA SPORTS +HD
-http://88.99.214.215/setantaplusukraina/mono.m3u8
+http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/JTnK8An.png",[$]SETANTA SPORTS 1HD
 https://livetv.mylifeisgood.ml/channels/setantahd
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/Ky2HUUi.png",[$]SETANTA SPORTS 2HD
@@ -3373,14 +3357,6 @@ http://loc.ipalfa.org:25461/fatmiri-isp/2019/202
 http://loc.ipalfa.org:25461/fatmiri-isp/2019/212
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/wHLfyZ3.png",[$]ARENA SPORT 6HR
 http://loc.ipalfa.org:25461/fatmiri-isp/2019/213
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.ibb.co/LrgBnCy/m1.png",[$]МАТЧ! ФУТБOЛ 1HD
-http://89.104.114.26:8080/football1_hd/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.ibb.co/3d8f0j5/m2.png",[$]МАТЧ! ФУТБOЛ 2HD 
-http://89.104.114.26:8080/football2_hd/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/WvrK5DG.png",[$]МАТЧ! ФУТБOЛ 3HD
-http://89.104.114.26:8080/football3_hd/index.m3u8
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/TlpZb1D.png",[$]ФУТБOЛ HD
-http://89.104.114.26:8080/football/index.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/acop6dG.png",[$]ESPN HD
 http://45.167.250.116:20023/play/a0fr/index.m3u8
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/l1KArnf.png",[$]ESPN 2HD
@@ -3413,12 +3389,6 @@ http://200.194.238.229:8000/udp/225.1.1.15:1234
 http://200.194.238.229:8000/udp/225.1.1.14:1234  
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/CrF3n9U.png",[$]DISCOVERY TURBO HD 
 http://200.194.238.229:8000/udp/225.1.1.28:1234 
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
-http://195.154.242.24:8001/play/a00a?
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
-http://195.154.242.24:8001/play/a00b?
-#EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
-http://195.154.242.24:8001/play/a00c?
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1ar/index.m3u8?
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE(FHD)" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
@@ -4630,56 +4600,61 @@ http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5513
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5518
 #EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/GHO2Lvl.png",[$]DTX 
 http://1.allnetcom.com:25461/0IoAFE867t/4pQ6zWQZh4/5582
-
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
-http://213.202.230.51:25461/live_sport1/live_sport_ios/8
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
-http://213.202.230.51:25461/live_sport1/live_sport_ios/9
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
-http://213.202.230.51:25461/live_sport1/live_sport_ios/10
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://213.202.230.51:25461/live_sport1/live_sport_ios/11
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://213.202.230.51:25461/live_sport1/live_sport_ios/12
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://213.202.230.51:25461/live_sport1/live_sport_ios/13
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://213.202.230.51:25461/live_sport1/live_sport_ios/14
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/JTnK8An.png",[$]SETANTA SPORTS 1HD
+http://84.17.61.200:8085/udp/238.2.19.174:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/Ky2HUUi.png",[$]SETANTA SPORTS 2HD
+http://84.17.61.200:8085/udp/238.2.19.175:1234
+#EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
+http://84.17.61.200:8085/udp/238.2.16.145:1234
+#EXTINF:0 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
+http://84.17.61.200:8085/udp/238.2.17.105:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/sH3XOAe.png",[$]OYTGON HD
+http://185.184.233.143:5000/udp/225.1.2.82:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/cwqZsGM.png",[$]OYTGON 1HD
+http://84.17.61.200:8085/udp/238.2.17.4:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/JZMUIbd.png",[$]OYTGON 2HD
+http://84.17.61.200:8085/udp/238.2.17.15:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/F3MFCls.png",[$]OYTGON 3HD
+http://84.17.61.200:8085/udp/238.2.17.73:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/GHO2Lvl.png",[$]DTX HD
+http://84.17.61.200:8085/udp/238.2.16.211:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/vabi9sG.png",[$]МАТЧ! HD 
+http://84.17.61.200:8085/udp/238.2.47.108:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/vabi9sG.png",[$]МАТЧ! 
+http://193.233.9.49/streams/media/Match_TV_HD/index.m3u8
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/MstKijI.png",[$]MATCH! NRPA HD
+http://84.17.61.200:8085/udp/238.2.0.136:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/MstKijI.png",[$]MATCH! NRPA 
+http://193.233.9.49/streams/media/Match_Igra/index.m3u8
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/Un7akXU.png",[$]MATCH! NPEMBEP HD
+http://84.17.61.200:8085/udp/238.2.0.37:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/Un7akXU.png",[$]MATCH! NPEMBEP 
+http://193.233.9.49/streams/media/Match_Premer/index.m3u8
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.ibb.co/RCxxxgR/VS.png",[$]VIASAT SPORT HD
+http://84.17.61.200:8085/udp/238.2.0.77:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/4Ifxytd.png",[$]MATCH! CTPAHA HD
+http://84.17.61.200:8085/udp/238.2.0.134:1234
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/gIlWtB9.png",[$]МАТЧ! APEHA HD
+http://193.233.9.49/streams/media/Match_Arena_HD/index.m3u8
+#EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/CiBsvEe.png",[$]MATCH! BOEC HD
+http://193.233.9.49/streams/media/Match_Boec/index.m3u8
 
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/0OpM8TA.png",[$]BEIN SPORTS XTRA HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
-http://195.154.242.24:8001/play/a00d
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/1niJEqG.png",[$]BEIN SPORTS 2HD ENGLISH
-http://195.154.242.24:8001/play/a00e
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/yZeinDH.png",[$]BEIN SPORTS 1HD FRENCH
-http://195.154.242.24:8001/play/a00f
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/uI77rGT.png",[$]BEIN SPORTS 2HD FRENCH
-http://195.154.242.24:8001/play/a00g
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
-http://195.154.242.24:8001/play/a00a
+http://213.202.230.51:25461/live_sport1/live_sport_ios/8
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
-http://195.154.242.24:8001/play/a00b
+http://213.202.230.51:25461/live_sport1/live_sport_ios/9
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
-http://195.154.242.24:8001/play/a00c
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/8Cdn57v.png",[$]BEIN SPORTS NEWS HD
-http://195.154.242.24:8001/play/a002
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/OFce4SD.png",[$]BEIN SPORTS HD
-http://195.154.242.24:8001/play/a003
+http://213.202.230.51:25461/live_sport1/live_sport_ios/10
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://195.154.242.24:8001/play/a001
+http://213.202.230.51:25461/live_sport1/live_sport_ios/11
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://195.154.242.24:8001/play/a004
+http://213.202.230.51:25461/live_sport1/live_sport_ios/12
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://195.154.242.24:8001/play/a005
+http://213.202.230.51:25461/live_sport1/live_sport_ios/13
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://195.154.242.24:8001/play/a006
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
-http://195.154.242.24:8001/play/a007
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/iSyOH09.png",[$]BEIN SPORTS 6HD
-http://195.154.242.24:8001/play/a008
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/cEqgGWC.png",[$]BEIN SPORTS 7HD
-http://195.154.242.24:8001/play/a009
+http://213.202.230.51:25461/live_sport1/live_sport_ios/14
 
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1fr/index.m3u8?
@@ -4854,8 +4829,10 @@ http://networkbest.ru.com/cdn/premium71/chunks.m3u8?|Referer=https://player.lice
 http://networkbest.ru.com/cdn/premium72/chunks.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/di11stm.png",[$]ELEVEN SPORTS 3HD
 http://networkbest.ru.com/cdn/premium428/chunks.m3u8?|Referer=https://player.licenses4.me/
+#EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/di11stm.png",[$]ELEVEN SPORTS 3FHD
+http://45.92.69.203:1983/play/a0oz
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/2mWZXVy.png",[$]ELEVEN SPORTS 4HD 
-http://89.249.49.78:8000/play/a03h
+http://45.92.69.203:1983/play/a0lk
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/kTOXOZQ.png",[$]CANAL+SPORT HD
 http://networkbest.ru.com/cdn/premium48/chunks.m3u8?|Referer=https://player.licenses4.me/ 
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/HuBz6fp.png",[$]CANAL+SPORT 2HD
@@ -5044,11 +5021,11 @@ http://networkbest.ru.com/cdn/premium104/chunks.m3u8?|Referer=https://player.lic
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/nexCMwt.png",[$]SPORT TV +HD 
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/lLUDa8S.png",[$]SPORT TV 1HD 
-http://62.28.71.186:45678/http/192.168.150.173:7073/spt1
+http://87.117.204.76:8030/Fuchar1/index.m3u8?USE_EXOPLAYER=1
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT TV 2HD
-http://62.28.71.186:45678/http/192.168.150.173:7073/spt2
+http://87.117.204.76:8030/Fuchar2/index.m3u8?USE_EXOPLAYER=1
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/9U5nFna.png",[$]SPORT TV 3HD
-http://62.28.71.186:45678/http/192.168.150.173:7073/spt3
+http://87.117.204.76:8030/Fuchar3/index.m3u8?USE_EXOPLAYER=1
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/CFl3zRU.png",[$]ELEVEN 1HD
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven1
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/JcANqBJ.png",[$]ELEVEN 2HD
@@ -5061,33 +5038,6 @@ http://62.28.71.186:45678/http/192.168.150.137:7137/eleven4
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven5
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/dRMNOMu.png",[$]ELEVEN 6HD
 http://62.28.71.186:45678/http/192.168.150.137:7137/eleven6
-
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/nexCMwt.png",[$]SPORT TV +HD 
-http://89.114.126.46:4000/play/a00f
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/lLUDa8S.png",[$]SPORT TV 1HD 
-http://89.114.126.46:4000/play/a003
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/GWZLIwO.png",[$]SPORT TV 2HD
-http://89.114.126.46:4000/play/a004
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/9U5nFna.png",[$]SPORT TV 3HD
-http://89.114.126.46:4000/play/a005
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/iq5MRT8.png",[$]SPORT TV 4HD
-http://89.114.126.46:4000/play/a008
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/GgJrV2p.png",[$]SPORT TV 5HD
-http://89.114.126.46:4000/play/a00a
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/VuFGUbJ.png",[$]SPORT TV 6HD
-http://89.114.126.46:4000/play/a00b
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/CFl3zRU.png",[$]ELEVEN 1HD
-http://89.114.126.46:4000/play/a01s
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/JcANqBJ.png",[$]ELEVEN 2HD
-http://89.114.126.46:4000/play/a01p
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/1Akxat2.png",[$]ELEVEN 3HD
-http://89.114.126.46:4000/play/a01q
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/TeqAoTS.png",[$]ELEVEN 4HD
-http://89.114.126.46:4000/play/a01t
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/URNcmBu.png",[$]ELEVEN 5HD
-http://89.114.126.46:4000/play/a01u
-#EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE 2" tvg-logo="https://i.imgur.com/dRMNOMu.png",[$]ELEVEN 6HD
-http://89.114.126.46:4000/play/a01r
 
 #EXTINF:-1 group-title="[🇷🇺⚽]SPORTE RUSE" tvg-logo="https://i.imgur.com/3noPIgz.png",[$]SETANTA SPORTS HD 
 https://cdnua06.hls.tv/hls/061df9d47a31d5ffeeee40bbf3333deb/291/stream.m3u8
@@ -5301,7 +5251,7 @@ http://localiptv.site:85/Geniptv130C/Portal.geniptv130C/937
 http://localiptv.site:85/Geniptv130C/Portal.geniptv130C/941
 #EXTINF:0 group-title="[🇧🇬⚽]SPORTE BULLGARE 2" tvg-logo="https://i.imgur.com/OZukPbO.png",[$]NOVA SPORT HD
 http://localiptv.site:85/Geniptv130C/Portal.geniptv130C/938
-#EXTINF:0 group-title="[🇧🇬⚽]SPORTE BULLGARE 2" tvg-logo="",[$]RING HD
+#EXTINF:0 group-title="[🇧🇬⚽]SPORTE BULLGARE 2" tvg-logo="https://i.imgur.com/CqiEFir.png",[$]RING HD
 http://localiptv.site:85/Geniptv130C/Portal.geniptv130C/940
 #EXTINF:0 group-title="[🇧🇬⚽]SPORTE BULLGARE 2" tvg-logo="https://i.imgur.com/Ot3OwUb.png",[$]MAX SPORT 1HD
 http://localiptv.site:85/Geniptv130C/Portal.geniptv130C/4967
@@ -5609,8 +5559,12 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_7
 http://109.200.130.124:15500/playboytv
 #EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/Xt3sgjM.png",[$]WERK
 http://194.190.78.81:8080/shelk/index.m3u8
-#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь 
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь HD
 http://46.174.83.66/Russkaya_Noch/index.m3u8
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/t54lLLF.png",[$]Русская ночь
+http://185.184.233.143:5000/udp/225.1.2.175:1234
+#EXTINF:0 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/qEx7Ts1.png",[$]O-LA-LA
+http://185.184.233.143:5000/udp/225.1.2.98:1234
 #EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/3RKasL4.png",[$]HUSTLER HD
 http://193.33.240.8:8080/hustler_hd/index.m3u8
 #EXTINF:-1 group-title="[⚠️🔞]ADULT[+18]" tvg-logo="https://i.imgur.com/3RKasL4.png",[$]HUSTLER
@@ -12711,6 +12665,62 @@ http://www.deadlyblogger.com/NewRelease/thecall.mp4
 http://www.deadlyblogger.com/NewRelease/thewolf2013.mp4
 #EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]THE HEAT
 http://www.deadlyblogger.com/NewRelease/theheat.mp4
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]13 CAMERAS
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/13Cameras.2015.HDRip.XViDETRG_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]21 OVER
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/21.Over.2013.720p.BluRay.x264.YIFY_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]22 JUMP STREET
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/22JumpStreet20141080pWEBDLx264AC3JYK_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]3 HEADED SHARK ATTACK
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/3.Headed.Shark.Attack.2015.720p.BluRay.x264.YIFY_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]6 DAYS TO DIE
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/6.Ways.To.Die.2015.HDRip.XViDETRG_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]7 CASES
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/7.Cases.2015.HDRip.XViDETRG_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]7 MINUTES
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/7.Minutes.2014.HDRip.XViDETRG_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]A DARK REFLECTION
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/A.Dark.Reflection.2015.HDRip.XViDETRG_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]A GOOD DAY TO DIE HARD
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/A.Good.Day.to.Die.Hard.2013.720p.BluRay.x264.YIFY_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]A CHRISTMAS HORROR STORY
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/AChristmasHorrorStory.HDRip.XviD.AC3EVO_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ADULT WORLD
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/AdultWorld2013720pBRRIPx264AC3TiTAN_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]AFTER EARTH
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/after.earth.2013.brrip.xvid-sc0rp_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]AGE OF KILL
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/AgeofKill.2015.HDRip.XViDETRG_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ALL CREATURES BIG&SMALL
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/All.Creatures.Big.and.Small.2015.1080p.BluRay.x264.YIFY_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]AMERICAN SNIPER
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/American.Sniper.2014.720p.HDRip.1GB.MkvCage_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]A MOST WANTED MAN
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/AMostWantedMan20141080pBRRipx264DTSJYK_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]AN ACT OF WAR
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/An.Act.of.War.2015.HDRip.XviD.AC3EVO_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ANCHORMAN 2
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Anchorman.2.The.Legend.Continues.2013.1080p.BluRay.x264.YIFY_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ANESTHESIA
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Anesthesia.2016.HDRip.XviD.AC3EVO_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ANGER OF THE DEAD
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Anger.of.the.Dead.2015.BDRip.XviD.AC3EVO_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ANNA KARENINA
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Anna.Karenina.2012.1080p.BluRay.x264.anoXmous__HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ANT-MAN
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/AntMan20151080pHDRipx264AACJYK_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]APPETITES
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Appetites.2015.DVDRip.XviDEVO_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]AQOS REDEMPTION
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/aqos-redemption.2013.hdrip.xvid_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]AREA 51
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Area51.2015.HDRip.XViDETRG_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ARGO
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Argo.2012.720p.BluRay.x264.YIFY_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]A SECOND CHANCE
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/ASecondChance2015WEBRipbuhaypirata_HD.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]ASSASSIN
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin/Assassin.2014.HDRip.XViDjuggsETRG_HD.mp4/playlist.m3u8
 #EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]MARAUDERS
 http://orchidetv.com:8081/s3/Marauders2016.mp4
 #EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]THE 5-TH WAVE 
@@ -13933,6 +13943,592 @@ http://orchidetv.com:8081/s3/ToyStory1995.mp4
 http://orchidetv.com:8081/s3/ToyStory21999.mp4
 
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
+https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adu
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kenna James
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPureTaboo%5D.Kenna.James.-.Peeping.Tom.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Daniella Margot
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPrivate%5D.Daniella.Margot,.perfect.body.teen.has.her.anal.debut.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jullia Rocca
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPornstarFisher%5D.Julia.Roca.-.Temptation.under.the.sun.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Marilyn Mansion
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BOnlyTeenBlowJobs%5B.Marilyn.Mansion.-.Erase.History.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Aria Sky
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Aria.Sky,.Tyler.Nixon.(05.07.2018).iptvtalk.avi.mp4/chunklist_w1287384147.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Aspen Romanov
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMofosBSides%5D.Aspen.Romanoff.-.Cheaters.Keepers.(08.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Bibi Pink
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLustyGrandmas%5D.Bibi.Pink.-.Lusty.Seduction.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sarah Vandela
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFamilyStrokes%5D.Sarah.Vandella,.Zoey.Parker.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Eva Yi
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExxxtraSmall%5D.Eva.Yi.-.Wasabi.Little.Me.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Alissa
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.Alissa.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Pepper Hart
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDaddysLilAngel%5D.Pepper.Hart.-.Yoga.With.Daddy.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kimberly
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BCastingFrancais%5D.PD.Kimberly.-.Spread.that.newbie.pussy.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Bree Daniels
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTrenchcoatX%5D.Bree.Daniels.-.The.Plumber.(04.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jessica Jaymes
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSpizoo%5D.Jessica.Jaymes.-.Spizoo.Matching.Tshirts.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jenna Reid
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Jenna.Reid.-.Prom.Queen.Pussy.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Alexis Fawx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Alexis.Fawx.-.My.Neighbor.Is.A.Squirting.Nympho.(05.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rebeca Volpetti
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWakeUpNFuck%5D.Rebecca.Volpetti.(WUNF.253.-.23.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Marry Kalisy
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BVixen%5D.Mary.Kalisy.-.Babysitting.In.Ibiza.(28.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Elsa Jean
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTonightsGirlfriend%5D.Elsa.Jean,.Ryan.Driller.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Laura Bantley
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSheWillCheat%5D.Laura.Bentley.-.Virtual.Cuckage.(28.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sarah ay
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPetiteHDPorn%5D.Sarah.Kay.-.Petite.Hardcore.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Joseline Kelly
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Joseline.Kelly,.Tony.Rubino.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Roberta Gemma
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKellyMadison%5D.Roberta.Gemma.-.The.Wife.and.Boss.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Mia Malkova
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHardX%5D.Mia.Malkova.DP.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Alice Kolars
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGroobyGirls%5D.Alice.Kollars.on.A.Leash!.(28.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Audrey Royal
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDigitalPlayground%5D.Audrey.Royal.-.Meat.Eating.Vegan.(09.07.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Bianka Blue
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BCocksXL%5D.Bianka.Blue.-.Big.Cock.Bookworm.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Noemie Bilas
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrownBunnies%5D.Noemie.Bilas.Gets.Caught.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Emma Hix & Molly Mae
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrattySis%5D.Emma.Hix,.Molly.Mae.-.Fucking.For.Fourth.Of.July.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Cumshoot 
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlack-TGirls%5D.Cumshot.Thursday.Pretty.Peachez!.(28.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lauren Phillips
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigWetButts%5D.Lauren.Phillips.-.Soak.My.Sundress.(29.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Vanna
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.19.Years.Old.-.Vanna.(21.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Tiffany Brooks
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Tiffany.Brooks.-.Poolside.Poontang.(21.06.2018).iptvtalk.avi.mp4/chunklist_w1434415954.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Brandi Bae
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigTitCreamPie%5D.Brandi.Bae.Begs.For.a.Creampie.(21.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Keilani Kita
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBangBus%5D.Keilani.Kita.-.Asian.Cutie.Hops.On.The.Bus.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Elena Vega
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Elena.Vega.-.Bookworm.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Hannah Hays & Makayla Cox
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMomsTeachSex%5D.Hannah.Hays,.Makayla.Cox.-.Love.Potion.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Bailey Brooke
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBabes%5D.Bailey.Brooke.-.The.Arrangement.(27.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sophia Leone
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BIKnowThatGirl%5D.Sophia.Leone.-.Teach.Me.How.to.Swim.(23.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Elsa Jean
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BEroticaX%5D.Elsa.Jean.-.Summer.Fling.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Stacey Saran
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigTitsAtSchool%5D.Stacey.Saran.-.Class.Jerk.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Mary Rock
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Mary.Rock.-.Slutty.Mary.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Angela White
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Angela.White.-.Slick.Swimsuit.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ava Addams
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlackedRaw%5D.Night.With.Ava.Addams.(16.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Patti
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMommyGotBoobs%5D.Texas.Patti.-.Mommy.s.Got.Some.Bazookas.(20.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Abella Danger
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/Housewife1On1.-.Abella.Danger.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Maya Bijou
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/LetsTryAnal.-.Maya.Bijou.-.Maya.Oh.My!.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Angelina Mori
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/YoungAnalTryouts.-.Angelina.Mori.-.Kinky.lovers.think.out.new.positions.for.anal.***.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jenny Ferri
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/JoyMii.-.Jenny.Ferri.-.The.Real.****.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Karlee Grey
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/NFBusty.-.Karlee.Grey.-.Hold.The.Moan.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Florane Rossel
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/HouseOfTaboo.-.Florane.Rossel.-.BDSM.Babe.s.Anal.Gape.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Linda del Sol
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BReadyOrNotHereICum%5D.Linda.del.Sol.meets.Nacho.(21.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Charlotte Sartre
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/BurningAngel.-.Charlotte.Sartre.-.Goth.Anal.Whores.2.mp4/chunklist_w1198226895.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Audrey & Jane & Liz
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/RoccoSiffredi.-.Audrey.Jane,.Liz.Heaven.-.Rocco.s.Dirty.Girls.3.mp4/chunklist_w717707492.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Olive Glass
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/NuruMassage.-.Olive.Glass.-.First.Day.on.the.Job.mp4/chunklist_w1075044077.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Moka Mora
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/TonightsGirlfriend.-.Moka.Mora.mp4/chunklist_w1808324349.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Holly Hendrix
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/POVD.-.Holly.Hendrix.-.Oil.Me.Up.mp4/chunklist_w1681910536.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ana Rose
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Ana.Rose.-.Paparazzi.Pussy.(07.06.2018).iptvtalk.avi.mp4/chunklist_w1432946987.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Valentina Nappi
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBreakingAsses%5D.Valentina.Nappi.-.First.in.her.ass.(09.06.2018).iptvtalk.avi.mp4/chunklist_w1838352013.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- London River
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyFriendsHotMom%5D.London.River,.Lucas.Frost.(09.06.2018).iptvtalk.avi.mp4/chunklist_w837810787.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sybil Stallone
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMomIsHorny%5D.Sybil.Stallone.-.Angry.Milf.Fucking.Her.Stepson.Hard.(09.06.2018).iptvtalk.avi.mp4/chunklist_w2063112627.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Abella Danger
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/HardX.-.Abella.Danger.-.See.Abella.Squirt.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Madison Lush
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BAllInternal%5D.Madison.Lush.(09.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rachel Starr
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Rachel.Starr.-.Sneaky.Spinning.(09.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rachel Starr
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealWifeStories%5D.Rachel.Starr.-.Domestic.Disruption.(09.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Luna Star
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPornstarsLikeItBig%5D.Luna.Star.-.Let.Them.Eat.Ass.(09.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Angela White
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigTitsRoundAsses%5D.Angela.White.Fucks.The.Plumber.(07.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- CAssie Fire
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BJoyMii%5D.Cassie.Fire.-.I.Love.His.Stick.(08.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Brooklyn Chase
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Brooklyn.Chase.-.Stranded.Milf.(07.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ericca
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMomPov%5D.Ericca.-.Bodybuilder.GILF.loves.ass.fucking.(06.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Anita Bellini
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHandsOnHardcore%5D.Anita.Bellini.-.Triple.Dick.Gangbang.(09.06.2018).iptvtalk.avi.mp4/chunklist_w550023710.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Audrey Royal
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBadTeensPunished%5D.Audrey.Royal.-.Insert.This.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Penelope Cum
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BEx-Girlfriends%5D.Penelope.Cum.-.After-sales.service.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ashley Lane
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNaughtyOffice%5D.Ashley.Lane,.Justin.Hunt.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Marie McCray
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BIHaveAWife%5D.Marie.McCray,.Alec.Knight.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kiara Night
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenSexMovs%5D.Kiara.Night.-.Lost.tourist.gets.***.help.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sasha Colibri
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWakeUpNFuck%5D.Sasha.Colibri.(WUNF.245.-.08.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Marilyn Mansion
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BIKnowThatGirl%5D.Marilyn.Mansion.-.Hot.Teen.Gets.Recycled.(08.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Mia Malkova
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHardX%5D.The.Return.Of.Mia.Malkova.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sarah Sultry
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BAssTraffic%5D.Sarah.Sultry.(05.06.2018).iptvtalk.avi.mp4/chunklist_w1222111845.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kali Roses & Kira Noir
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDirtyMasseur%5D.Kali.Roses,.Kira.Noir.-.Just.A.Regular.Massage.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lexi Luna
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMommyGotBoobs%5D.Lexi.Luna.-.Stepmom.Gets.Soaked.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Misha Cross
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlacked%5D.Misha.Cross.-.****.The.DJ.(04.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Anna de Ville
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFakeDrivingSchool%5D.Anna.De.Ville.-.USA.babe.gets.UK.anal.***.(04.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Aidra Fox
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDigitalPlayground%5D.Aidra.Fox.-.A.Warm.Place.To.Stay.Tonight.(11.06.2018).rq.MP4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Darcia Lee
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDaneJones%5D.Darcia.Lee.-.Sexy.Hungarian.brunette.creampie.(05.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lara
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BReadyOrNotHereICum%5D.Lara.Duro.baptism.by.fire.(04.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Juliana Vega
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BAssParade%5D.Julianna.Vega.-.Best.Big.Ass.In.Porn.Is.Back.(28.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Stella
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBackroomCastingCouch%5D.Stella.(28.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Gina Valentina
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBadTeensPunished%5D.Gina.Valentina.-.Not.In.My.House.(27.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lacey Lenix
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlackedRaw%5D.Lacey.Lenix.-.Did.You.Enjoy.The.Show.(27.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Adriana Chechik
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrazzersExxtra%5D.Adriana.Chechik.-.That.Warm.And.Fuzzy.Feeling.(05.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Barbie Sins
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrazzersExxtra%5D.Barbie.Sins.-.Tight.As.Tape.(03.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Gina Valentina
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrazzersExxtra%5D.Gina.Valentina.-.I.Dream.Of.Gina.(16.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lela Star
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrazzersExxtra%5D.Lela.Star.-.Lela.Commissions.A.Cock.(09.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rachel Starr
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrazzersExxtra%5D.Rachel.Starr.-.League.of.Pornstars.A.XXX.Parody.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Amber Jane
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFakeTaxi%5D.Amber.Jayne.-.Driver.gets.more.than.a.flash.(27.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Liza del Sierra
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMilfsLikeItBig%5D.Liza.Del.Sierra.-.Mail.Order.Dominatrix.(28.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Bailey Brooke
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Bailey.Brooke,.Tony.Rubino.(28.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nekane Sweet
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPornstarFisher%5D.Nekane.Sweet.-.Boobics.vs.athletics.(27.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Aidra Fox 
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPublicBang%5D.Aidra.Fox.Gets.Fucked.at.a.Junkyard.(27.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Amaranta Hank
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BReadyOrNotHereICum%5D.Amaranta.Hank.-.Sexy.newsflash.(28.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Honey JAr
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Arian.Joy.-.Honey.Jar.(27.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Marta Lovska
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWoodmanCastingX%5D.Marta.Lovska.(Casting.X.153.Updated.-.14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Blue Angel
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPrivate%5D.Blue.Angel.-.TV.Reporter.(16.06.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Loula Lou
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFakeTaxi%5D.Loula.Lou.-.Serial.squirting.from.busty.amateur.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ava Parker
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BShoplyfter%5D.Ava.Parker.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Foxy Di
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBitchConfessions%5D.Foxy.Di.-.Tiny.ass.fucked.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kara Lee
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Kara.Lee.-.Big.Boob.Problems.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kara Lee
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Kara.Lee.-.Big.Boob.Problems.(23.05.2018).iptvtalk.avi.mp4/media_w1157426956_0.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Monica Benz
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWoodmanCastingX%5D.Monica.Benz.(06.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Naomi Bennet
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BX-Art%5D.Naomi.Bennet.-.Purely.Perfect.Pink.(26.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Young Girls
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGirlsDoPorn%5D.24.Years.Old.(E473.-.26.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lee Ane
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Lee.Anne.-.Vintage.Collection.-.Cabaret.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Shona River
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNubileFilms%5D.Shona.River.-.Welcome.Home.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Maya Bijou
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExotic4k%5D.Maya.Bijou.-.Moistened.Massage.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kendra Spade
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFantasyMassage%5D.Kendra.Spade.-.Asian.Bath.Fantasy.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Aidra Fox
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPassion-HD%5D.Aidra.Fox.-.Coming.Home.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Joseline Kelly
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGFRevenge%5D.My.Day.With.Joseline.Kelly.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Riley Reid
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTrueAnal%5D.Riley.Reid.-.Back.In.Riley.s.Backdoor.(23.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lesette
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/TGirls.xxx.Lesette.Fucked.Hard.By.Smash!.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Aprl Gillespie & Elsie Sommers
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/TGirls.porn.April.Gillespie.and.Elsie.Sommers.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Selena Mur
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BYoungAnalTryouts%5D.Selena.Mur.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kayla Kayden & Mindi Mink
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTushy%5D.Kayla.Kayden,.Mindi.Mink.-.Gape.For.My.Husband.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Emily Bender
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenSexMania%5D.Emily.Bender.-.Fantastic.date.ends.with.fantastic.sex.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Abella Danger
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BStrandedTeens%5D.Whisking.Abella.Danger.Away.From.Danger.(18.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Cherie de Ville
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSpizoo%5D.Cherie.DeVille.Gets.Caught.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Christy Love & Kimberly Chi
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BShoplyfter%5D.Christy.Love,.Kimberly.Chi.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Karol Lilien
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Karol.Lilien.-.Slow.Tease.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Eva Notty
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealWifeStories%5D.Eva.Notty.-.Welcome.to.the.Neighborwhore.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Valentina Nappi
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Valentina.Nappi.-.Valentina.s.Anal.Paradise.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Luna Star
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Luna.Star.-.Snow.Angel.(14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jane Wilde 
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Jane.Wilde,.Andy.James.-.Dine.And.Dash.(14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ella Knox
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPublicPickUps%5D.Ella.Knox.-.Wannabe.Dancer.Fucked.In.Public.(19.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jolee Love
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPublicAgent%5D.Jolee.Love.-.Toilet.fuck.with.sexy.big.tits.babe.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rosalyn Sphinx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPOVLife%5D.Rosalyn.Sphinx.-.Taxi.Driver.Gets.Some.Teen.Tushy.(14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nicolette Shea
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPornstarsLikeItBig%5D.August.Taylor,.Nicolette.Shea.-.All.Dolled.Up.Spring.Break.Edition.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- India Summer
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNuruMassage%5D.India.Summer.-.Mom.s.Nuru.Secret.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Carolina
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNewSensations%5D.Carolina.Sweets.Has.Her.1st.Time.Cock.Party.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nikky
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Nikky.Dream.IV172.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kira Thorn
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Kira.Thorn.GIO611.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jane Wilde
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHardX%5D.Jane.Wilde.-.Her.First.Anal.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Chloe Amour
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFuckingAwesome%5D.Chloe.Amour.-.The.Fighter.(14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Carrie Cherry
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFirstAnalQuest%5D.Slutty.teen.Carrie.Cherry.assfucking!.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Alexa Grace
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BEroticaX%5D.Alexa.Grace.-.Getting.Even.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Reagan Foxx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDirtyMasseur%5D.Reagan.Foxx.-.Oil.Spill.Thrills.(14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Poopea
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDaneJones%5D.Poopea.-.Romantic.sex.with.little.Thai.babe.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Alicia Poz
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BCumLouder%5D.Alicia.Poz.-.Porn.On.Veins.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Evelina
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BCasualTeenSex%5D.Evelina.Darling.-.Impudent.guy.fucks.eager.babe.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nicole Aniston
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrazzersExxtra%5D.Nicole.Aniston.-.Lined.Up.And.Laid.Out.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Charlotte Sartre
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrazzersExxtra%5D.Charlotte.Sartre.-.Fuck.the.Bourgeois.(14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Gia Paige
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlacked%5D.Gia.Paige.-.My.Favorite.Client.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Applegate
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigButtsLikeItBig%5D.AJ.Applegate.-.Anal.Surprise.Party.(15.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Maya Bijou
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBangBus%5D.Blessed.by.The.Maya.Bijou.(16.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kendra Lust
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BAssParade%5D.Kendra.Lust.Takes.Control.of.The.Thief.(14.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Veronica Leal
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWakeUpNFuck%5D.Veronica.Leal.-.WUNF.248.(01.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ivy Wolfe & Rosalyn Sphinx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BVixen%5D.Ivy.Wolfe,.Rosalyn.Sphinx.-.Never.Enough.3.(09.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ana Rose
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTiny4k%5D.Ana.Rose.-.Tiny.Cum.Fairy.(10.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lola Fae
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenFidelity%5D.Lola.Fae.-.Only.Teens.(09.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Cory Chase
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPureMature%5D.Cory.Chase.-.Dirty.Work.(10.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Karma Rx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPornstarsLikeItBig%5D.Karma.Rx.-.Busting.The.Barista.(10.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Whitney Wright
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMofosBSides%5D.Whitney.Wright.Goes.Wild.(13.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Annah
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMomPov%5D.Annah.-.Thick.beautiful.MILF.big.ole.titties.(09.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Holly Heart
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHousewife1On1%5D.Holly.Heart.(10.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Angelica
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.Angelica.(10.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jillian Janson
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDigitalPlayground%5D.Jillian.Janson.-.The.Pantsing.(28.05.2018).rq.MP4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nina Hartley
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDarkX%5D.Nina.Hartley.-.The.Devil.Wears.Black.(10.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Chloe Amour
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTushy%5D.Chloe.Amour.-.Closing.With.Anal.(01.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sindy Rako
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPublicAgent%5D.Ssindy.Rako.-.Hot.blonde.fucks.for.czech.cash.(01.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sandra Wellness
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Sandra.Wellness.SZ1953.(01.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kristy Black
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Kristy.Black.GIO649.(01.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ally Styles
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Ally.Styles.IV158.(30.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Dao
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BIKillItTS%5D.All.About.Dao.(01.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Arie Faye
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlackValleyGirls%5D.Arie.Faye.(01.05.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Naomi Nia
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWowPorn%5D.Naomi.Nia.-.Newlyweds.Anal.Lessons.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Skye West
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGFRevenge%5D.Skye.West.-.Sweet.Ass.Tanning.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Amara Romani
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenPies%5D.Amara.Romani.-.Spoiled.With.A.Creampie.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Gina Valentina
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BShoplyfter%5D.Gina.Valentina,.Mi.Ha.Doan.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sindy Black
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKillergram%5D.Sindy.Black.-.So.Fucking.Cute.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Marley Brinx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBAMVisions%5D.Marley.Brinx.-.Sexy.Pantyhose.(24.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nicole Aniston
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlacked%5D.Nicole.Aniston.-.I.Only.Want.Sex.Part.4.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Luna Lovely
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSwallowed%5D.Luna.Lovely.Oral.Challenge.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Elena Koshka
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWildOnCam%5D.Welcome.Sexy.Elena.Koshka.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Elena Koshka
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenFidelity%5D.Elena.Koshka.-.Chester.s.Living.Doll.(25.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Britney Light
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenFidelity%5D.Britney.Light.-.Detour.to.Love.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ella Knox
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BShoplyfter%5D.Ella.Knox.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jenni Ferri
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Jenni.Ferri.-.Alluring.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rebeca More
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealWifeStories%5D.Rebecca.More.-.Poker.Face.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sophia Leone
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Sophia.Leone.-.Hot.Slut.Next.Door.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Amia Miley
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPornstarsLikeItBig%5D.Amia.Miley.-.Laying.Pipe.For.A.Pornstar.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sunny Hart
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPervsOnPatrol%5D.Sunny.Hart.-.Undercover.Rub.n.Tug.(21.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Gina Valentina
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNubileFilms%5D.Gina.Valentina.-.Sexual.Fantasy.(17.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Paisley Rae
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyDaughtersHotFriend%5D.Paisley.Rae,.Ryan.Mclane.(17.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lily Moon
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyDaughtersHotFriend%5D.Lily.Moon,.Filthy.Rich.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Mia Malkova
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BEroticaX%5D.Mia.Malkova.-.Getting.Back.Together.(18.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jade Kush
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBangBros18%5D.Jade.Kush.-.Giving.A.Real.Wild.Sex.Show.(17.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Valentina Nappi
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/Valentina.Nappi.-.Manuels.Fucking.POV.9.iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Katrina Moreno
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Katrina.Moreno.-.Letter.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Summer Day
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenFidelity%5D.Summer.Day.-.Insurance.Scam.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Darcia
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BOyeLoca%5D.Darcia.-.Leche.De.Novio.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ariana Marie
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNubileFilms%5D.Ariana.Marie.-.Romance.And.Roses.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Amilia Onyx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Amilia.Onyx,.Rion.King.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Valerie White
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKarups%5D.Valerie.White.-.First.Date.Jitters.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Malyshka Che
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BClubSeventeen%5D.Malyshka.Che,.Tetti.Dew.Korti.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Tiffany Tatum
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5B21FootArt%5D.Tiffany.Tatum.-.Sex.Toes.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Christina Shine
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BAssholefever%5D.Christina.Shine.-.Sitting.On.A.Stiff.Prick.(11.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Cali Carter
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHotAndMean%5D.Alex.Blake,.Cali.Carter.-.Club.Cunts.(31.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Abella Danger
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigWetButts%5D.Abella.Danger.-.The.Easter.Hunny.(31.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kyra Rose
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyFriendsHotGirl%5D.Kyra.Rose,.Johnny.Castle.(01.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Veronica Sky
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Verona.Sky.-.Chateau.Episode.2.(01.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lexy Vicki
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BX-Art%5D.Lexy,.Vicki.-.Never.Have.I.Ever.Had.A.Threesome.Like.This.(29.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Chanell Heart
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BVixen%5D.Chanell.Heart.-.Working.Hard.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lisa Ann
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BStreetSuckers%5D.Lisa.Ann.-.Back.to.school.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Anya Ivy
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrownBunnies%5D.Anya.Ivy.Fucks.The.MailMan.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Dolly Leigh
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BStrandedTeens%5D.Dolly.Leigh.-.Stealing.from.the.Easter.Bunny.s.Basket.(02.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Clary
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNFBusty%5D.Clary.-.Full.Natural.Tits.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Regan Foxx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyFriendsHotMom%5D.Reagan.Foxx,.Tony.Rubino.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Izzy Bell
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrattySis%5D.Izzy.Bell.-.April.Fools.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Raven Hart
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexAndSubmission%5D.Raven.Hart.-.The.Made.Wife.(30.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kenzie Reeves
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyFamilyPies%5D.Alex.Blake,.Kenzie.Reeves.-.Step.Sister.In.Love.(31.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Olivia Austin
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPureMature%5D.Olivia.Austin.-.Insta-MILF.(31.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Christiana Cinn
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDirtyWivesClub%5D.Christiana.Cinn,.Johnny.Castle.(31.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Silvia Burton
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWoodmanCastingX%5D.Silvia.Burton.(Updated.-.16.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Luna Star
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPornstarsLikeItBig%5D.Luna.Star.-.The.Great.ZZ.Egg.Hunt.(01.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Tara Ashley
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlackIsBetter%5D.Tara.Ashley.-.Top.Woman.(08.04.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kendra Spade
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/BCM.xxx.Kendra.Spade.Loves.Huge.Cock.(22.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jessa Rhodes
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BWildOnCam%5D.Jessa.Rhodes.Makes.You.Cum.(22.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Clea Gaultier
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTushy%5D.Clea.Gaultier.-.International.Anal.(22.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Valentina Nappi
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNFBusty%5D.Valentina.Nappi.-.Honey.Im.Home.(23.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Alura Jenson
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyFriendsHotMom%5D.Alura.Jenson,.Lucas.Frost.(23.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Canela Skin
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLivingWithaPornstar%5D.Canela.Skin.-.Street.audition.(22.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- James Deen
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BJamesDeen%5D.Jillian.Janson.Is.The.Director.(22.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Payton Sinclaire
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHustler%5D.Payton.Sinclaire.(22.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Carissa
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.Carissa.(22.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lily Adams
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrattySis%5D.Alex.Blake,.Lily.Adams.-.Creampie.Surprise.(23.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lilu Moon
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BX-Art%5D.Lilu.Moon.-.Blowjob.or.Blowfish.(13.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lily Labeau
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BVixenX%5D.Lily.Labeau.-.Red.Blazer.Realty.(16.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ella Hughes
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BVixen%5D.Ella.Hughes.-.Tie.Me.Up.Please.Part.2.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lili Parker
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Lili.Parker.-.My.Dear.(14.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Charity Crawford
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRKPrime%5D.Charity.Crawford.-.Right.In.The.Pussy.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nova Cane
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Nova.Cane.(14.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Adreena Winters
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Adreena.Winters.GIO550.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Suzy Rainbow
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKarups%5D.Suzy.Rainbow.-.Special.Massage.(14.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Victoria Gracen
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BFirstTimeAuditions%5D.Victoria.Gracen.-.Sexy.Secrets.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Ana
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BExploitedCollegeGirls%5D.Ana.(15.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Vanessa Decker
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5B21FootArt%5D.Vanessa.Decker.-.Tasty.Feet.(14.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Bella Rose
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRealityKings%5D.Bella.Rose.-.Rose.Love.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Abella Danger
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Abella.Danger.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Loren Minardi
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Loren.Minardi.5on1.SZ1894.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Danna Ray
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.1on1.Danna.Ray.GIO587.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lily Rader
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKinkyFamily%5D.Lily.Rader.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lily
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BJamesDeen%5D.Lily.Fatale.Meets.James.Deen.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Angel Emily
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BJacquieEtMichelTV%5D.Angel.Emily.va.tres.loin.!.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Vittoria Dolce
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHotLegsAndFeet%5D.Vittoria.Dolce.-.Leggy.Anal.Lover.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Daya Knight
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BHardX%5D.Daya.Knight.-.All.Anal.Ebony.Booty.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Moka Mora
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlacksOnBlondes%5D.Moka.Mora.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Larem
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBangCasting%5D.Larem.s.First.Sex.Scene.(06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lovita 
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBang%5D.Lovita.Fate.-.Bang!.Glamkore.(08.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rachel Starr
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BAssMasterpiece%5D.Rachel.Starr.(Remastered.-.06.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Alana Cruise
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTonightsGirlfriend%5D.Alana.Cruise,.Rion.King.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Savan Styles
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSpizoo%5D.Raven.Hart,.Savana.Styles.-.The.Party.Family.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kokohontas
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BRoundandBrown%5D.Kokohontas.-.Twerk.It.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lexi Luna
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNFBusty%5D.Lexi.Luna.-.All.The.Right.Curves.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Raven Bay
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyWifesHotFriend%5D.Raven.Bay.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Natalie Mars
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BIKillItTS%5D.Natalie.Mars.-.POV.Pounding.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Maya Bijou
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrownBunnies%5D.Pretty.Maya.Bijou.All.Tied.Up.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Anna Rose
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BDaneJones%5D.Anna.Rose.-.Beautiful.woman.in.sexy.lingerie.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Emma Hix
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrattySis%5D.Emma.Hix.-.Sisters.Secret.(02.03.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jaye Summers
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BThisGirlSucks%5D.Jaye.Summers.-.Horny.For.Some.Head.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jesica Jaymes & Silvia Saige
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSpizoo%5D.Jessica.Jaymes,.Silvia.Saige.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Isabella Nice
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BShoplyfter%5D.Isabella.Nice.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Linda
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Linda.Sweet.-.His.Hidden.Desire.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Marley Brinx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPassion-HD%5D.Marley.Brinx.-.Orgasmic.Encounter.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Chloe Foster
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMySistersHotFriend%5D.Chloe.Foster.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- August
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMommyBlowsBest%5D.August.Taylor.-.Stop.and.Go.Ho.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Gina Gerson
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BLegalPorno%5D.Petite.babe.Gina.Gerson.FS007.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Jade Nile
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBlackedRaw%5D.Jade.Nile.-.BBC.For.A.Hot.Wife.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Rachel Raxxx
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBigNaturals%5D.Rachel.Raxxx.-.Thick.And.Fine.(21.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Nickey Huntsman
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BMyGirlLovesAnal%5D.Nickey.Huntsman.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lady Dee
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BNubileFilms%5D.Lady.Dee.-.Secret.Desire.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Chloe Scott
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BBrattySis%5D.Chloe.Scott.-.Bible.Study.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Baby Dream
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BUltraFilms%5D.Baby.Dream.-.I.Want.You.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Paisley Rae
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BPOVD%5D.Paisley.Rae.-.Double.Glaze.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Linda Leclair
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BJimSlip%5D.Linda.Leclair.-.Born.For.Porn.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Lexi Foxy
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKarups%5D.Lexi.Foxy.-.The.Accidental.Spy.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kendra Spade
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BKellyMadison%5D.Kendra.Spade.-.Up.My.Ass!.(16.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Kenzie Reeves
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTushy%5D.Kenzie.Reeves.-.Anal.Confession.(31.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Victoria June
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BThisGirlSucks%5D.Victoria.June.-.Luscious.Dick.Sucking.Lips.(31.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Bella Rose
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BTeenFidelity%5D.Bella.Rose.-.Swan.of.Sorrow.Part.2.(31.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Belle Claire
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BSexArt%5D.Belle.Claire.-.Stay.Alone.(31.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Skyla Novea
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BIKnowThatGirl%5D.Skyla.Novea.Fucks.To.Her.Porn.(02.02.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/odqJNJq.png",[$]XXX- Sarai
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/%5BGFRevenge%5D.Sarai.Not.Sorry.(31.01.2018).iptvtalk.avi.mp4/playlist.m3u8
+#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adult
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/cOzqtf8.png",[$]Passion-HD1 
 http://videos.galleries.pornpros.com/galleries.passion-hd.com/htdocs/fb01/fb01_kennedynash2/content/vid01.mp4
@@ -14348,42 +14944,6 @@ http://tube.paperstreetcash.com/9mins/gingerpatch/gingerpatch_pepper_hart_9minut
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_jaye_austin_8minute.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (ALAINA DAWSON)
 http://tube.paperstreetcash.com/8mins/exxxtrasmall/exxxtrasmall_alaina_dawson_8minute.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-1)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/17.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-2)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/31.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-3)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/32.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-4)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/33.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-5)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/57.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-6)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/77.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-7)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/96.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-8)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/101.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-9)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/232.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-10)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1144.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-11)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1436.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-12)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1439.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-13)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1501.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-14)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1533.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-15)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1534.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-16)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1550.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-17)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1573.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/BwmZagt.png",[$]TEAM-SKEET (XXX-18)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1667.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adult4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/cEkKT3t.png",[$]MOM-XXX (KATHY SYBIL)
@@ -14495,58 +15055,6 @@ https://videos.files.wordpress.com/yvfaxLqD/kyler_quinn_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Whf2RIe.png",[$]BBC-PIE (VERONICA VELLA)
 https://videos.files.wordpress.com/8wiJHmeZ/veronicavella_mp4_dvd.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
-https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adult8
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Lg9Mlor.png",[$]SPANK-MONSTER (XXX-1)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1137.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Lg9Mlor.png",[$]SPANK-MONSTER (XXX-2)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1271.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Lg9Mlor.png",[$]SPANK-MONSTER (XXX-3)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1339.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Lg9Mlor.png",[$]SPANK-MONSTER (XXX-4)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1389.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/Lg9Mlor.png",[$]SPANK-MONSTER (XXX-5)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1510.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
-https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adult9
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-1)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/6.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-2)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/13.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-3)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/26.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-4)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/85.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-5)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/95.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-6)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/135.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-7)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/223.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/sHngJso.png",[$]NUBILES-PORN (XXX-8)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1537.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
-https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adult10
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-1)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/211.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-2)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/236.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-3)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1114.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-4)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1201.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-5)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1217.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-6)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1228.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-7)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1239.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-8)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1376.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-9)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1419.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/KBYUHlR.png",[$]PORN-STAR (XXX-10)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1515.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adult11
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3bcPGRi.png",[$]STEP-SIBILINGS (ROSALYN SPHINX)
 https://videos.files.wordpress.com/inT5ROFQ/rosalynsphinx_mp4_dvd.mp4
@@ -14578,8 +15086,6 @@ http://images.nubiles-porn.com/videos/money_for_honey/videos/brattysis_money_for
 http://images.nubiles-porn.com/videos/step_sister_creampie/videos/brattysis_step_sister_creampie_long_1280.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (Jasmine Callipygiah)
 http://images.nubiles-porn.com/videos/take_me/videos/brattysis_take_me_long_1280.mp4
-#EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/XMwJmAD.png",[$]BRATTY SIS (JASSIE SAINT)
-http://146.0.36.11:25461/movie/tch9mgpGd2/mMAwfEWBnk/1090.mp4
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://bit.ly/warningflag",======================
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?adult13
 #EXTINF:-1 group-title="[🔞🎬]ADULT+18[VOD]" tvg-logo="https://i.imgur.com/3ljQ0Zi.png",[$]KINKY-FAMILY (ATHENA FARRIS)
