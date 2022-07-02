@@ -37,8 +37,6 @@ http://195.181.169.152:8080/MACEDONIA/MRT_2/index.m3u8?token=test
 #EXTINF:0 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/KGuUBZR.png",[$]MACEDONIA-TV 2
 http://62.162.79.7:8005/play/s27
 #EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV HD
-http://135.125.6.54/ktv/index.m3u8
-#EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/sL2pFjC.png",[$]KTV 
 http://194.15.225.98:8000/play/a004
 #EXTINF:-1 group-title="[🇦🇱📺]KOMBETARE" tvg-logo="https://i.imgur.com/C1pDVM9.png",[$]RTV 21HD
 http://host.serveri.stream:8080/freemx/free/6?|User-Agent=test963
@@ -941,6 +939,8 @@ http://82.114.87.149:8881/play/a0ce/index.m3u8
 https://tinyurl.com/albanianflag?artm3
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/QNXiMlY.png",[$]KLAN MUSIC
 http://82.114.87.149:8881/play/a07z/index.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/wigZXJd.png",[$]ZICO TV
+http://82.114.87.149:8881/play/a07a/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/okL68bI.png",[$]TURBO CHANNEL
 http://82.114.87.149:8881/play/a03g/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/PJIUlCM.png",[$]TV VALI
@@ -1065,13 +1065,13 @@ http://82.114.87.149:8881/play/a0dc/index.m3u8
 http://82.114.87.149:8881/play/a0dp/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/Vuf1qXX.png",[$]SUPER SPORT 6HD
 http://82.114.87.149:8881/play/a0cs/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/kNbTcjh.png",[$]KUJTESA SPORT 1HD
+#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/2QJTqPu.png",[$]KUJTESA SPORT 1HD
 http://82.114.87.149:8881/play/a0co/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/byXXlhH.png",[$]KUJTESA SPORT 2HD
+#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/0WYzVt9.png",[$]KUJTESA SPORT 2HD
 http://82.114.87.149:8881/play/a0am/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/23yR1C4.png",[$]KUJTESA SPORT 3HD
-http://82.114.87.149:8881/play/a00u/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/8ohycCO.png",[$]KUJTESA SPORT 4HD
+#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/K5rsAsz.png",[$]KUJTESA SPORT 3HD
+http://82.114.87.149:8881/play/a0cq/index.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/bXR4GHN.png",[$]KUJTESA SPORT 4HD
 http://82.114.87.149:8881/play/a0ao/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/wU8cX1J.png",[$]SPORT 1HD
 http://82.114.87.149:8881/play/a0as/index.m3u8
@@ -1086,9 +1086,9 @@ http://82.114.87.149:8881/play/a0c7/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/bMfrMg2.png",[$]SPORT 6HD
 http://82.114.87.149:8881/play/a0bn/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/XcBGo4X.png",[$]ARENA 1 PREMIUM HD
-http://82.114.87.149:8881/play/a0a7/index.m3u8
-#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/RsPXX00.png",[$]ARENA 2 PREMIUM HD
 http://82.114.87.149:8881/play/a0be/index.m3u8
+#EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/RsPXX00.png",[$]ARENA 2 PREMIUM HD
+http://82.114.87.149:8881/play/a0bf/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/9bRSs0k.png",[$]ARENA 3 PREMIUM HD
 http://82.114.87.149:8881/play/a0bg/index.m3u8
 #EXTINF:0 group-title="[🇦🇱📺]ARTMOTION-TV" tvg-logo="https://i.imgur.com/DbJ0uu2.png",[$]ARENA SPORT 4HD
@@ -4904,6 +4904,14 @@ http://193.233.9.49/streams/media/Match_Arena_HD/index.m3u8
 #EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/CiBsvEe.png",[$]MATCH! BOEC HD
 http://193.233.9.49/streams/media/Match_Boec/index.m3u8
 
+#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
+http://fortv.cc:8080/Mario01/Mario01/119410
+#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/1niJEqG.png",[$]BEIN SPORTS 2HD ENGLISH
+http://fortv.cc:8080/Mario01/Mario01/119411
+#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/nrEbBdC.png",[$]BEIN SPORTS 2HD ENGLISH
+http://fortv.cc:8080/Mario01/Mario01/119412
+#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/lJsPHye.png",[$]BEIN SPORTS N HD
+http://fortv.cc:8080/Mario01/Mario01/136569
 #EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/0OpM8TA.png",[$]BEIN SPORTS XTRA HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
 #EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
@@ -4920,14 +4928,6 @@ http://fortv.cc:8080/Mario01/Mario01/55341
 http://fortv.cc:8080/Mario01/Mario01/1806
 #EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/cEqgGWC.png",[$]BEIN SPORTS 7HD
 http://fortv.cc:8080/Mario01/Mario01/55342
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
-http://fortv.cc:8080/Mario01/Mario01/119410
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/1niJEqG.png",[$]BEIN SPORTS 2HD ENGLISH
-http://fortv.cc:8080/Mario01/Mario01/119411
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/nrEbBdC.png",[$]BEIN SPORTS 2HD ENGLISH
-http://fortv.cc:8080/Mario01/Mario01/119412
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/lJsPHye.png",[$]BEIN SPORTS N HD
-http://fortv.cc:8080/Mario01/Mario01/136569
 
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
 http://195.154.242.24:8001/play/a00d
@@ -6076,7 +6076,7 @@ http://85.14.32.15:8801/udp/224.100.1.185:56000
 http://85.14.32.15:8801/udp/224.100.1.136:56000
 #EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/8kfgR8e.png",[$]PINK-OTV
 http://85.14.32.15:8801/udp/224.100.1.152:56000
-#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/lAeUaT6.png",[$]BRAZZERS TV
+#EXTINF:0 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/EdFqowh.png",[$]FANTAZZY TV
 http://85.14.32.15:8801/udp/224.100.1.135:56000 
 #EXTINF:-1 group-title="[⚠️🔞]ADULT CAM[+18]" tvg-logo="https://i.imgur.com/tXg7BBe.png",[$]EROTIC 1HD
 http://194.163.179.246/slovenci/porno/dorcel.m3u8
@@ -6136,7 +6136,7 @@ http://185.236.229.31:9981/play/a03p
 #EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/fEvFLXn.png",[$]PLAYBOY HD
 http://185.236.229.31:9981/play/a02w
 #EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/EY2zuvL.png",[$]BLUE HUSTLER
-http://185.236.229.31:9981/play/a0
+http://185.236.229.31:9981/play/a03o
 #EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/OIxIBoV.png",[$]X DESIRE 
 http://95.107.132.106/out/u/294_1.m3u8
 #EXTINF:0 group-title="[⚠️🔞]ADULT XXX[+18]" tvg-logo="https://i.imgur.com/i7qnqjg.png",[$]X BIZARRE
@@ -13760,173 +13760,6 @@ http://frqj.adrise.tv/e047b0d9-258d-4481-a587-e1c4decf454d/vnkwkw9i/stream.m3u8
 http://frqj.adrise.tv/4c15604f-a1b0-4393-9cb4-019309188696/5f01j86k/stream.m3u8 
 #EXTINF:-1 group-title="[🇬🇧🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavinguk",[$]DARK WEB 
 http://frqj.adrise.tv/3b43500a-52fa-4e44-b452-507d243641e6/cxg3mf3j/stream.m3u8
-
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]A Qualsiasi Prezzo 2012
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6399585.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Alaska 2015
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8425675_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Babel 2006
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7879527_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Cha Cha Cha 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7859396_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Chef 2012
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD_2/6227340_,250,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_7_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Ci Vediamo Domani 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/teche_root/PLAYRAI_TECHE_CINEMA_HD_2/7313338_,250,400,700,1200,1800,2400,3200,5000,.mp4.csmil/index_7_av.m3u8
-EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Escape Plan - Fuga Dall'inferno
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6612927_,800,1800,.mp4.csmil/master.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Gioiellino 2011
-https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/5324898_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Gli Equilibristi 2012
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7549031_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Il Cecchino 2012
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7613767_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Il Padre E Lo Straniero 2010
-https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/3102783_1800.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Il Pasticciere 2012
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5720737_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Il Signore Degli Anelli
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6346340_,800,1800,.mp4.csmil/master.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Incompresa
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7486142_,800,1800,.mp4.csmil/index_1_av.m3u8
-EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]K-pax
-https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/2971625_1800.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]L'estate Addosso 2016
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7828864_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]L'invitato 2007
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6588970_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]L'uomo Nell'ombra 2010
-https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/2843514_1800.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Buca 2014
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6398195_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Cena Di Natale 2016
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8039348_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Foresta Di Ghiaccio 2014
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6357330_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Mafia Uccide Solo D'estate 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8240803_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Musica Del Silenzio 2017 (bocelli)
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7696549_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Pazza Gioia 2016
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7609845_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Spia * A Most Wanted Man 2014
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7812999_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]La Verità Sta In Cielo 2016
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7974363_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Latin Lover 2015
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7633560_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Le Nove Vite Del Natale 2014
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8124147_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Letters To God
-https://2uscreativem3-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/1749950_1800.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]London Boulevard 2010
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8010041_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Machan La Vera Storia Di Una Falsa Squadra
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8024543_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Mammuth 2010
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7343816_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Matrimoni E Altri Disastri 2010
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7614678_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Mister Felicita 2014
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8207930_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Mogliamante 1977
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7327405_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Molière In Bicicletta
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7042075_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Nati Stanchi 2001 (ficarra Picone)
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7499165_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Niente Può Fermarci 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8720827_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Noi 4 2014
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8571161_1800.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Pane E Burlesque 2014
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8462408_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Paolo-borsellino 1parte
-http://vod06.msf.ticdn.it/farmunica/2017/05/60418_15c40129f267d2/15c40129f267d2-20_0.mp4
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Paolo-borsellino 2parte
-http://vod06.msf.ticdn.it/farmunica/2017/05/60417_15c4011d76b89c/15c4011d76b89c-20_0.mp4
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Paris-manhattan 2012
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7425266_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Parker 2013
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7249087_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Phenomena
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7989582_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Premonitions
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8009769_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Presto Fara' Giorno 2014
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7747466_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Presto Farà Giorno 2014
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7747466_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Professore Per Amore
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7559475_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Quando La Notte 2011
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5832288_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Rush 2013 (automobilismo)
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7535794_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Salvo 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7323437_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Sandokan Alla Riscossa
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7140502_,800,1800,.mp4.csmil/master.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Se Chiudo Gli Occhi Non Sono Più Qui 2013
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8126254_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Se Fossi In Te 2001
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7447835_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Sicario 2015
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8004427_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Snitch L'infiltrato 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8039339_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Solitary Man 2010
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7651989_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Song 'e Napule 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7097368_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Source Code 2011
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8261512_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Southpaw * L'ultima Sfida 2015
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7993413_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Stolen (2012)
-https://2uscreativem3-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/3567509_1800.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Tape 407 2012
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6684212_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Tempo Instabile Con Probabili Schiarite 2015
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8125100_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]The Whistleblower 2010
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7648326_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]The Woman In Black 2012
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8057628_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Ti Va Di Pagare? Priceless 2006
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7116417_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Transsiberian
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7357627_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Tutto Può Accadere A Broadway 2014
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8057628_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Ulisse 1954 (revival)
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7902742_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Un Anno Dopo (the Great New Wonderful) 2005
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7067633_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Un Fantastico Via Vai 2013
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8128628_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Un Fidanzato Per Mia Moglie 2014
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5969674_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Una Fragile Armonia 2011
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5835094_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Una Lozione D'amore 2011
-https://b2ushds2-vh.akamaihd.net/i/archive_l/Archive/raicinema/I_film_della_settimana/2849646_1800.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Una Sposa In Affitto 2011
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7975619_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Una Tata Sotto Copertura
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8176445_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Veloce Come Il Vento 2016
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/8277938_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Vendemmia D'amore
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7583933_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Vento Di Primavera 2010
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6482995_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]White Bird In A Blizard 2014
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/6415792.mp4/index_0_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Windtalkers
-https://b2ushds2-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/7552159_,800,1800,.mp4.csmil/index_1_av.m3u8
-#EXTINF:-1 group-title="[🇮🇹🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingit",[$]Workers * Pronti A Tutto 2012
-https://2uscreativem3-vh.akamaihd.net/i/podcastcdn/raicinema/I_film_della_settimana/5934141_,800,1800,.mp4.csmil/index_1_av.m3u8
 
 #EXTINF:-1 group-title="[🇪🇸🎬]FILMA(VOD)" tvg-logo="https://bit.ly/wavingsp",[$]BEIRUT 
 https://n9.cl/5wo5
