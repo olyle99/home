@@ -2868,11 +2868,11 @@ http://loc.ipalfa.org:25461/fatmiri-isp/2019/139
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://bit.ly/cinemaflag",========>>TIBO FILM<<========
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?filma015
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/srcer3T.png",[$]KINO 1HD
-http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/146084
+http://iptvtree.net:8080/live/GenIptvLast/NepW95KRN9RJc9HR/146084.ts
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/nxHEZVF.png",[$]KINO 2HD
-http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/146085
+http://iptvtree.net:8080/live/GenIptvLast/NepW95KRN9RJc9HR/146085.ts
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/eqvcR0h.png",[$]KINO 3HD
-http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/146086
+http://iptvtree.net:8080/live/GenIptvLast/NepW95KRN9RJc9HR/146086.ts
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/fua5iXh.png",[$]CINEMA 1HD
 http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/295552
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA" tvg-logo="https://i.imgur.com/UVnanOX.png",[$]CINEMA 2HD
@@ -3052,11 +3052,17 @@ http://194.163.179.246/slovenci/filmski/foxlife.m3u8
 http://194.163.179.246/slovenci/filmski/foxcrime.m3u8
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/a1MgygQ.png",[$]FOX MOVIES HD
 http://194.163.179.246/slovenci/filmski/foxmovies.m3u8
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/nzGwuyH.png",[$]8 ACTION HD
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/G89jIDt.png",[$]KINO 1HD
+http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/146084
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/G89jIDt.png",[$]KINO 2HD
+http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/146085
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/G89jIDt.png",[$]KINO 3HD
+http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/146086
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/7e0b8QY.png",[$]8 ACTION HD
 http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/263764
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/nzGwuyH.png",[$]8 DRAME HD
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/7e0b8QY.png",[$]8 DRAME HD
 http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/263766
-#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/nzGwuyH.png",[$]8 KOMEDI HD
+#EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/7e0b8QY.png",[$]8 KOMEDI HD
 http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/263767
 #EXTINF:0 group-title="[🇦🇱🎭]FILMA(VIP)" tvg-logo="https://i.imgur.com/TFIVpC3.png",[$]SKY 7HD
 http://iptvtree.net:8080/GenIptvLast/NepW95KRN9RJc9HR/15551
@@ -3152,13 +3158,13 @@ http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/230
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/QOuNjbL.png",[$]OVERSPORT 3HD (VIP)
 http://54.36.63.52:7646/007pannelstream/W5kAqpWbyprp/231
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/2kCMCTw.png",[$]OVERSPORT 1HD 
-http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/290218.ts
+http://iptvtree.net:8080/live/GenIptvLast/NepW95KRN9RJc9HR/290218.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/S8yhwc3.png",[$]OVERSPORT 2HD
-http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/295514.ts
+http://iptvtree.net:8080/live/GenIptvLast/NepW95KRN9RJc9HR/295514.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/Rqz8wbO.png",[$]OVERSPORT 3HD 
-http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/290537.ts
+http://iptvtree.net:8080/live/GenIptvLast/NepW95KRN9RJc9HR/290537.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVERSPORT 4HD 
-http://quality-restream.com:8080/live/i4stream/d78b24fc9a18/290538.ts
+http://iptvtree.net:8080/live/GenIptvLast/NepW95KRN9RJc9HR/290538.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/ngBaHVu.png",[$]OVERSPORT 1HD (test)
 http://cleverside.us:8484/Pop%C2%BD/Pop%C2%BD/678?|User-Agent=2
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/ngBaHVu.png",[$]OVERSPORT 2HD (test)
@@ -5092,63 +5098,30 @@ http://193.233.9.49/streams/media/Match_Arena_HD/index.m3u8
 #EXTINF:-1 group-title="[🗺️⚽]SPORTE MIKSE" tvg-logo="https://i.imgur.com/CiBsvEe.png",[$]MATCH! BOEC HD
 http://193.233.9.49/streams/media/Match_Boec/index.m3u8
 
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
-http://fortv.cc:8080/Mario01/Mario01/119410
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/1niJEqG.png",[$]BEIN SPORTS 2HD ENGLISH
-http://fortv.cc:8080/Mario01/Mario01/119411
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/nrEbBdC.png",[$]BEIN SPORTS 2HD ENGLISH
-http://fortv.cc:8080/Mario01/Mario01/119412
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/lJsPHye.png",[$]BEIN SPORTS N HD
-http://fortv.cc:8080/Mario01/Mario01/136569
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/0OpM8TA.png",[$]BEIN SPORTS XTRA HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://fortv.cc:8080/Mario01/Mario01/55337
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://fortv.cc:8080/Mario01/Mario01/55338
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://fortv.cc:8080/Mario01/Mario01/55339
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://fortv.cc:8080/Mario01/Mario01/55340
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
-http://fortv.cc:8080/Mario01/Mario01/55341
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/iSyOH09.png",[$]BEIN SPORTS 6HD
-http://fortv.cc:8080/Mario01/Mario01/1806
-#EXTINF:0 group-title="[⭐⚽]BEIN SPORTS" tvg-logo="https://i.imgur.com/cEqgGWC.png",[$]BEIN SPORTS 7HD
-http://fortv.cc:8080/Mario01/Mario01/55342
-
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/MK1yfcI.png",[$]BEIN SPORTS 1HD ENGLISH
-http://195.154.242.24:8001/play/a00d
+http://fortv.cc:8080/Mario01/Mario01/119410
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/1niJEqG.png",[$]BEIN SPORTS 2HD ENGLISH
-http://195.154.242.24:8001/play/a00e
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/yZeinDH.png",[$]BEIN SPORTS 1HD FRENCH
-http://195.154.242.24:8001/play/a00f
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/uI77rGT.png",[$]BEIN SPORTS 2HD FRENCH
-http://195.154.242.24:8001/play/a00g
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/kp5nBhr.png",[$]BEIN SPORTS PREMIUM 1HD
-http://195.154.242.24:8001/play/a00a
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/9wX2uYP.png",[$]BEIN SPORTS PREMIUM 2HD
-http://195.154.242.24:8001/play/a00b
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/Mc4etpx.png",[$]BEIN SPORTS PREMIUM 3HD
-http://195.154.242.24:8001/play/a00c
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/8Cdn57v.png",[$]BEIN SPORTS NEWS HD
-http://195.154.242.24:8001/play/a002
-#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/OFce4SD.png",[$]BEIN SPORTS HD
-http://195.154.242.24:8001/play/a003
+http://fortv.cc:8080/Mario01/Mario01/119411
+#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/nrEbBdC.png",[$]BEIN SPORTS 2HD ENGLISH
+http://fortv.cc:8080/Mario01/Mario01/119412
+#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/lJsPHye.png",[$]BEIN SPORTS N HD
+http://fortv.cc:8080/Mario01/Mario01/136569
+#EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/0OpM8TA.png",[$]BEIN SPORTS XTRA HD
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102livestitch/2977158/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=false&paln=&includeExtendedEvents=false&architecture=&deviceId=b702181a-c1d6-4ee2-9481-753f471e2ce7&deviceVersion=66.0.3515.44&appVersion=2.9.3-b879e400d5df7a969d4bff8863fe5cb02c7120e6&deviceType=web&deviceMake=Opera&sid=855d6801-c912-428d-b620-ede4dd0c3b15&advertisingId=&deviceLat=40.8364&deviceLon=-74.1403&deviceDNT=0&deviceModel=Opera&userId=&appName=web
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
-http://195.154.242.24:8001/play/a001
+http://fortv.cc:8080/Mario01/Mario01/55337
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/8sQgEwR.png",[$]BEIN SPORTS 2HD
-http://195.154.242.24:8001/play/a004
+http://fortv.cc:8080/Mario01/Mario01/55338
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
-http://195.154.242.24:8001/play/a005
+http://fortv.cc:8080/Mario01/Mario01/55339
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/eRS2wJh.png",[$]BEIN SPORTS 4HD
-http://195.154.242.24:8001/play/a006
+http://fortv.cc:8080/Mario01/Mario01/55340
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/SOrnXGC.png",[$]BEIN SPORTS 5HD
-http://195.154.242.24:8001/play/a007
+http://fortv.cc:8080/Mario01/Mario01/55341
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/iSyOH09.png",[$]BEIN SPORTS 6HD
-http://195.154.242.24:8001/play/a008
+http://fortv.cc:8080/Mario01/Mario01/1806
 #EXTINF:0 group-title="[🇸🇦⚽]SPORTE ARABE" tvg-logo="https://i.imgur.com/cEqgGWC.png",[$]BEIN SPORTS 7HD
-http://195.154.242.24:8001/play/a009
+http://fortv.cc:8080/Mario01/Mario01/55342
 
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/CWiXzwX.png",[$]BEIN SPORTS 1HD
 http://93.152.174.144:4000/play/bein1fr/index.m3u8?
