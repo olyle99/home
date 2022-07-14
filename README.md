@@ -4748,11 +4748,11 @@ http://93.152.174.144:4000/play/bein2fr/index.m3u8
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/RzQQ0MG.png",[$]BEIN SPORTS 3HD
 http://93.152.174.144:4000/play/bein3fr/index.m3u8?
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/NcX3Iaj.png",[$]CANAL+SPORT HD
-http://srv.vhls.ru.com/cdn/premium122/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium122/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/ARQf9G9.png",[$]RMC SPORT 1HD
-http://srv.vhls.ru.com/cdn/premium119/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium119/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/ohEbGsH.png",[$]RMC SPORT 2HD
-http://srv.vhls.ru.com/cdn/premium120/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium120/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
 http://212.102.60.80/Eurosport1/index.m3u8
 #EXTINF:0 group-title="[🇨🇵⚽]SPORTE FRANCEZE" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
@@ -4829,62 +4829,62 @@ http://185.204.32.4:9981/stream/channelid/577840136
 http://212.102.60.80/Eurosport2/index.m3u8
 
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/amysWH6.png",[$]SUPERSPORT FOOTBALL HD
-http://srv.vhls.ru.com/cdn/premium56/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium56/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/kgUZ4dE.png",[$]SUPERSPORT LA LIGA HD
-http://srv.vhls.ru.com/cdn/premium415/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium415/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/h0wcGa1.png",[$]SUPERSPORT PREMIER LEAGUE HD
-http://srv.vhls.ru.com/cdn/premium414/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium414/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/BBXywfS.png",[$]SUPERSPORT PSL HD
-http://srv.vhls.ru.com/cdn/premium413/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium413/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/lbAssqP.png",[$]SUPERSPORT ACTION HD
-http://srv.vhls.ru.com/cdn/premium420/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium420/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/T6PdUba.png",[$]SUPERSPORT MOTORSPORT HD
-http://srv.vhls.ru.com/cdn/premium424/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium424/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/S4EKUQl.png",[$]SUPERSPORT TENNIS HD
-http://srv.vhls.ru.com/cdn/premium423/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium423/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/qQL0We2.png",[$]SUPERSPORT VARIETY 1HD
-http://srv.vhls.ru.com/cdn/premium416/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium416/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/ZLDBuK7.png",[$]SUPERSPORT VARIETY 2HD
-http://srv.vhls.ru.com/cdn/premium417/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium417/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/JQCv8Uw.png",[$]SUPERSPORT VARIETY 3HD
-http://srv.vhls.ru.com/cdn/premium418/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium418/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/qXI9bfO.png",[$]SUPERSPORT VARIETY 4HD
-http://srv.vhls.ru.com/cdn/premium419/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium419/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/86O3ape.png",[$]BEIN SPORTS 1ENGLISH HD
-http://srv.vhls.ru.com/cdn/premium61/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium61/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/PfB4LgE.png",[$]BEIN SPORTS 2ENGLISH HD
-http://srv.vhls.ru.com/cdn/premium90/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium90/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/mbpAGmz.png",[$]BEIN SPORTS 3ENGLISH HD
-http://srv.vhls.ru.com/cdn/premium46/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium46/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/y3WvACj.png",[$]SKY SPORTS NEWS 
-http://srv.vhls.ru.com/cdn/premium38/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium38/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/7e9LPgK.png",[$]SKY SPORTS PREMIER LEAGUE HD
-http://srv.vhls.ru.com/cdn/premium130/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium130/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/ugA9Khv.png",[$]SKY SPORTS F1 HD
-http://srv.vhls.ru.com/cdn/premium60/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium60/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/ZrGcPbY.png",[$]BT SPORT ESPN HD
-http://srv.vhls.ru.com/cdn/premium34/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium34/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/XuD8RFx.png",[$]BT SPORT 1HD
-http://srv.vhls.ru.com/cdn/premium31/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium31/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/fQZHfGJ.png",[$]BT SPORT 2HD
-http://srv.vhls.ru.com/cdn/premium32/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium32/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/5Mh8kGH.png",[$]BT SPORT 3HD
-http://srv.vhls.ru.com/cdn/premium33/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium33/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
-http://srv.vhls.ru.com/cdn/premium41/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium41/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇬🇧⚽]SPORTE ANGLEZE 2" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
-http://srv.vhls.ru.com/cdn/premium42/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium42/playlist.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:0 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/fqSmiZr.png",[$]BEIN SPORTS HABER HD
 http://5.182.229.90:8080/6939/index.m3u8?
 #EXTINF:0 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/q9G7TJp.png",[$]BEIN SPORTS 1HD
-http://srv.vhls.ru.com/cdn/premium62/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium62/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/3UOML9w.png",[$]BEIN SPORTS 2HD
-http://srv.vhls.ru.com/cdn/premium63/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium63/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/8UavrM5.png",[$]BEIN SPORTS 3HD
-http://srv.vhls.ru.com/cdn/premium64/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium64/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/ra3FjtO.png",[$]BEIN SPORTS 4HD
-http://srv.vhls.ru.com/cdn/premium67/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium67/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/QmOAM68.png",[$]CBC SPORT HD
 http://mfe.cliptv.az/dash/CBC_Sport_HD.ism/playlist.mpd?checkedby
 #EXTINF:-1 group-title="[🇹🇷⚽]SPORTE TURKE" tvg-logo="https://i.imgur.com/cUs7TFd.png",[$]IDMAN TV HD
@@ -4936,35 +4936,35 @@ http://5.182.229.90:8080/6838/index.m3u8
 http://5.182.229.90:8080/6556/index.m3u8
 
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/EFfQMgD.png",[$]ELEVEN SPORTS 1HD
-http://srv.vhls.ru.com/cdn/premium71/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium71/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/Xo4yU6s.png",[$]ELEVEN SPORTS 2HD
-http://srv.vhls.ru.com/cdn/premium72/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium72/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/di11stm.png",[$]ELEVEN SPORTS 3HD
-http://srv.vhls.ru.com/cdn/premium428/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium428/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/di11stm.png",[$]ELEVEN SPORTS 3FHD
 http://45.92.69.203:1983/play/a0oz
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/2mWZXVy.png",[$]ELEVEN SPORTS 4HD 
 http://45.92.69.203:1983/play/a0lk
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/kTOXOZQ.png",[$]CANAL+SPORT HD
-http://srv.vhls.ru.com/cdn/premium48/playlist.m3u8|Referer=https://player.licenses4.me/ 
+http://srv.vhls.ru.com/cdn/premium48/playlist.m3u8?|Referer=https://player.licenses4.me/ 
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/HuBz6fp.png",[$]CANAL+SPORT 2HD
-http://srv.vhls.ru.com/cdn/premium73/chunks.m3u8/|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium73/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/iNong0i.png",[$]CANAL+SPORT 3HD
 http://185.236.229.31:9981/play/a02s
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/aN3qeWp.png",[$]CANAL+SPORT 4HD
 http://185.236.229.31:9981/play/a026
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/ubhgOKc.png",[$]CANAL+SPORT 5HD
-http://srv.vhls.ru.com/cdn/premium75/chunks.m3u8/|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium75/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/5R4Zsyl.png",[$]POLSAT SPORT HD
-http://srv.vhls.ru.com/cdn/premium47/chunks.m3u8/|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium47/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/CFYXiP2.png",[$]POLSAT SPORT EXTRA HD
-http://srv.vhls.ru.com/cdn/premium50/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium50/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/ANhfOFQ.png",[$]POLSAT SPORT NEWS HD
-http://srv.vhls.ru.com/cdn/premium129/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium129/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/IOlT3HL.png",[$]POLSAT SPORT PREMIUM 1HD
 http://local.liveline.nu:2085/play/a06opolsatpram/index.m3u8
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/vPMKSMy.png",[$]TVP SPORT HD
-http://srv.vhls.ru.com/cdn/premium128/chunks.m3u8/|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium128/playlist.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE 2" tvg-logo="https://i.imgur.com/EFfQMgD.png",[$]ELEVEN SPORTS 1HD 
 http://internetowa.tv/?c=hlsPlay&channel=eleven&token=303b13db2f30c9bb352ac3e52b75a4d8fa9ac416729649820e4e690a4bb066aae441ea6d548b35d64b111300bbce48bbc020d670483d2392e0dc77437d413505|User-Agent=stream
@@ -5014,15 +5014,15 @@ http://internetowa.tv/?c=hlsPlay&channel=eurosport&token=303b13db2f30c9bb352ac3e
 http://internetowa.tv/?c=hlsPlay&channel=eurosport2&token=303b13db2f30c9bb352ac3e52b75a4d8fa9ac416729649820e4e690a4bb066aae441ea6d548b35d64b111300bbce48bbc020d670483d2392e0dc77437d413505|User-Agent=stream 
 
 #EXTINF:0 group-title="[🇪🇸⚽]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/rQaB6qO.png",[$]DAZN 1HD
-http://srv.vhls.ru.com/cdn/premium445/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium445/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇪🇸⚽]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/IVOKqgP.png",[$]DAZN 2HD
-http://srv.vhls.ru.com/cdn/premium446/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium446/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇪🇸⚽]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/SMVqNhC.png",[$]DAZN 3HD
-http://srv.vhls.ru.com/cdn/premium447/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium447/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇪🇸⚽]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/jGIDL7v.png",[$]DAZN 4HD
-http://srv.vhls.ru.com/cdn/premium448/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium448/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇪🇸⚽]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/yyYOC3E.png",[$]M.CAMPEONES HD
-http://srv.vhls.ru.com/cdn/premium435/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium435/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇪🇸⚽]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/yyYOC3E.png",[$]M.CAMPEONES 1HD
 http://global-tv.live:8080/play/RvmyF2RpTtjNujLDjfouJH9gUYooJbVMF7v-Il8_bps/ts
 #EXTINF:0 group-title="[🇪🇸⚽]SPORTE SPANJOLLE" tvg-logo="https://i.imgur.com/MzLOn7u.png",[$]NBA TV
@@ -5127,25 +5127,25 @@ http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 http://109.105.205.250:8081/live/EUROSPORT2/playlist.m3u8
 
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/9X7xWWn.png",[$]ARENA 1PREMIUM HD
-http://srv.vhls.ru.com/cdn/premium134/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium134/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/7m0tmP0.png",[$]ARENA 2PREMIUM HD
-http://srv.vhls.ru.com/cdn/premium135/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium135/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/RlrlEmF.png",[$]ARENA 3 PREMIUM HD
-http://srv.vhls.ru.com/cdn/premium431/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium431/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/q3FMKqW.png",[$]ARENA SPORT 1HD
-http://srv.vhls.ru.com/cdn/premium429/playlist.m3u8|Referer=https://player.licenses4.me/ 
+http://srv.vhls.ru.com/cdn/premium429/playlist.m3u8?|Referer=https://player.licenses4.me/ 
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/DXFwDDG.png",[$]ARENA SPORT 2HD
-http://srv.vhls.ru.com/cdn/premium430/playlist.m3u8|Referer=https://player.licenses4.me/ 
+http://srv.vhls.ru.com/cdn/premium430/playlist.m3u8?|Referer=https://player.licenses4.me/ 
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/DWDDmXQ.png",[$]ARENA SPORT 3HD
-http://srv.vhls.ru.com/cdn/premium434/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium434/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/zfcmVWf.png",[$]SPORT KLUB 1HD
-http://srv.vhls.ru.com/cdn/premium101/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium101/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/QOMmZUM.png",[$]SPORT KLUB 2HD
-http://srv.vhls.ru.com/cdn/premium102/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium102/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/ivaJ42m.png",[$]SPORT KLUB 3HD
-http://srv.vhls.ru.com/cdn/premium103/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium103/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇸⚽]SPORTE SERBE" tvg-logo="https://i.imgur.com/LMaEtNf.png",[$]SPORT KLUB 4HD
-http://srv.vhls.ru.com/cdn/premium104/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium104/playlist.m3u8?|Referer=https://player.licenses4.me/
 
 #EXTINF:0 group-title="[🇵🇹⚽]SPORTE PORTUGEZE" tvg-logo="https://i.imgur.com/nexCMwt.png",[$]SPORT TV +HD 
 http://62.28.71.186:45678/http/192.168.150.137:7151/sporttvmais
@@ -5344,29 +5344,29 @@ http://79.124.72.70:8000/play/a00t
 http://79.124.72.70:8000/play/a016
 
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/8hxoyEN.png",[$]DIGI SPORT 1HD
-http://srv.vhls.ru.com/cdn/premium400/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium400/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/6KWjZ7V.png",[$]DIGI SPORT 2HD
-http://srv.vhls.ru.com/cdn/premium401/playlist.m3u8|Referer=https://player.licenses4.me/ 
+http://srv.vhls.ru.com/cdn/premium401/playlist.m3u8?|Referer=https://player.licenses4.me/ 
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/Zn4Qut5.png",[$]DIGI SPORT 3HD
-http://srv.vhls.ru.com/cdn/premium402/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium402/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/dHN4Jls.png",[$]DIGI SPORT 4HD
-http://srv.vhls.ru.com/cdn/premium403/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium403/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/sJWixGp.png",[$]ORANGE SPORT 1HD
-http://srv.vhls.ru.com/cdn/premium439/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium439/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/AKjlDte.png",[$]ORANGE SPORT 2HD
-http://srv.vhls.ru.com/cdn/premium440/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium440/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/jlcsDHJ.png",[$]ORANGE SPORT 3HD
-http://srv.vhls.ru.com/cdn/premium441/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium441/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/o73Prbr.png",[$]ORANGE SPORT 4HD
-http://srv.vhls.ru.com/cdn/premium442/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium442/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/LlhbF8j.png",[$]PRIMA SPORT 1HD
-http://srv.vhls.ru.com/cdn/eplayerprimasport1/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/eplayerprimasport1/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/Q1pZvcj.png",[$]PRIMA SPORT 2HD
-http://srv.vhls.ru.com/cdn/eplayerprimasport2/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/eplayerprimasport2/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/Iar0Ia3.png",[$]PRIMA SPORT 3HD
-http://srv.vhls.ru.com/cdn/eplayerprimasport3/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/eplayerprimasport3/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/f1TVh7U.png",[$]PRIMA SPORT 4HD
-http://srv.vhls.ru.com/cdn/eplayerprimasport4/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/eplayerprimasport4/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/ihzdHFl.png",[$]EUROSPORT 1HD
 http://109.105.205.250:8081/live/EUROSPORT1/playlist.m3u8
 #EXTINF:0 group-title="[🇷🇴⚽]SPORTE ROMUNE" tvg-logo="https://i.imgur.com/JAk7cq0.png",[$]EUROSPORT 2HD
@@ -5509,19 +5509,19 @@ http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Str
 https://backup.superstreaming.inaria.me/BikeSmartMobilityDTT/index.m3u8
 
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/ZMWfG5X.png",[$]DAZN 1HD
-http://srv.vhls.ru.com/cdn/premium426/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium426/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/K8dskWX.png",[$]DAZN 2HD
-http://srv.vhls.ru.com/cdn/premium427/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium427/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/uUqLqJP.png",[$]ZIGGO VOETBAL HD
-http://srv.vhls.ru.com/cdn/premium398/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium398/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/SIO2Fyv.png",[$]ZIGGO RACING HD
-http://srv.vhls.ru.com/cdn/premium396/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium396/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/T2vi0ZW.png",[$]ZIGGO DOCU HD
-http://srv.vhls.ru.com/cdn/premium383/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium383/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/6lPzC6Y.png",[$]ESPN HD
 http://178.251.29.83:7242/play/a01e
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/kxaud6p.png",[$]ESPN 2HD
-http://srv.vhls.ru.com/cdn/premium386/playlist.m3u8|Referer=https://player.licenses4.me/
+http://srv.vhls.ru.com/cdn/premium386/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/XR7EygZ.png",[$]ESPN 3HD
 http://212.18.115.194:3531/play/a04c/index.m3u8?
 #EXTINF:0 group-title="[🇳🇱⚽]SPORTE HOLLANDEZE" tvg-logo="https://i.imgur.com/vTMBuS8.png",[$]ESPN 4HD
