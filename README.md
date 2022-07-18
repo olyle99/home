@@ -5788,7 +5788,9 @@ http://srv.vhls.ru.com/cdn/premium50/playlist.m3u8?|Referer=https://player.licen
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/ANhfOFQ.png",[$]POLSAT SPORT NEWS HD
 http://srv.vhls.ru.com/cdn/premium129/playlist.m3u8?|Referer=https://player.licenses4.me/
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/IOlT3HL.png",[$]POLSAT SPORT PREMIUM 1HD
-http://local.liveline.nu:2085/play/a06opolsatpram/index.m3u8
+http://103.125.191.32:8081/polsat_premium_1
+#EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/0tJsAX8.png",[$]POLSAT SPORT PREMIUM 2HD
+http://103.125.191.32:8081/polsat_premium_2
 #EXTINF:0 group-title="[🇮🇩⚽]SPORTE POLAKE" tvg-logo="https://i.imgur.com/vPMKSMy.png",[$]TVP SPORT HD
 http://srv.vhls.ru.com/cdn/premium128/playlist.m3u8?|Referer=https://player.licenses4.me/
 
