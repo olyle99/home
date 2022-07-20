@@ -3374,13 +3374,13 @@ http://iptvtree.net:8080/live/linuxapp2021/M3jc66jD9UCnpK9v/295514.ts
 http://iptvtree.net:8080/live/linuxapp2021/M3jc66jD9UCnpK9v/290537.ts
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/RLXV4U7.png",[$]OVERSPORT 4HD 
 http://iptvtree.net:8080/live/linuxapp2021/M3jc66jD9UCnpK9v/290538.ts
-#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 1HD test
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 1HD test
 http://cleverside.us:8484/PopPlayer0/PopPlayer0/678?|User-Agent=2
-#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 2HD test
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 2HD test
 http://cleverside.us:8484/PopPlayer0/PopPlayer0/679?|User-Agent=2
-#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 3HD test
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 3HD test
 http://cleverside.us:8484/PopPlayer0/PopPlayer0/680?|User-Agent=2
-#EXTINF:0 group-title="[🇦🇱📺]MAK-TV" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 4HD test
+#EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/7cWrPSj.png",[$]OVERSPORT 4HD test
 http://cleverside.us:8484/PopPlayer0/PopPlayer0/681?|User-Agent=2
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://tinyurl.com/topitv",========>>EUROSPORT<<========
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?sport4
@@ -3419,13 +3419,13 @@ http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/79287
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/d1VuH6w.png",[$]SUPER SPORT 5HD
 http://94.130.129.118:8080/Instahub/bxL8msMEF2V3/79288
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/6DTJsLa.png",[$]SS-1HD
-http://cleverside.us:8484/PopPlayer0/PopPlayer/152?|User-Agent=2
+http://cleverside.us:8484/PopPlayer0/PopPlayer0/152?|User-Agent=2
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/ZchuZJY.png",[$]SS-2HD 
-http://cleverside.us:8484/PopPlayer0/PopPlayer/154?|User-Agent=2
+http://cleverside.us:8484/PopPlayer0/PopPlayer0/154?|User-Agent=2
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/C68PCeg.png",[$]SS-3HD 
-http://cleverside.us:8484/PopPlayer0/PopPlayer/156?|User-Agent=2
+http://cleverside.us:8484/PopPlayer0/PopPlayer0/156?|User-Agent=2
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/swrVKxa.png",[$]SS-4HD 
-http://cleverside.us:8484/PopPlayer0/PopPlayer/158?|User-Agent=2
+http://cleverside.us:8484/PopPlayer0/PopPlayer0/158?|User-Agent=2
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://bit.ly/ballflag",========>>TRING SPORT<<========
 https://videos.files.wordpress.com/f0Rs3Lxn/video_20220526000105773_by_videoshow.mp4?sport6
 #EXTINF:0 group-title="[🇦🇱⚽]SPORTE" tvg-logo="https://i.imgur.com/XEz5qYa.png",[$]TRING SPORT NEWS HD (VIP)
